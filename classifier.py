@@ -3,9 +3,9 @@ import graphlab as gl
 from graphlab.toolkits.feature_engineering import TFIDF
 
 # put in the path to the kaggle data
-PATH_TO_JSON = "path/to/data/from/process_html.py"
+PATH_TO_JSON = "new/"
 PATH_TO_TRAIN_LABELS = "train/train.csv"
-PATH_TO_TEST_LABELS = "path/to/data/sampleSubmission.csv"
+PATH_TO_TEST_LABELS = "sampleSubmission.csv"
 
 # a simple method to create some basic features on an SFrame
 
