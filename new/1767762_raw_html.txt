@@ -1,0 +1,1590 @@
+<!DOCTYPE html>
+<html xmlns:fb="http://ogp.me/ns/fb#">
+ <head>
+  <title>
+   Resource Center - Career, Entry Level Jobs, Internship and more - JOBBLY CO.
+  </title>
+  <meta content="We feature advice on career, entry level jobs, internship and more. Share with your friends, discuss, engage!" name="description"/>
+  <meta content="Career, Entry Level Jobs, Internship" name="keywords"/>
+  <meta content="JOBBLY CO." property="og:site_name"/>
+  <meta content="29 Extremely Successful People throughout History who Failed at First" property="og:title"/>
+  <meta content="When you're just starting out as an independent adult, getting a job and seeking the direction of your life, it's easy to feel afraid of failure. Maybe it feels like everyone around you is..." property="og:description"/>
+  <meta content="http://static.addtoany.com/buttons/share_save_171_16.png" property="og:image"/>
+  <meta content="http://www.jobblyco.com/uploads/2/6/8/5/26851851/1706495_orig.jpg" property="og:image"/>
+  <meta content="http://www.jobblyco.com/uploads/2/6/8/5/26851851/6154525_orig.jpg" property="og:image"/>
+  <meta content="http://www.jobblyco.com/uploads/2/6/8/5/26851851/1028746.jpg?557" property="og:image"/>
+  <meta content="http://www.jobblyco.com/uploads/2/6/8/5/26851851/2577753_orig.png" property="og:image"/>
+  <meta content="http://www.jobblyco.com/uploads/2/6/8/5/26851851/6698997_orig.jpg" property="og:image"/>
+  <meta content="http://www.jobblyco.com/uploads/2/6/8/5/26851851/5577235_orig.jpg" property="og:image"/>
+  <meta content="http://www.jobblyco.com/uploads/2/6/8/5/26851851/7186035.jpg?528" property="og:image"/>
+  <meta content="http://www.jobblyco.com/uploads/2/6/8/5/26851851/5211606_orig.png" property="og:image"/>
+  <meta content="http://www.jobblyco.com/uploads/2/6/8/5/26851851/775357_orig.jpg" property="og:image"/>
+  <meta content="http://www.jobblyco.com/3/post/2014/08/29-extremely-successful-people-throughout-history-who-failed-at-first.html" property="og:url"/>
+  <meta content="no-cache" http-equiv="cache-control"/>
+  <meta content="text/html; charset=utf-8" http-equiv="Content-Type"/>
+  <meta content="j0ghtMp1lY-fnKeZ8R2s82I7mGC6RWTLZaP_JSUnF88" name="google-site-verification"/>
+  <link href="//cdn2.editmysite.com/css/sites.css?buildTime=1430515501" rel="stylesheet" type="text/css"/>
+  <link href="//cdn1.editmysite.com/editor/libraries/fancybox/fancybox.css?1410477053" rel="stylesheet" type="text/css"/>
+  <link href="/files/main_style.css?1410534524" rel="stylesheet" title="wsite-theme-css" type="text/css"/>
+  <link href="//fonts.googleapis.com/css?family=Source+Sans+Pro:400,300,300italic,200,200italic,700,400italic,700italic&amp;subset=latin,latin-ext" rel="stylesheet" type="text/css"/>
+  <style type="text/css">
+   .wsite-elements.wsite-not-footer div.paragraph, .wsite-elements.wsite-not-footer p, .wsite-elements.wsite-not-footer .product-block .product-title, .wsite-elements.wsite-not-footer .product-description, .wsite-elements.wsite-not-footer .wsite-form-field label, .wsite-elements.wsite-not-footer .wsite-form-field label, #wsite-content div.paragraph, #wsite-content p, #wsite-content .product-block .product-title, #wsite-content .product-description, #wsite-content .wsite-form-field label, #wsite-content .wsite-form-field label, .blog-sidebar div.paragraph, .blog-sidebar p, .blog-sidebar .wsite-form-field label, .blog-sidebar .wsite-form-field label {}
+#wsite-content div.paragraph, #wsite-content p, #wsite-content .product-block .product-title, #wsite-content .product-description, #wsite-content .wsite-form-field label, #wsite-content .wsite-form-field label, .blog-sidebar div.paragraph, .blog-sidebar p, .blog-sidebar .wsite-form-field label, .blog-sidebar .wsite-form-field label {}
+.wsite-elements.wsite-footer div.paragraph, .wsite-elements.wsite-footer p, .wsite-elements.wsite-footer .product-block .product-title, .wsite-elements.wsite-footer .product-description, .wsite-elements.wsite-footer .wsite-form-field label, .wsite-elements.wsite-footer .wsite-form-field label{}
+.wsite-elements.wsite-not-footer h2, .wsite-elements.wsite-not-footer .product-long .product-title, .wsite-elements.wsite-not-footer .product-large .product-title, .wsite-elements.wsite-not-footer .product-small .product-title, #wsite-content h2, #wsite-content .product-long .product-title, #wsite-content .product-large .product-title, #wsite-content .product-small .product-title, .blog-sidebar h2 {}
+#wsite-content h2, #wsite-content .product-long .product-title, #wsite-content .product-large .product-title, #wsite-content .product-small .product-title, .blog-sidebar h2 {}
+.wsite-elements.wsite-footer h2, .wsite-elements.wsite-footer .product-long .product-title, .wsite-elements.wsite-footer .product-large .product-title, .wsite-elements.wsite-footer .product-small .product-title{}
+#wsite-title {}
+.wsite-menu-default a {}
+.wsite-menu a {}
+.wsite-image div, .wsite-caption {}
+.galleryCaptionInnerText {}
+.fancybox-title {}
+.wslide-caption-text {}
+.wsite-phone {}
+.wsite-headline {}
+.wsite-headline-paragraph {}
+.wsite-button-inner {}
+.wsite-not-footer blockquote, #wsite-com-product-tab blockquote {}
+.wsite-footer blockquote {}
+.blog-header h2 a {}
+#wsite-content h2.wsite-product-title {}
+.wsite-product .wsite-product-price a {}
+  </style>
+  <style>
+   .wsite-background {background-image: url('//cdn2.editmysite.com/images/editor/theme-background/stock/Device.jpg') !important;background-repeat: no-repeat !important;background-position: 50% 50% !important;background-size: cover !important;background-color: transparent !important;background: inherit;}
+body.wsite-background {background-attachment: fixed !important;}
+  </style>
+  <script>
+   &lt;!--
+var STATIC_BASE = '//cdn1.editmysite.com/';
+var STYLE_PREFIX = 'wsite';
+//--&gt;
+  </script>
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.2/jquery.min.js">
+  </script>
+  <script src="//cdn2.editmysite.com/js/site/main.js?buildTime=1430515501">
+  </script>
+  <script type="text/javascript">
+   _W.configDomain = "www.weebly.com";
+  </script>
+  <script>
+   _W.relinquish &amp;&amp; _W.relinquish()
+  </script>
+  <script type="text/javascript">
+   &lt;!--
+	
+	var DISABLE_NAV_MORE = 1;
+	(function(jQuery){
+		function initFlyouts(){
+			initPublishedFlyoutMenus(
+				[{"id":"688398978532844976","title":"Jobbly Co","url":"index.html","target":""},{"id":"209215194296575476","title":"Resource Center ","url":"resource-center.html","target":""},{"id":"794346610428247875","title":"Job Board","url":"http:\/\/jobblyco.jobamatic.com\/a\/jobs\/find-jobs","target":"_blank"}],
+				"209215194296575476",
+				"&lt;li class=\"wsite-menu-item-wrap\"&gt;&lt;a href=\"#\" data-membership-required=\"\" class=\"wsite-menu-item\"&gt;{{title}}&lt;\/a&gt;&lt;\/li&gt;",
+				'active',
+				false,
+				{"site\/menu\/submenu-main":"&lt;div class=\"wsite-menu-wrap\" style=\"display:none\"&gt;{{! Designer note: \"wsite-menu-wrap\" required on submenu wrapper }}\n\t&lt;ul class=\"wsite-menu\"&gt;{{! Designer note: \"wsite-menu\" required on submenu element }}\n\t\t{{#children}}{{&gt; site\/menu\/submenu-item}}{{\/children}}\n\t&lt;\/ul&gt;\n&lt;\/div&gt;\n","site\/menu\/submenu-item":"&lt;li{{#id}} id=\"{{id}}\"{{\/id}} class=\"wsite-menu-subitem-wrap{{#current_page}} wsite-nav-current{{\/current_page}}\"&gt;{{! Designer note: id required &amp; \"wsite-menu-subitem-wrap\" required on the item wrap }}\n\t&lt;a href=\"{{itemlink}}\"{{#target}} target=\"{{target}}\"{{\/target}} class=\"wsite-menu-subitem\"&gt;{{! Designer note: \"wsite-menu-subitem\" required on the item link }}\n\t\t&lt;span class=\"wsite-menu-title\"&gt;\n\t\t\t{{{itemtitle}}}\n\t\t&lt;\/span&gt;{{#has_children}}&lt;span class=\"wsite-menu-arrow\"&gt;&gt;&lt;\/span&gt;{{\/has_children}}\n\t&lt;\/a&gt;\n\t{{#has_children}}{{&gt; site\/menu\/submenu-main}}{{\/has_children}}\n&lt;\/li&gt;\n","site\/menu\/main":"&lt;ul class=\"wsite-menu-default\"&gt;{{&gt; site\/menu\/main-without-wrap}}&lt;\/ul&gt;{{! Designer note: \"wsite-menu-default\" required on menu element }}\n","site\/menu\/main-without-wrap":"{{#links}}{{!\n}}{{#current_page}}{{&gt; site\/menu\/item-current}}{{\/current_page}}{{!\n}}{{^current_page}}{{&gt; site\/menu\/item}}{{\/current_page}}{{!\n}}{{\/links}}\n","site\/menu\/item-current":"&lt;li{{#id}} id=\"{{id}}\"{{\/id}} class=\"wsite-menu-item-wrap\"&gt;{{! Designer note: id required &amp; \"wsite-menu-item-wrap\" required on the item wrapper }}\n\t&lt;a href=\"{{itemlink}}\"{{#target}} target=\"{{target}}\"{{\/target}} class=\"wsite-menu-item\"&gt;{{! Designer note: \"wsite-menu-item\" required on the item link }}\n\t\t{{{itemtitle}}}\n\t&lt;\/a&gt;\n\t{{#has_children}}{{&gt; site\/menu\/submenu-main}}{{\/has_children}}\n&lt;\/li&gt;\n","site\/menu\/item":"&lt;li{{#id}} id=\"{{id}}\"{{\/id}} class=\"wsite-menu-item-wrap\"&gt;{{! Designer note: id required &amp; \"wsite-menu-item-wrap\" required on the item wrapper }}\n\t&lt;a href=\"{{itemlink}}\" data-membership-required=\"{{membership-required}}\"{{#target}} target=\"{{target}}\"{{\/target}} class=\"wsite-menu-item\"&gt;{{! Designer note: \"wsite-menu-item\" required on the item link }}\n\t\t{{{itemtitle}}}\n\t&lt;\/a&gt;\n\t{{#has_children}}{{&gt; site\/menu\/submenu-main}}{{\/has_children}}\n&lt;\/li&gt;\n"}
+			)
+		}
+		if (jQuery) {
+			jQuery(document).ready(function() { jQuery(initFlyouts); });
+		}else{
+			if (Prototype.Browser.IE) window.onload = initFlyouts;
+			else document.observe('dom:loaded', initFlyouts);
+		}
+	})(window._W &amp;&amp; _W.jQuery)
+//--&gt;
+  </script>
+ </head>
+ <body class="tall-header-page wsite-theme-light wsite-page-resource-center wsite-blog-post">
+  <div id="nav-wrap">
+   <div class="container">
+    <table id="header">
+     <tr>
+      <td id="logo">
+       <span class="wsite-logo">
+        <a href="">
+         <span id="wsite-title">
+          JOBBLY CO.
+         </span>
+        </a>
+       </span>
+      </td>
+      <td>
+       <ul class="wsite-menu-default">
+        <li class="wsite-menu-item-wrap" id="pg688398978532844976">
+         <a class="wsite-menu-item" data-membership-required="" href="/">
+          Jobbly Co
+         </a>
+        </li>
+        <li class="wsite-menu-item-wrap" id="active">
+         <a class="wsite-menu-item" href="/resource-center.html">
+          Resource Center
+         </a>
+        </li>
+        <li class="wsite-menu-item-wrap" id="pg794346610428247875">
+         <a class="wsite-menu-item" data-membership-required="" href="http://jobblyco.jobamatic.com/a/jobs/find-jobs" target="_blank">
+          Job Board
+         </a>
+        </li>
+       </ul>
+      </td>
+     </tr>
+    </table>
+   </div>
+   <!-- end container -->
+  </div>
+  <!-- end nav-wrap -->
+  <div class="wsite-background wsite-custom-background" id="banner-wrap">
+   <div class="container">
+    <div id="banner">
+     <h2>
+      <span class="wsite-text wsite-headline">
+       Resource Center.
+      </span>
+     </h2>
+     <p>
+      <span class="wsite-text wsite-headline-paragraph">
+       Find amazingly useful information about career and work life.
+      </span>
+     </p>
+    </div>
+   </div>
+  </div>
+  <!-- end banner-wrap -->
+  <div id="main-wrap">
+   <div class="container">
+    <table class="wsite-not-footer" id="blogTable" style="border: 0; width: 100%; table-layout: fixed">
+     <tr>
+      <td valign="top">
+       <div class="blog-body" id="209215194296575476-blog" style="float: left;">
+        <div id="wsite-content">
+         <div class="blog-post" id="blog-post-638952823134591702">
+          <div class="blog-header">
+           <h2 class="blog-title">
+            <a class="blog-title-link blog-link" href="http://www.jobblyco.com/resource-center/29-extremely-successful-people-throughout-history-who-failed-at-first">
+             29 Extremely Successful People throughout History who Failed at First
+            </a>
+           </h2>
+           <p class="blog-date">
+            <span class="date-text">
+             8/5/2014
+            </span>
+           </p>
+           <p class="blog-comments">
+            <a class="blog-link" href="http://www.jobblyco.com/resource-center/29-extremely-successful-people-throughout-history-who-failed-at-first#comments">
+             0 Comments
+            </a>
+           </p>
+          </div>
+          <div class="blog-separator">
+          </div>
+          <div class="blog-content">
+           <div>
+            <div align="center" class="wcustomhtml" id="718503824705570495" style="width: 100%; overflow-y: hidden;">
+             <!-- AddToAny BEGIN -->
+             <a class="a2a_dd" href="http://www.addtoany.com/share_save">
+              <img alt="Share" border="0" height="16" src="http://static.addtoany.com/buttons/share_save_171_16.png" width="171"/>
+             </a>
+             <script src="//static.addtoany.com/menu/page.js" type="text/javascript">
+             </script>
+             <!-- AddToAny END -->
+            </div>
+           </div>
+           <div class="paragraph" style="text-align:justify;">
+            <font color="#2A2A2A">
+             When you're just starting out as an independent adult, getting a job and seeking the direction of your life, it's easy to feel afraid of failure. Maybe it feels like everyone around you is succeeding, jumping from one victory to another. Maybe you decide not to change direction of your life and start doing what you believe in and have a passion for - all because of your fear of failure. This fear is inherent for us humans. We have a vain idea that everyone around us will rejoice in our failure.
+             <br/>
+             <br/>
+             There is one thing we must understand. Success does not come without failure or the risk of failure.
+             <span style="background-color: initial;">
+              One of the biggest misunderstandings of our time is that success is a product of 'luck'. We believe that success is a swift process, that it comes overnight to those who have the financial means and connections for it.
+             </span>
+            </font>
+            <br/>
+            <font color="#2A2A2A">
+             <span style="background-color: initial;">
+              <br/>
+             </span>
+            </font>
+            <br/>
+            <font color="#2A2A2A">
+             <span style="background-color: initial;">
+              As Dustin Moskowitz, co-founder of Facebook, put it: when Moskowitz was asked about how it was to be part of Facebook's "overnight success", he answered:
+             </span>
+            </font>
+            <font color="#2A2A2A">
+             If by overnight success you mean staying up and coding all night, every night for six years straight, then it felt really tiring and stressful.
+            </font>
+            <font color="#2A2A2A">
+             <span style="background-color: initial;">
+              <br/>
+             </span>
+             <br/>
+             We've compiled a list of 29 extremely successful people throughout history, who all went through failures and hard times in their lifetime.
+            </font>
+           </div>
+           <div>
+            <div class="wsite-image wsite-image-border-thin" style="padding-top:10px;padding-bottom:10px;margin-left:0;margin-right:0;text-align:center">
+             <a href="https://www.flickr.com/photos/x1brett/2544151853/in/photolist-4SPrH8-9beqom-nmFtLx-fMJabv-gxBC1W-dxJp8x-fJwefz-nEjHzD-o1xMaF-nD2hAJ-nFV8iJ-nW5m3E-nm8Txe-fEFbbk-nUv5xT-fDh3aW-nCknqK-8aWUht-iihddo-nZTkCg-nwsRuX-nsFrYt-nyhSLe-nVnTVh-nJZAwo-nB7EUj-nzzJBj-nygANq-gbwj24-oepQxW-nSzoN3-o15SHd-nCp1FS-nzgthf-fJNLjY-fMRSA2-o8yWsz-fN5A6y-gbxzPB-fKWCgb-h3yx78-bko4Fi-o3Hvra-hpU2f8-7TNzb9-gbvdJq-hsaKb3-o3D5Lp-9bBdFG-9fC6DH" target="_blank">
+              <img alt="Picture" src="/uploads/2/6/8/5/26851851/1706495_orig.jpg" style="width:100%;max-width:640px"/>
+             </a>
+             <div style="display:block;font-size:90%">
+             </div>
+            </div>
+           </div>
+           <div class="paragraph" style="text-align:center;">
+            <font size="2">
+             <font color="#2A2A2A">
+              via flickr / brett jordan
+             </font>
+            </font>
+           </div>
+           <div>
+            <!--BLOG_SUMMARY_END-->
+           </div>
+           <div class="paragraph" style="text-align:justify;">
+            <font color="#2A2A2A">
+             1. Vincent Van Gogh
+             <br/>
+             <br/>
+             <span>
+             </span>
+             During his lifetime, Vincent Van Gogh only sold one out of 900 of his paintings. Today, he is one of the most recognized artists. Many of his paintings have been auctioned at record sums.
+            </font>
+            <br/>
+            <span>
+            </span>
+           </div>
+           <div>
+            <div class="wsite-image wsite-image-border-thin" style="padding-top:10px;padding-bottom:10px;margin-left:0;margin-right:0;text-align:center">
+             <a href="http://curiousminds101.blogspot.fi/2013/05/15-famous-quotes-on-creativity.html" target="_blank">
+              <img alt="Picture" src="/uploads/2/6/8/5/26851851/6154525_orig.jpg" style="width:100%;max-width:800px"/>
+             </a>
+             <div style="display:block;font-size:90%">
+             </div>
+            </div>
+           </div>
+           <div class="paragraph" style="text-align:center;">
+            <font size="2">
+             viacuriousminds101.blogspot.com
+            </font>
+           </div>
+           <div class="paragraph" style="text-align:justify;">
+            <font color="#2A2A2A">
+             2. Abraham Lincoln
+             <br/>
+             <span>
+             </span>
+             <br/>
+             <span>
+             </span>
+             Lincoln started out as a war captain and got degraded to private (essentially, he got degraded to the lowest of ranks). He started several businesses that failed and was defeated in numerous runs, before he became one of the greatest leaders throughout the history of our nation.
+            </font>
+            <br/>
+            <span>
+            </span>
+           </div>
+           <div>
+            <div class="wsite-image wsite-image-border-none" style="padding-top:10px;padding-bottom:10px;margin-left:0;margin-right:0;text-align:center">
+             <a href="https://www.flickr.com/photos/pictoquotes/13404530524/in/photolist-mqvHVf-czBVwQ-nEjTq2-fKEXD8-8X65Ra-nVgCUi-7Ysxyf-d6hqny-8cEXzs-MbC8s-eoYwtC-avdR38-hMNeB2-f1ZxB8-hkvWtp-dW3S5U-7bNtGk-fotkH-eF3U3m-beUtr8-fwknqb-nK4yjN-95dxdW-fy1yjH-7v8xHq-8PJwm7-fHzvXg-fb2wg7-excvBe-nVCkf5-njNBWt-eQyZF4-bCkmhv-eyZ2WL-5LKjbY-5PkaH2-eCCgSF-6jC4f9-8rHLBc-8rLRMd-6p7YWz-4x8PkA-7JQ2Km-6cUgo8-7gyGNp-dn4yqK-mYZZLM-mYZYkF-fyfSKQ-265Kpc" target="_blank">
+              <img alt="Picture" src="/uploads/2/6/8/5/26851851/1028746.jpg?557" style="width:auto;max-width:100%"/>
+             </a>
+             <div style="display:block;font-size:90%">
+             </div>
+            </div>
+           </div>
+           <div class="paragraph" style="text-align:center;">
+            <font size="2">
+             via flickr / BK
+            </font>
+           </div>
+           <div class="paragraph">
+            <font color="#2A2A2A">
+             3. Emily Dickinson
+             <br/>
+             <span>
+             </span>
+             <br/>
+             <span>
+             </span>
+             Emily Dickinson is today a beloved writer, but during her lifetime she had fewer than a dozen of her poems published out of her almost 1,800 completed works.
+            </font>
+            <br/>
+            <span>
+            </span>
+           </div>
+           <div>
+            <div class="wsite-image wsite-image-border-thin" style="padding-top:10px;padding-bottom:10px;margin-left:0;margin-right:0;text-align:center">
+             <a href="http://quotepixel.com/picture/success/emily_dickinson/the_possibles_slow_fuse_is_lit_by_the_imagination" target="_blank">
+              <img alt="Picture" src="/uploads/2/6/8/5/26851851/2577753_orig.png" style="width:100%;max-width:355px"/>
+             </a>
+             <div style="display:block;font-size:90%">
+             </div>
+            </div>
+           </div>
+           <div class="paragraph" style="text-align:center;">
+            <font size="2">
+             via quotepixel.com
+            </font>
+           </div>
+           <div class="paragraph" style="text-align:left;">
+            <font color="#2A2A2A">
+             4. Orville and Wilbur Wright
+             <br/>
+             <span>
+             </span>
+             <br/>
+             <span>
+             </span>
+             The Wright brothers battled with depression and family illness, before starting a bicycle shop that led them on to experimenting with flight. They tried and failed numerous times, and after several years of work and failed prototypes, they got their plane to stay in air.
+             <br/>
+            </font>
+            <span>
+            </span>
+            <br/>
+            <span>
+            </span>
+           </div>
+           <div>
+            <div class="wsite-image wsite-image-border-none" style="padding-top:10px;padding-bottom:10px;margin-left:0;margin-right:0;text-align:center">
+             <a href="https://www.flickr.com/photos/pictoquotes/14636164156/in/photolist-eF3U3m-oimaFS-9NianZ-9NDjL9-dFGncw-aBF7CW-9NmcsA-9Nmxs5-9NmhzY-9NiJSB-9Nmjqu-9Nijh4-9NiDdv-9Nim26-9NiphR-9NiGDg-9Nm23L-9Nme8s-9NmfXL-9Nmm5U-9NiBuB-9NmrkE-9NinDT-9NhQJz-9NkXkd-9Nm3YY-9Ni8tP-9NkPaS-9NkM9W-9Niehi-9NhSLg-9NkRo3-9Nkywo-9NkwxC-9Nhs5T-9NkhGy-9NhtA6-9NhJxv-9NhGqZ-9Nhnzk-9NhBXe-9Nka1h-9Nkg5G-9Nhyu4-9NhE68-9NhA6Z-9NhgpM-9NhqDp-9NGKrb-9NApiT" target="_blank">
+              <img alt="Picture" src="/uploads/2/6/8/5/26851851/6698997_orig.jpg" style="width:100%;max-width:640px"/>
+             </a>
+             <div style="display:block;font-size:90%">
+             </div>
+            </div>
+           </div>
+           <div class="paragraph" style="text-align:center;">
+            <font size="2">
+             via flickr / BK
+            </font>
+           </div>
+           <div class="paragraph" style="text-align:justify;">
+            <font color="#2A2A2A">
+             5. Thomas Edison
+             <br/>
+             <span>
+             </span>
+             <br/>
+             <span>
+             </span>
+             Thomas Edison was told by teachers that he was too stupid to learn anything.
+            </font>
+            <font color="#2A2A2A">
+             He had to try 1,000 times before he successfully created the light bulb. In the end,
+            </font>
+            <font color="#2A2A2A">
+             Edison ended up with over 1,000patents and some disruptive inventions, like the practical electric lamp and movie camera.
+            </font>
+            <br/>
+            <span>
+            </span>
+           </div>
+           <div>
+            <div class="wsite-image wsite-image-border-thin" style="padding-top:10px;padding-bottom:10px;margin-left:0;margin-right:0;text-align:center">
+             <a href="https://www.flickr.com/photos/pictoquotes/8696243836/in/photolist-bv2xfM-ouMuJy-fvxvPt-oui4jd-efswjy-hpUxfi-fKYPaU-eZWxSp-f5D1cW-f5D5P7-f5DErE-f5DRcq-f5pZzM-f6fWov-f5CTbA-f5puR4-fkkXXb-f5pxkc-fsH8KF-fdN365-fffZyw-fhkKBz-f3Jiq6-fbqiCy-fsdrnA-fu8gSP-f5omdE-frzVmN-f7LSNX-fk6QmK-f1E7p8-f6NUF5-feiQcR-f7otzN-fnvYgH-frzXT5-frY6aX-fnKWd1-fkYayE-fn9Ar3-fvbDFd-f5om5U-fmks6a-feiPUH-fsMhtD-fn9AKb-f2mwHX-f9PUe4-f6NVAC-fnLbmq" target="_blank">
+              <img alt="Picture" src="/uploads/2/6/8/5/26851851/5577235_orig.jpg" style="width:100%;max-width:640px"/>
+             </a>
+             <div style="display:block;font-size:90%">
+             </div>
+            </div>
+           </div>
+           <div class="paragraph" style="text-align:center;">
+            <font size="2">
+             via flickr / BK
+            </font>
+           </div>
+           <div class="paragraph" style="text-align:left;">
+            <font color="#2A2A2A">
+             6. R.H Macy
+             <br/>
+             <span>
+             </span>
+             <br/>
+             <span>
+             </span>
+             Macy went through a series of failed ventures. At age 36, he founded R.H. Macy &amp; Co and grew it into one of the largest department store chains in the world.
+            </font>
+            <br/>
+            <span>
+            </span>
+           </div>
+           <div>
+            <div class="wsite-image wsite-image-border-thin" style="padding-top:10px;padding-bottom:10px;margin-left:0;margin-right:0;text-align:center">
+             <a href="https://www.flickr.com/photos/fanofretail/9389807862/in/photolist-fiKdK1-fSJi1F-cMAkL7-8XZQo6-c4u4ZY-idzDmp-dD82mF-8XLjXX-7fzMeK-cM9S1m-c56jdW-cMafW3-5LuHnB-c4u4KQ-7ffbXa-fn9ddM-5nK9BS-aE8q5W-49hMUC-f3eeMW-nzNMfb-iwSsbA-7ir1jy-odWz3j-6iMw7B-7ZrD9G-od4KhT-hJtXPY-avtzzN-dvvQKH-f3egYY-8ZLAaK-ar5wiv-nzNLpS-5G9nTH-nWvSsc-crgp6w-i3FXV4-i3FoJq-48DpCc-8WXFxZ-4H3DD-fSRoyi-fSMkyD-4j31w8-c4u5nj-g3NDUh-c4u2HC-dDdpeu-idxy1g" target="_blank">
+              <img alt="Picture" src="/uploads/2/6/8/5/26851851/7186035.jpg?528" style="width:auto;max-width:100%"/>
+             </a>
+             <div style="display:block;font-size:90%">
+             </div>
+            </div>
+           </div>
+           <div class="paragraph" style="text-align:center;">
+            <font size="2">
+             via flickr / Nicholas Eckhart
+            </font>
+           </div>
+           <div class="paragraph" style="text-align:left;">
+            <font color="#2A2A2A">
+             7. Henry Ford
+             <br/>
+             <span>
+             </span>
+             <br/>
+             <span>
+             </span>
+             Henry Ford went through failed businesses and was left broke five times, before his success with Ford Motor Company.
+             <br/>
+            </font>
+            <span>
+            </span>
+            <br/>
+            <span>
+            </span>
+           </div>
+           <div>
+            <div class="wsite-image wsite-image-border-none" style="padding-top:10px;padding-bottom:10px;margin-left:0;margin-right:0;text-align:center">
+             <a href="https://www.flickr.com/photos/quoteseverlasting/7997365479/in/photolist-fUPCpD-dZBQJp-d8sPF5-cDcNeU-dS85dq-f9E2nb-dxocrd-963f69-43RWmH-e3trhN-dbGA8H-nh3mZn-4L2955-nB34Ga-bko4Fi-e1j9ma-oDAhi-8X9SDS-nfkahE-7fguwz-fEgaqw-dzgzjs-dPcS1W-ce1aGm-nFiRmV-otZ8aG-7Uccgq-nCX6ky-6iWxLb-55dJPQ-cmE6Xj-8TmXyE-eF3U3m-mh2Ggr-gmCRa7-jzr3sr-aBAXmA-8rMcnU-8rMcyS-8rJ76k-8rJ72a-9CwS31-fQ2v9E-8CWxm5-8Bhtxh-fcNGoR-h1sgDS-bvSWgW-hhvHTw-4e2qKq" target="_blank">
+              <img alt="Picture" src="/uploads/2/6/8/5/26851851/5211606_orig.png" style="width:100%;max-width:500px"/>
+             </a>
+             <div style="display:block;font-size:90%">
+             </div>
+            </div>
+           </div>
+           <div class="paragraph" style="text-align:center;">
+            <font size="2">
+             via flickr / QuotesEverlasting
+            </font>
+           </div>
+           <div class="paragraph" style="text-align:left;">
+            <font color="#2A2A2A">
+             8. Harry S. Truman
+             <br/>
+             <span>
+             </span>
+             <br/>
+             <span>
+             </span>
+             Before Truman became president, he started a store where he sold silk shirts. As the business failed, he went bankrupt.
+            </font>
+            <br/>
+            <span>
+            </span>
+           </div>
+           <div>
+            <div class="wsite-image wsite-image-border-thin" style="padding-top:10px;padding-bottom:10px;margin-left:0;margin-right:0;text-align:center">
+             <a href="http://meetville.com/quotes/author/harry-s-truman/page1" target="_blank">
+              <img alt="Picture" src="/uploads/2/6/8/5/26851851/775357_orig.jpg" style="width:100%;max-width:403px"/>
+             </a>
+             <div style="display:block;font-size:90%">
+             </div>
+            </div>
+           </div>
+           <div class="paragraph" style="text-align:center;">
+            <font size="2">
+             via meetville.com
+            </font>
+           </div>
+           <div class="paragraph" style="text-align:left;">
+            <font color="#2A2A2A">
+             9. Winston Churchill
+             <br/>
+             <span>
+             </span>
+             <br/>
+             <span>
+             </span>
+             Winston Churchill is today known as the great Prime Minister that he was, but before his successes, he had a lot of failures. He failed sixth grade and got through years of political failure. It wasnt until the Second World War that he became Prime Minister at age 62.
+            </font>
+            <br/>
+            <span>
+            </span>
+           </div>
+           <div>
+            <div class="wsite-image wsite-image-border-thin" style="padding-top:10px;padding-bottom:10px;margin-left:0;margin-right:0;text-align:center">
+             <a href="https://www.flickr.com/photos/quoteseverlasting/8946238918/in/photolist-8Xdq3A-gUvxjD-f2jG4U-f2jFWo-f2jG7J-eCxP9A-zh2Co-gkrwSk-g3t14e" target="_blank">
+              <img alt="Picture" src="/uploads/2/6/8/5/26851851/8288794_orig.jpg" style="width:100%;max-width:640px"/>
+             </a>
+             <div style="display:block;font-size:90%">
+             </div>
+            </div>
+           </div>
+           <div class="paragraph" style="text-align:center;">
+            <font size="2">
+             via flickr / QuotesEverlasting
+            </font>
+           </div>
+           <div class="paragraph" style="text-align:justify;">
+            <font color="#2A2A2A">
+             10. Soichiro Honda
+             <br/>
+             <span>
+             </span>
+             <br/>
+             <span>
+             </span>
+             Soichiro Honda applied for a job as an engineer at Toyota Motor Corporation, but he was turned down. After having been jobless for a while, he started making scooters at home. As he was an individualist, he was alienated from Japanese businessmen, who had a strong tradition of teamwork. Honda was at the forefront for the Japanese automotive revolution that spread to the US.
+            </font>
+            <br/>
+            <span>
+            </span>
+            <br/>
+            <span>
+            </span>
+           </div>
+           <div>
+            <div class="wsite-image wsite-image-border-thin" style="padding-top:10px;padding-bottom:10px;margin-left:0;margin-right:0;text-align:center">
+             <a href="http://quotes.lifehack.org/quote/soichiro-honda/success-is-99-percent-failure/" target="_blank">
+              <img alt="Picture" src="/uploads/2/6/8/5/26851851/8353459_orig.png" style="width:100%;max-width:1000px"/>
+             </a>
+             <div style="display:block;font-size:90%">
+             </div>
+            </div>
+           </div>
+           <div class="paragraph" style="text-align:center;">
+            <font size="2">
+             via quotes.lifehack.org
+            </font>
+           </div>
+           <div class="paragraph" style="text-align:left;">
+            <font color="#2A2A2A">
+             11. Fred Astaire
+             <br/>
+             <span>
+             </span>
+             <br/>
+             <span>
+             </span>
+             In his first screen tests, an MGM testing director told Astaire that he Cant act. Cant sing. Slightly bald. Can dance a little. Later on, Astaire kept this harsh statement in his home to remind him of his early struggles.
+            </font>
+            <br/>
+            <span>
+            </span>
+            <br/>
+            <span>
+            </span>
+           </div>
+           <div>
+            <div class="wsite-image wsite-image-border-thin" style="padding-top:10px;padding-bottom:10px;margin-left:0;margin-right:0;text-align:center">
+             <a href="http://meetville.com/quotes/author/fred-astaire/page1" target="_blank">
+              <img alt="Picture" src="/uploads/2/6/8/5/26851851/1093100_orig.jpg" style="width:100%;max-width:403px"/>
+             </a>
+             <div style="display:block;font-size:90%">
+             </div>
+            </div>
+           </div>
+           <div class="paragraph" style="text-align:center;">
+            <font size="2">
+             via meetville.com
+            </font>
+           </div>
+           <div class="paragraph" style="text-align:justify;">
+            <font color="#2A2A2A">
+             12. Elvis Presley
+             <br/>
+             <span>
+             </span>
+             <br/>
+             <span>
+             </span>
+             Elvis Presley was fired after his first performance. The manager told Presley: You aint goin nowhere, son. You ought to go back to drivin a truck. Presley is one of the best-selling artists of all time.
+            </font>
+            <br/>
+            <span>
+            </span>
+            <br/>
+            <span>
+            </span>
+           </div>
+           <div>
+            <div class="wsite-image wsite-image-border-none" style="padding-top:10px;padding-bottom:10px;margin-left:0;margin-right:0;text-align:center">
+             <a href="https://www.flickr.com/photos/quoteseverlasting/9066436547/in/photolist-ePaRHv-eMu3vc-eMEh1f-eNtQ9g-ePCQo7-ePCJhd-eNPYym-ePsi4n-eMGF95-eMGF2M-ePo7fz-ePre1T-ePv9Za-ePAhWW-eMFugW-eMV5cj-eN2tb5-eNAas2-eMHwM3-ePASt7-eMGdzq-ePshre-ePbNTs-ePuAKP-ePtFfV-ePBcWu-ePBbP9-ePtGB4-eMEfPu-eNGpcb-eMwASk-ePtKc8-eMsRTK-ePeekG-eMHPqs-ePtH16-ePGBX7-ePrLJi-ePvmoP-eMHud5-ePoyVe-ePui2P-eMJt9j-eMG7mn-eP2BNn-ePbox1-eMGe7h-eMHefd-ePGTzC-eMHBgt" target="_blank">
+              <img alt="Picture" src="/uploads/2/6/8/5/26851851/6581295.jpg?428" style="width:auto;max-width:100%"/>
+             </a>
+             <div style="display:block;font-size:90%">
+             </div>
+            </div>
+           </div>
+           <div class="paragraph" style="text-align:center;">
+            <font size="2">
+             via flickr / QuotesEverlasting
+            </font>
+           </div>
+           <div class="paragraph" style="text-align:justify;">
+            <font color="#2A2A2A">
+             13. Albert Einstein
+             <br/>
+             <span>
+             </span>
+             <br/>
+             <span>
+             </span>
+             Already as a kid, Albert Einstein was a rebel against authority. This led his headmaster to expel him and tell him that he would never amount to much. Later in life, he would become one of the most influential scientists throughout history with his principle of relativity, among others.
+             <br/>
+            </font>
+            <span>
+            </span>
+            <br/>
+            <span>
+            </span>
+           </div>
+           <div>
+            <div class="wsite-image wsite-image-border-thin" style="padding-top:10px;padding-bottom:10px;margin-left:0;margin-right:0;text-align:center">
+             <a href="https://www.flickr.com/photos/quoteseverlasting/8887315603/in/photolist-hn5Bp1-nAf5Tz-2bSUtZ-exn9nM-exif4x-exkvLa-exkPin-exnFJe-exmMNT-exqTAu-h8WN15-9gKdUq-6pvwVM-nAeq3t-ewYLfU-ewVEtz-fJNLrb-9quKnA-dRVo3f-dRVa4z" target="_blank">
+              <img alt="Picture" src="/uploads/2/6/8/5/26851851/9348828_orig.jpg" style="width:100%;max-width:640px"/>
+             </a>
+             <div style="display:block;font-size:90%">
+             </div>
+            </div>
+           </div>
+           <div class="paragraph" style="text-align:center;">
+            <font size="2">
+             via flickr / QuotesEverlasting
+            </font>
+           </div>
+           <div class="paragraph" style="text-align:justify;">
+            <font color="#2A2A2A">
+             14. Walt Disney
+             <br/>
+             <span>
+             </span>
+             <br/>
+             <span>
+             </span>
+             Walt Disney was fired by a newspaper for lack of imagination and for not having any good ideas. Disney went on to start several new businesses. They failed and he faced bankruptcy. Eventually, Snow White became his breakthrough.
+            </font>
+            <br/>
+            <span>
+            </span>
+            <br/>
+            <span>
+            </span>
+           </div>
+           <div>
+            <div class="wsite-image wsite-image-border-none" style="padding-top:10px;padding-bottom:10px;margin-left:0;margin-right:0;text-align:center">
+             <a href="https://www.flickr.com/photos/pictoquotes/9609965102/in/photolist-ehZRGj-eyc4rL-7vNbuJ-fEHijV-ogbPd3-a9DLBt-giLVyu-ckQoNf-dJXgsm-gk85bo-hsa9MT-fDczPu-eF3U3m-5sTSWr-gMsAhk-9ogHTW-jMhh8P-o8eMfM-6xdtYF-aq2efM-iDEi3t-fpZey5-6Vc6pA-7N3Rpo-vEQuL-cfgmdj-ehR1Kf-eUeXta-fviuVy-ewfwsp-idRDPf-a9RcA7-bukuDt-72Pzt2-bkr6EM-eNQGj6-6ZoM7S-b3x3r2-dophtG-aY4mx-6ZjLKR-6ZoUFu-6R9q7w-c3jorE-7pF1Wx-fBjLd1-7AqhhT-aqeuaR-fEQmxL-e8XqVe" target="_blank">
+              <img alt="Picture" src="/uploads/2/6/8/5/26851851/1363506_orig.jpg" style="width:100%;max-width:640px"/>
+             </a>
+             <div style="display:block;font-size:90%">
+             </div>
+            </div>
+           </div>
+           <div class="paragraph" style="text-align:center;">
+            <font size="2">
+             via Flickr / BK
+            </font>
+           </div>
+           <div class="paragraph" style="text-align:justify;">
+            <font color="#2A2A2A">
+             15. Marilyn Monroe
+             <br/>
+             <span>
+             </span>
+             <br/>
+             <span>
+             </span>
+             Marilyn Monroe, or Norma Jean Mortenson, spent her childhood in foster homes, as her mother, a single parent, was mentally unstable and financially unable to care for Monroe. Monroe might have been sexually assaulted as a teenager. Her first contract with Columbia Pictures expired, and she was told that she wasnt pretty or talented enough to be an actress. Although she had mental problems and ultimately took her own life, she had a successful career as an actress.
+             <br/>
+            </font>
+            <span>
+            </span>
+            <br/>
+            <span>
+            </span>
+           </div>
+           <div>
+            <div class="wsite-image wsite-image-border-thin" style="padding-top:10px;padding-bottom:10px;margin-left:0;margin-right:0;text-align:center">
+             <a href="https://www.flickr.com/photos/pictoquotes/9111763011/in/photolist-i6k9AY-egxrKM-fC888z-itFLNM-aoh3Wc-fB6cL6-mkHCgL-e2fUBj-zA2Ri-jwF7j6-9Wd821-eTbaGg-eGNi3c-a8Da7s-96CzWD-8mF17b-nzstYL-jM1qQ1-nKApfe-81JzLb-81EsMc-81JA6w-81JzpW-81JAH3-83zxqq-8369Jd-8367w1-72Pzt2-81FtLe-81JCL1-81FrFK-ccQb41-nky53Y-soWAn-a9Pzha-fLu1B8-nuqLwy-bNbWJi-ccY99f-dHwjVH-8VshMw-bvdkLw-99bEAx-cNiaAo-nh1dFU-7HVEth-vvDkT-9KVWt3-bc2wJF-68zYT" target="_blank">
+              <img alt="Picture" src="/uploads/2/6/8/5/26851851/5045475_orig.jpg" style="width:100%;max-width:640px"/>
+             </a>
+             <div style="display:block;font-size:90%">
+             </div>
+            </div>
+           </div>
+           <div class="paragraph" style="text-align:center;">
+            <font size="2">
+             via Flickr / BK
+            </font>
+           </div>
+           <div class="paragraph" style="text-align:justify;">
+            <font color="#2A2A2A">
+             16. Sidney Poitier
+             <br/>
+             <span>
+             </span>
+             <br/>
+             <span>
+             </span>
+             Poitier grew up poor in the Bahamas, got rejected because of his strong Caribbean accent and was told to stop wasting peoples time and go out and become a dishwasher or something. Poitier later won an Academy Award and was on the forefront for breaking down the color barrier in the American film industry.
+            </font>
+            <br/>
+            <span>
+            </span>
+            <br/>
+            <span>
+            </span>
+           </div>
+           <div>
+            <div class="wsite-image wsite-image-border-thin" style="padding-top:10px;padding-bottom:10px;margin-left:0;margin-right:0;text-align:center">
+             <a href="http://meetville.com/quotes/author/sidney-poitier/page2" target="_blank">
+              <img alt="Picture" src="/uploads/2/6/8/5/26851851/9646639_orig.jpg" style="width:100%;max-width:403px"/>
+             </a>
+             <div style="display:block;font-size:90%">
+             </div>
+            </div>
+           </div>
+           <div class="paragraph" style="text-align:center;">
+            <font size="2">
+             via meetville.com
+            </font>
+           </div>
+           <div class="paragraph" style="text-align:justify;">
+            <font color="#2A2A2A">
+             17. The Beatles
+             <br/>
+             <span>
+             </span>
+             <br/>
+             <span>
+             </span>
+             In the early years of their career, The Beatles were dropped by their recording company, Decca Recording company. According to the company, they didnt like their sound, and guitar music is on the way out. They have no future in show business.
+            </font>
+            <br/>
+            <span>
+            </span>
+           </div>
+           <div>
+            <div class="wsite-image wsite-image-border-thin" style="padding-top:10px;padding-bottom:10px;margin-left:0;margin-right:0;text-align:center">
+             <a href="https://www.flickr.com/photos/akinini/7513538400/in/photolist-crWRcw-4WQaTb-4EBt3Y-d6YSnL-5Gob14-crXWoq-kAQJTt-bktAoh-6vUdhT-8foR4b-5grRSF-6Ma5EE-4D7XP4-aDaKAe-3yaZeX-o9f1g6-7um2S-dDiwq3-dZjYQ6-6vYHhG-8TWcB3-iPxh7-oicXJS-b8WjgZ-6vYHU9-5sBtQ1-6vUyhZ-6vYK3C-6vYKmL-6vYHB7-6vYHQf-6vYHFQ-6vYGL1-6vUvKF-6vUwSk-6vYJaW-6vYJWh-6vYGZq-6vYJPj-6vUvVv-6vUwGr-6vYGQm-6vYKyJ-6vUwnp-5d3Zzf-byoxRB-byoAEa-byouJB-bktu4Y-bktvTA" target="_blank">
+              <img alt="Picture" src="/uploads/2/6/8/5/26851851/1563592_orig.jpg" style="width:100%;max-width:500px"/>
+             </a>
+             <div style="display:block;font-size:90%">
+             </div>
+            </div>
+           </div>
+           <div class="paragraph" style="text-align:center;">
+            <font size="2">
+             via flickr / akinini
+            </font>
+           </div>
+           <div class="paragraph" style="text-align:justify;">
+            <font color="#2A2A2A">
+             18. Robert Sternberg
+             <br/>
+             <span>
+             </span>
+             <br/>
+             <span>
+             </span>
+             Robert Sternberg, a big name in psychology, did not get a great start. He was awarded a C in his first college introductory psychology class and learned that there was already a famous Sternberg in psychology and it was obvious there would not be another. Well, he graduated from Stanford with exceptional distinction in psychology. Later, he became the President of the American Psychological Association.
+            </font>
+            <br/>
+            <span>
+            </span>
+            <br/>
+            <span>
+            </span>
+           </div>
+           <div>
+            <div class="wsite-image wsite-image-border-thin" style="padding-top:10px;padding-bottom:10px;margin-left:0;margin-right:0;text-align:center">
+             <a href="http://meetville.com/quotes/author/robert-sternberg/page1" target="_blank">
+              <img alt="Picture" src="/uploads/2/6/8/5/26851851/9687346_orig.jpg" style="width:auto;max-width:100%"/>
+             </a>
+             <div style="display:block;font-size:90%">
+             </div>
+            </div>
+           </div>
+           <div class="paragraph" style="text-align:center;">
+            <font size="2">
+             via meetville.com
+            </font>
+           </div>
+           <div class="paragraph" style="text-align:left;">
+            <font color="#2A2A2A">
+             19. Dr. Seuss
+             <br/>
+             <span>
+             </span>
+             <br/>
+             <span>
+             </span>
+             Dr. Seuss first book was rejected 27 times. Today, he is one of the most popular childrens book authors of all time.
+            </font>
+            <br/>
+            <span>
+            </span>
+           </div>
+           <div>
+            <div class="wsite-image wsite-image-border-none" style="padding-top:10px;padding-bottom:10px;margin-left:0;margin-right:0;text-align:center">
+             <a href="http://www.thequotepedia.com/quotes/baby/page/22/" target="_blank">
+              <img alt="Picture" src="/uploads/2/6/8/5/26851851/6914421.jpg?390" style="width:auto;max-width:100%"/>
+             </a>
+             <div style="display:block;font-size:90%">
+             </div>
+            </div>
+           </div>
+           <div class="paragraph" style="text-align:center;">
+            <font size="2">
+             via quotopedia.com
+            </font>
+           </div>
+           <div class="paragraph" style="text-align:justify;">
+            <font color="#2A2A2A">
+             20. Steven Spielberg
+             <br/>
+             <span>
+             </span>
+             <br/>
+             <span>
+             </span>
+             Steven Spielberg was rejected two times by the University of Southern California School of Cinematic Arts. After his breakthrough with Jaw in 1975 and having won three Academy Awards, USC named him an honorary alumni in 94 and dedicated a building to him.
+            </font>
+            <br/>
+            <span>
+            </span>
+           </div>
+           <div>
+            <div class="wsite-image wsite-image-border-thin" style="padding-top:10px;padding-bottom:10px;margin-left:0;margin-right:0;text-align:center">
+             <a href="http://meetville.com/quotes/author/steven-spielberg/page1" target="_blank">
+              <img alt="Picture" src="/uploads/2/6/8/5/26851851/2685088_orig.jpg" style="width:100%;max-width:403px"/>
+             </a>
+             <div style="display:block;font-size:90%">
+             </div>
+            </div>
+           </div>
+           <div class="paragraph" style="text-align:center;">
+            <font size="2">
+             via meetville.com
+            </font>
+           </div>
+           <div class="paragraph" style="text-align:justify;">
+            <font color="#2A2A2A">
+             21. Stephen King
+             <br/>
+             <span>
+             </span>
+             <br/>
+             <span>
+             </span>
+             Stephen Kings first book was rejected over 30 times and ultimately, he threw it in the trash. However, his wife reviewed the manuscript and urged him to finish the project. Today, his books have sold in over 350 million copies and have been made into multiple motion pictures.
+            </font>
+            <br/>
+            <span>
+            </span>
+            <br/>
+            <span>
+            </span>
+           </div>
+           <div>
+            <div class="wsite-image wsite-image-border-thin" style="padding-top:10px;padding-bottom:10px;margin-left:0;margin-right:0;text-align:center">
+             <a href="https://www.flickr.com/photos/pictoquotes/9082111221/in/photolist-eQycfv-9jVTLZ-mb4aFT-6vZRz1-b4KD9R-edLav9-9gYj9s-hbccbk-nVRpGC-c3b8iy-aNzQ-5bk7kw-aAtWZ1-9kdYVn-7hy6zT-fYqfjm-aodsUa-oeyGPh-aAG3JH-aAG3XK-6LoSUH-ovcbxy-ov984Z-4rSTD-eMuoWk-6qDyWr-ekD7Xh-4oGTHB-f8n5Hr-ow19yD" target="_blank">
+              <img alt="Picture" src="/uploads/2/6/8/5/26851851/4814454.jpg?617" style="width:auto;max-width:100%"/>
+             </a>
+             <div style="display:block;font-size:90%">
+             </div>
+            </div>
+           </div>
+           <div class="paragraph" style="text-align:center;">
+            <font size="2">
+             via flickr / BK
+            </font>
+           </div>
+           <div class="paragraph" style="text-align:justify;">
+            <font color="#2A2A2A">
+             22. Steve Jobs
+             <br/>
+             <span>
+             </span>
+             <br/>
+             <span>
+             </span>
+             Steve Jobs was fired from Apple, which he co-founded. He went on to found NEXT, which for almost ten years stood on rocky ground. When he returned to Apple, he helped save the company. He launched most of the companys most popular products, like the iPod, iPhone and iPad. He also co-founded Pixar and made it a leading animation studio.
+            </font>
+            <br/>
+            <span>
+            </span>
+           </div>
+           <div>
+            <div class="wsite-image wsite-image-border-thin" style="padding-top:10px;padding-bottom:10px;margin-left:0;margin-right:0;text-align:center">
+             <a href="https://www.flickr.com/photos/andyi/6224941303/in/photolist-au5sbc-fEKA4t-au87Y3-au5sr8-atUU1b-atgskP-aEduco-jiozU7-gbxzPB-7nPGYv-jzHi7K-fF31tb-atLE5q-au4Gox-b5cC7g-bQrwGx-bbX6gM-nzgthf-atshTj-fvN3Gi-aDhqK8-nEoKhR-nwuykb-atjeFN-6mhSKe-h1pjZV-aidmmn-NAHSP-53fqMm-7SRdd6-atY2xz-bx9JuR-bx9JrT-5D3WMV-5D3WdV-5D3VEK-nKGrA3-7Zs23M-dWwisC-beRrAM-h1EM8X-beRgDH-eTfpnD-aMLYQV-atk5iu-eahux-d5ipmU-aig9z5-9XsKq6-iKeoJG" target="_blank">
+              <img alt="Picture" src="/uploads/2/6/8/5/26851851/6905918_orig.jpg" style="width:100%;max-width:640px"/>
+             </a>
+             <div style="display:block;font-size:90%">
+             </div>
+            </div>
+           </div>
+           <div class="paragraph" style="text-align:center;">
+            <font size="2">
+             via Andy Ihnatko
+            </font>
+           </div>
+           <div class="paragraph" style="text-align:justify;">
+            <font color="#2A2A2A">
+             23. Oprah Winfrey
+             <br/>
+             <span>
+             </span>
+             <br/>
+             <span>
+             </span>
+             Oprah Winfrey was repeatedly molested by her cousin, uncle and family friend. She ran away from home and gave birth to a boy at age 14. She lost the child. Later, Winfrey was fired from her first television job. Today, Winfrey is the most influential TV talk show hostess, has built a media empire and is worth around $2.9 billion.
+            </font>
+            <br/>
+            <span>
+            </span>
+           </div>
+           <div>
+            <div class="wsite-image wsite-image-border-thin" style="padding-top:10px;padding-bottom:10px;margin-left:0;margin-right:0;text-align:center">
+             <a href="https://www.flickr.com/photos/celestinechua/11583890763/in/photolist-iDCt9x-nPSkSK-exHfWS-kNSJDz-dVjmpG-4ViaUS-gUu9RT-eD1PaE-n3394L-ePc9iw-nVCBkV-ttvQi-fviv1S-9KRaQc-9L4DZk-mJsUFR-dFazyD-h1ywwf-aKAgZK-fEvgTZ" target="_blank">
+              <img alt="Picture" src="/uploads/2/6/8/5/26851851/7738796_orig.jpg" style="width:100%;max-width:640px"/>
+             </a>
+             <div style="display:block;font-size:90%">
+             </div>
+            </div>
+           </div>
+           <div class="paragraph" style="text-align:center;">
+            <font size="2">
+             via flickr / Celestine Chua
+            </font>
+           </div>
+           <div class="paragraph" style="text-align:justify;">
+            <font color="#2A2A2A">
+             24. Michael Jordan
+             <br/>
+             <span>
+             </span>
+             <br/>
+             <span>
+             </span>
+             Michael Jordan was originally cut from his high school basketball team, before becoming one of the greatest basketball players of all time.
+            </font>
+            <br/>
+            <span>
+            </span>
+           </div>
+           <div>
+            <div class="wsite-image wsite-image-border-thin" style="padding-top:10px;padding-bottom:10px;margin-left:0;margin-right:0;text-align:center">
+             <a href="https://www.flickr.com/photos/quoteseverlasting/9517798033/in/photolist-fv4cL6-9hKcQh-aHgLnn-6HwAZT-6XfyvW-6HAEjY-6PM5Y3-6HwBaz-6QZqVF-6HAEkS-6HAEmN-6HAEis-6R4tGd-6PGX4n-eaEW4W-byDAhR-9dkFAs-7w41zw" target="_blank">
+              <img alt="Picture" src="/uploads/2/6/8/5/26851851/3904802_orig.jpg" style="width:100%;max-width:549px"/>
+             </a>
+             <div style="display:block;font-size:90%">
+             </div>
+            </div>
+           </div>
+           <div class="paragraph" style="text-align:center;">
+            <font size="2">
+             via flickr / QuotesEverlasting
+            </font>
+           </div>
+           <div class="paragraph" style="text-align:justify;">
+            <font color="#2A2A2A">
+             25. J.K. Rowling
+             <br/>
+             <span>
+             </span>
+             <br/>
+             <span>
+             </span>
+             J.K. Rowling faced a lot of struggles in her earlier life. Her mother was diagnosed with MS, she divorced her husband, who by some accounts was violent, and during the time that she wrote the first Harry Potter novel, she was a single, unemployed mum. She was on welfare and was as poor as you can get in Britain without being homeless at one point. "Harry Potter and the Sorcerer's Stone" got rejected 12 times. For nine years  after her success with Harry Potter  she was estranged from her father. Today, she is one of the best known and best paid authors of all time.
+            </font>
+            <br/>
+            <span>
+            </span>
+           </div>
+           <div>
+            <div class="wsite-image wsite-image-border-thin" style="padding-top:10px;padding-bottom:10px;margin-left:0;margin-right:0;text-align:center">
+             <a href="https://www.flickr.com/search?sort=relevance&amp;license=1%2C2%2C3%2C4%2C5%2C6&amp;text=j.k.%20Rowling%20quoteshttp://funny-quotes.picphotos.net/jk-rowling-pottermore-wallpapers/culttt.com*wp-content*uploads*2012*06*JK-Rowling.jpg/" target="_blank">
+              <img alt="Picture" src="/uploads/2/6/8/5/26851851/6437160_orig.jpg" style="width:100%;max-width:500px"/>
+             </a>
+             <div style="display:block;font-size:90%">
+             </div>
+            </div>
+           </div>
+           <div class="paragraph" style="text-align:center;">
+            <font size="2">
+             via funny-quotes.picphotos.net
+            </font>
+           </div>
+           <div class="paragraph" style="text-align:justify;">
+            <font color="#2A2A2A">
+             26. Kris Carr
+             <br/>
+             <span>
+             </span>
+             <br/>
+             <span>
+             </span>
+             Kris Carr was diagnosed with a rare and incurable Stage IV cancer, epithelioid hemangioendothelioma, in her liver and lunges. Instead of giving in, Carr used a new nutritional lifestyle to get rid of the cancer. She turned her experiences into a number of self-help books and documentaries and a popular wellness site.
+            </font>
+            <br/>
+            <span>
+            </span>
+           </div>
+           <div>
+            <div class="wsite-image wsite-image-border-none" style="padding-top:10px;padding-bottom:10px;margin-left:0;margin-right:0;text-align:center">
+             <a href="https://www.flickr.com/photos/pictoquotes/12174353516/in/photolist-" target="_blank">
+              <img alt="Picture" src="/uploads/2/6/8/5/26851851/3337040_orig.jpg" style="width:100%;max-width:640px"/>
+             </a>
+             <div style="display:block;font-size:90%">
+             </div>
+            </div>
+           </div>
+           <div class="paragraph" style="text-align:center;">
+            <font size="2">
+             via flickr / BK
+            </font>
+           </div>
+           <div class="paragraph" style="text-align:justify;">
+            <font color="#2A2A2A">
+             27. Charlize Theron
+             <br/>
+             <span>
+             </span>
+             <br/>
+             <span>
+             </span>
+             At age 15, Charlize Theron witnessed how her mother shot her alcoholic father in self-defense. Today, Theron is one of the most well-known actresses and an Academy Award winner.
+             <span>
+             </span>
+            </font>
+            <span style="font-family: Georgia, serif; font-size: 11.5pt; line-height: 107%; background-color: initial;">
+             <font color="#2A2A2A">
+             </font>
+            </span>
+           </div>
+           <div>
+            <div class="wsite-image wsite-image-border-thin" style="padding-top:10px;padding-bottom:10px;margin-left:0;margin-right:0;text-align:center">
+             <a href="http://meetville.com/quotes/author/charlize-theron/page2" target="_blank">
+              <img alt="Picture" src="/uploads/2/6/8/5/26851851/8475315_orig.jpg" style="width:100%;max-width:403px"/>
+             </a>
+             <div style="display:block;font-size:90%">
+             </div>
+            </div>
+           </div>
+           <div class="paragraph" style="text-align:center;">
+            <font size="2">
+             via meetville.com
+            </font>
+           </div>
+           <div class="paragraph" style="text-align:justify;">
+            <font color="#2A2A2A">
+             28. Daniel Ek
+             <br/>
+             <span>
+             </span>
+             <br/>
+             <span>
+             </span>
+             If youve applied to Google, you dont have to feel bad if you were turned down. So was Daniel Ek, the founder of Spotify, a company that today is worth around $4 billion.
+            </font>
+            <br/>
+            <span>
+            </span>
+           </div>
+           <div>
+            <div class="wsite-image wsite-image-border-thin" style="padding-top:10px;padding-bottom:10px;margin-left:0;margin-right:0;text-align:center">
+             <a href="http://funny-quotes.picphotos.net/not-an-inventor-i-just-want-to-make-things-better/quotes.lifehack.org*media*quotes*quote-Daniel-Ek-im-not-an-inventor-i-just-want-126765.png/" target="_blank">
+              <img alt="Picture" src="/uploads/2/6/8/5/26851851/3797370_orig.png" style="width:100%;max-width:1000px"/>
+             </a>
+             <div style="display:block;font-size:90%">
+             </div>
+            </div>
+           </div>
+           <div class="paragraph" style="text-align:center;">
+            <font size="2">
+             via funny-quotes.picphotos.net
+            </font>
+           </div>
+           <div class="paragraph" style="text-align:justify;">
+            <font color="#2A2A2A">
+             29. Rihanna
+             <br/>
+             <span>
+             </span>
+             <br/>
+             <span>
+             </span>
+             Rihanna grew up in Barbados, selling clothes with her father in a stall on the street. Her father was an abuser of crack cocaine and alcohol. At age 16, after having been discovered by Jay Z, she began her extremely successful career as a singer.
+            </font>
+            <br/>
+            <span>
+            </span>
+           </div>
+           <div>
+            <div class="wsite-image wsite-image-border-thin" style="padding-top:10px;padding-bottom:10px;margin-left:0;margin-right:0;text-align:center">
+             <a href="http://bakedquotes.com/" target="_blank">
+              <img alt="Picture" src="/uploads/2/6/8/5/26851851/8418444_orig.jpg" style="width:100%;max-width:451px"/>
+             </a>
+             <div style="display:block;font-size:90%">
+             </div>
+            </div>
+           </div>
+           <div class="paragraph" style="text-align:center;">
+            <font size="2">
+             via bakedgoodz.tumblr.com
+            </font>
+           </div>
+           <div class="paragraph" style="text-align:justify;">
+            <font color="#2A2A2A">
+             <strong>
+              SUBSCRIBE!
+             </strong>
+             Did you find this post useful? We share 90% of our best material on landing dream jobs and career advice via email.
+             <u>
+              Included
+             </u>
+             : free, extremely useful information and you'll get to be part of a great community.
+             <u>
+              Excluded
+             </u>
+             : spam and annoying updates.
+             <br/>
+             <br/>
+            </font>
+            <strong>
+             <font color="#2A2A2A">
+              SIGN UP
+             </font>
+            </strong>
+           </div>
+           <div>
+            <div align="left" class="wcustomhtml" id="257452145461640867" style="width: 100%; overflow-y: hidden;">
+             <!-- Begin MailChimp Signup Form -->
+             <link href="//cdn-images.mailchimp.com/embedcode/slim-081711.css" rel="stylesheet" type="text/css"/>
+             <style type="text/css">
+              #mc_embed_signup{background:#fff; clear:left; font:14px Helvetica,Arial,sans-serif; }         /* Add your own MailChimp form style overrides in your site stylesheet or in this style block.            We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */
+             </style>
+             <div id="mc_embed_signup">
+              <form action="//jobblyco.us6.list-manage.com/subscribe/post?u=4854836e8dd920de9d5a4ed14&amp;id=bb208574d6" class="validate" id="mc-embedded-subscribe-form" method="post" name="mc-embedded-subscribe-form" novalidate="" target="_blank">
+               <label for="mce-EMAIL">
+                Subscribe to our mailing list
+               </label>
+               <input class="email" id="mce-EMAIL" name="EMAIL" placeholder="email address" required="" type="email" value=""/>
+               <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+               <div style="position: absolute; left: -5000px;">
+                <input name="b_4854836e8dd920de9d5a4ed14_bb208574d6" tabindex="-1" type="text" value=""/>
+               </div>
+               <div class="clear">
+                <input class="button" id="mc-embedded-subscribe" name="subscribe" type="submit" value="Subscribe"/>
+               </div>
+              </form>
+             </div>
+             <!--End mc_embed_signup-->
+            </div>
+           </div>
+           <div class="paragraph" style="text-align:left;">
+            <font color="#2A2A2A">
+             Further reading that might interest you:
+            </font>
+            <br/>
+            <br/>
+            <br/>
+            <a href="http://www.jobblyco.com/resource-center/39-best-startups-and-apps-for-college-students-and-grads" style="" title="">
+             39 Best Startups and Apps for College Students and Grads
+            </a>
+            <br/>
+            <font color="#2A2A2A">
+             <br/>
+             <a href="http://www.jobblyco.com/resource-center/top-10-things-to-include-in-your-resume-to-land-the-job" target="_blank" title="">
+              Top 10 Things to Include in Your Resume to Land the Job
+              <br/>
+             </a>
+             <br/>
+            </font>
+            <a href="http://www.jobblyco.com/resource-center/23-ways-in-which-linkedin-can-help-your-job-search" target="_blank" title="">
+             <font color="#2A2A2A">
+              23 Ways in which LinkedIn Can Help Your Job Search
+             </font>
+            </a>
+            <br/>
+           </div>
+           <div class="paragraph" style="text-align:center;">
+            Share 29 Extremly Successful People throughout History who Failed at First
+           </div>
+           <div>
+            <div class="wsite-image wsite-image-border-none" style="padding-top:5px;padding-bottom:10px;margin-left:0px;margin-right:10px;text-align:center">
+             <a>
+              <img alt="Picture" src="/uploads/2/6/8/5/26851851/5588774.png?98" style="width:auto;max-width:100%"/>
+             </a>
+             <div style="display:block;font-size:90%">
+             </div>
+            </div>
+           </div>
+           <div>
+            <div align="center" class="wcustomhtml" id="600355395545822095" style="width: 100%; overflow-y: hidden;">
+             <!-- AddToAny BEGIN -->
+             <a class="a2a_dd" href="http://www.addtoany.com/share_save">
+              <img alt="Share" border="0" height="16" src="http://static.addtoany.com/buttons/share_save_171_16.png" width="171"/>
+             </a>
+             <script src="//static.addtoany.com/menu/page.js" type="text/javascript">
+             </script>
+             <!-- AddToAny END -->
+            </div>
+           </div>
+          </div>
+          <div class="blog-social">
+           <div class="blog-social-item blog-fb-like">
+            <fb:like action="like" href="http://www.jobblyco.com/3/post/2014/08/29-extremely-successful-people-throughout-history-who-failed-at-first.html" layout="button_count" share="false" show_faces="false" width="90">
+            </fb:like>
+           </div>
+           <div class="blog-social-item">
+            <a class="twitter-share-button" data-count="horizontal" data-text="29 Extremely Successful People throughout History who Failed at First - JOBBLY CO." href="http://twitter.com/share?url=http://www.jobblyco.com/3/post/2014/08/29-extremely-successful-people-throughout-history-who-failed-at-first.html">
+            </a>
+           </div>
+           <div style="clear:both">
+           </div>
+          </div>
+          <div class="blog-comments-bottom">
+           <a class="blog-link" href="http://www.jobblyco.com/resource-center/29-extremely-successful-people-throughout-history-who-failed-at-first#comments">
+            0 Comments
+           </a>
+          </div>
+          <div class="blog-post-separator">
+          </div>
+         </div>
+         <a id="comments" name="comments">
+         </a>
+         <div id="commentArea">
+          <div class="blog-comment-area">
+           <div id="commentText">
+            <!-- lastComment -->
+            <div id="lastComment">
+            </div>
+           </div>
+           <br/>
+           <br/>
+           <br/>
+           <h2 id="commentReplyTitle">
+            Leave a Reply.
+           </h2>
+           <div class="blogCommentReplyWrapper ">
+            <div class="iframeWrapper">
+             <div class="iframeContainer">
+              <iframe allowtransparency="true" frameborder="0" scrolling="no" src="//www.weebly.com/editor/apps/showCommentForm-v2.php?user_id=26851851&amp;blog_id=754471888399761357&amp;post_id=638952823134591702&amp;parent=http://www.jobblyco.com/resource-center/29-extremely-successful-people-throughout-history-who-failed-at-first&amp;is_mobile=&amp;r=3&amp;is_light=1">
+              </iframe>
+             </div>
+            </div>
+           </div>
+          </div>
+          <!-- bid-1: , path:  -->
+         </div>
+         <!-- bid: $blog_id -->
+        </div>
+       </div>
+      </td>
+      <td class="blog-sidebar" valign="top">
+       <div class="column-blog" id="209215194296575476-sidebar">
+        <div class="blog-sidebar-separator">
+         <ul class="columnlist-blog" id="209215194296575476-sidebar-list" style="margin:0; padding: 0;">
+          <div class="paragraph" style="text-align:left;">
+           <font color="#2a2a2a">
+            WHAT CAREER SHOULD YOU HAVE? TAKE OUR QUIZ AND FIND OUT!
+           </font>
+          </div>
+          <div style="text-align:left;">
+           <div style="height: 10px; overflow: hidden;">
+           </div>
+           <a class="wsite-button wsite-button-small wsite-button-normal" href="/quiz.html">
+            <span class="wsite-button-inner">
+             TAKE QUIZ!
+            </span>
+           </a>
+           <div style="height: 10px; overflow: hidden;">
+           </div>
+          </div>
+          <p class="blog-feed-link">
+           <a href="/3/feed">
+            <img src="//cdn1.editmysite.com/editor/images/common/bg_feed.gif"/>
+            RSS Feed
+           </a>
+          </p>
+          <h2 class="blog-archives-title" style="text-align:left;">
+           Archives
+          </h2>
+          <p class="blog-archive-list">
+           <a class="blog-link" href="/resource-center/archives/08-2014">
+            August 2014
+           </a>
+           <br/>
+           <a class="blog-link" href="/resource-center/archives/07-2014">
+            July 2014
+           </a>
+           <br/>
+           <a class="blog-link" href="/resource-center/archives/06-2014">
+            June 2014
+           </a>
+           <br/>
+           <a class="blog-link" href="/resource-center/archives/05-2014">
+            May 2014
+           </a>
+           <br/>
+          </p>
+          <h2 class="blog-category-title" style="text-align:left;">
+           Categories
+          </h2>
+          <p class="blog-category-list">
+           <a class="blog-link" href="/resource-center/category/all">
+            All
+           </a>
+           <br/>
+           <a class="blog-link" href="/resource-center/category/advice">
+            Advice
+           </a>
+           <br/>
+           <a class="blog-link" href="/resource-center/category/career">
+            Career
+           </a>
+           <br/>
+           <a class="blog-link" href="/resource-center/category/graduate-jobs">
+            Graduate Jobs
+           </a>
+           <br/>
+           <a class="blog-link" href="/resource-center/category/graduates">
+            Graduates
+           </a>
+           <br/>
+           <a class="blog-link" href="/resource-center/category/inspiration">
+            Inspiration
+           </a>
+           <br/>
+           <a class="blog-link" href="/resource-center/category/internship">
+            Internship
+           </a>
+           <br/>
+           <a class="blog-link" href="/resource-center/category/job-interview">
+            Job Interview
+           </a>
+           <br/>
+           <a class="blog-link" href="/resource-center/category/job-search">
+            Job Search
+           </a>
+           <br/>
+           <a class="blog-link" href="/resource-center/category/linkedin">
+            LinkedIn
+           </a>
+           <br/>
+           <a class="blog-link" href="/resource-center/category/network">
+            Network
+           </a>
+           <br/>
+           <a class="blog-link" href="/resource-center/category/quotes">
+            Quotes
+           </a>
+           <br/>
+           <a class="blog-link" href="/resource-center/category/resume">
+            Resume
+           </a>
+           <br/>
+           <a class="blog-link" href="/resource-center/category/salary">
+            Salary
+           </a>
+           <br/>
+           <a class="blog-link" href="/resource-center/category/social-media">
+            Social Media
+           </a>
+           <br/>
+           <a class="blog-link" href="/resource-center/category/Social media">
+            Social Media
+           </a>
+           <br/>
+           <a class="blog-link" href="/resource-center/category/student-jobs">
+            Student Jobs
+           </a>
+           <br/>
+           <a class="blog-link" href="/resource-center/category/students">
+            Students
+           </a>
+           <br/>
+           <a class="blog-link" href="/resource-center/category/tech">
+            Tech
+           </a>
+           <br/>
+           <a class="blog-link" href="/resource-center/category/useful-resources">
+            Useful Resources
+           </a>
+           <br/>
+          </p>
+         </ul>
+        </div>
+       </div>
+      </td>
+     </tr>
+    </table>
+    <hr style="visibility: hidden; clear: both;"/>
+   </div>
+   <!-- end container -->
+  </div>
+  <!-- end main-wrap -->
+  <div id="footer-wrap">
+   <div class="container">
+    <div class="wsite-elements wsite-footer">
+     <div>
+      <div class="wsite-multicol">
+       <div class="wsite-multicol-table-wrap" style="margin:0 -15px">
+        <table class="wsite-multicol-table">
+         <tbody class="wsite-multicol-tbody">
+          <tr class="wsite-multicol-tr">
+           <td class="wsite-multicol-col " style="width:33.333333333333%;padding:0 15px">
+            <div class="paragraph" style="text-align:left;">
+             (c) Jobbly Co. 2014. All rights reserved.
+            </div>
+           </td>
+           <td class="wsite-multicol-col " style="width:33.333333333333%;padding:0 15px">
+            <div style="text-align:center;">
+             <div style="height: 10px; overflow: hidden;">
+             </div>
+             <a class="wsite-button wsite-button-small wsite-button-normal" href="/about.html">
+              <span class="wsite-button-inner">
+               About
+              </span>
+             </a>
+             <div style="height: 10px; overflow: hidden;">
+             </div>
+            </div>
+           </td>
+           <td class="wsite-multicol-col " style="width:33.333333333333%;padding:0 15px">
+            <div style="text-align:center;">
+             <div style="height: 10px; overflow: hidden;">
+             </div>
+             <a class="wsite-button wsite-button-small wsite-button-normal" href="/contact.html">
+              <span class="wsite-button-inner">
+               Contact
+              </span>
+             </a>
+             <div style="height: 10px; overflow: hidden;">
+             </div>
+            </div>
+           </td>
+          </tr>
+         </tbody>
+        </table>
+       </div>
+      </div>
+     </div>
+    </div>
+    <script type="text/javascript">
+     //&lt;!--
+
+if (document.cookie.match(/(^|;)\s*is_mobile=1/)) {
+	var windowHref = window.location.href || '';
+	if (windowHref.indexOf('?') &gt; -1) {
+		windowHref += '&amp;';
+	} else {
+		windowHref += '?';
+	}
+	document.write(
+		"&nbsp;&nbsp;&nbsp;&nbsp;" +
+		"&lt;a class='wsite-view-link-mobile' href='" + windowHref + "view=mobile'&gt;Mobile Site&lt;/a&gt;"
+	);
+}
+
+//--&gt;
+    </script>
+   </div>
+   <!-- end container -->
+  </div>
+  <!-- end footer-wrap -->
+  <script>
+   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-50835427-1', 'mystudentstuff.com');
+  ga('send', 'pageview');
+  </script>
+  <script type="text/javascript">
+   var _gaq = _gaq || [];
+	_gaq.push(['_setAccount', 'UA-7870337-1']);
+	_gaq.push(['_setDomainName', 'none']);
+	_gaq.push(['_setAllowLinker', true]);
+	_gaq.push(['_trackPageview']);
+
+	(function() {
+		var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+		ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+	})();
+  </script>
+  <!-- Quantcast Tag -->
+  <script type="text/javascript">
+   var _qevents = _qevents || [];
+
+(function() {
+var elem = document.createElement('script');
+elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js";
+elem.async = true;
+elem.type = "text/javascript";
+var scpt = document.getElementsByTagName('script')[0];
+scpt.parentNode.insertBefore(elem, scpt);
+})();
+
+_qevents.push({
+qacct:"p-0dYLvhSGGqUWo",
+labels:"l5,u26851851.u26851851s100618838176432945"
+});
+  </script>
+  <noscript>
+   <div style="display:none;">
+    <img alt="Quantcast" border="0" height="1" src="//pixel.quantserve.com/pixel/p-0dYLvhSGGqUWo.gif?labels=l5,u26851851.u26851851s100618838176432945" width="1"/>
+   </div>
+  </noscript>
+  <!-- End Quantcast tag -->
+  <script>
+   (function(jQuery) {
+		try {
+			if (jQuery) {
+				jQuery('div.blog-social div.fb-like').attr('class', 'blog-social-item blog-fb-like');
+				var $commentFrame = jQuery('#commentArea iframe');
+				if ($commentFrame.length &gt; 0) {
+					var frameHeight = jQuery($commentFrame[0].contentWindow.document).height() + 50;
+					$commentFrame.css('min-height', frameHeight + 'px');
+				}
+				if (jQuery('.product-button').length &gt; 0){
+					jQuery(document).ready(function(){
+						jQuery('.product-button').parent().each(function(index, product){
+							if(jQuery(product).attr('target') == 'paypal'){
+								if (!jQuery(product).find('&gt; [name="bn"]').length){
+									jQuery('&lt;input&gt;').attr({
+										type: 'hidden',
+										name: 'bn',
+										value: 'DragAndDropBuil_SP_EC'
+									}).appendTo(product);
+								}
+							}
+						});
+					});
+				}
+			}
+			else {
+				// Prototype
+				$$('div.blog-social div.fb-like').each(function(div) {
+					div.className = 'blog-social-item blog-fb-like';
+				});
+				$$('#commentArea iframe').each(function(iframe) {
+					iframe.style.minHeight = '410px';
+				});
+			}
+		}
+		catch(ex) {}
+	})(window._W &amp;&amp; _W.jQuery);
+  </script>
+  <script>
+   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-50835427-1', 'mystudentstuff.com');
+  ga('send', 'pageview');
+  </script>
+  <div id="fb-root">
+  </div>
+  <script>
+   (function(d, s, id) {var js, fjs = d.getElementsByTagName(s)[0];if (d.getElementById(id)) return;js = d.createElement(s); js.id = id;js.src = '//connect.face' + 'book.net/en_US/sdk.js#xfbml=1&amp;version=v2.0';fjs.parentNode.insertBefore(js, fjs);}(document, 'script', 'facebook-jssdk'));
+  </script>
+  <script type="text/javascript">
+   (function() {function j(src, id) {var s = document.createElement('script');s.type = 'text/javascript';s.async = true;s.src = src;if(id) {s.id=id};document.getElementsByTagName('head')[0].appendChild(s);}j('//platform.twi'+'tter.com/widgets.js');})()
+  </script>
+ </body>
+</html>

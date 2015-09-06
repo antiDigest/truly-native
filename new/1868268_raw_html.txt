@@ -1,0 +1,1466 @@
+<!DOCTYPE html>
+<html lang="en-US" prefix="og: http://ogp.me/ns#">
+ <head>
+  <meta content="text/html;charset=utf-8" http-equiv="content-type"/>
+  <meta content="87EF8544E4FB4715E5AC7A3FF91DD127" name="msvalidate.01"/>
+  <meta content="ef2c3eb3232ec30b835d46deba9cca47" name="p:domain_verify"/>
+  <script type="application/ld+json">
+   { "@context" : "http://schema.org",  "@type" : "Organization",  "name" : "smarTours",  "url" : "https://www.smartours.com",  "sameAs" : [ "https://www.facebook.com/smartours",    "https://www.twitter.com/smartours_co",    "https://plus.google.com/+smartours",    "https://www.instagram.com/smartours",    "https://www.youtube.com/channel/UCMn1HEiOrxv2m9azCqn4cGg",    "https://www.linkedin.com/company/smartours",    "https://www.yelp.com/biz/smartours-new-york",	"https://www.pinterest.com/smartours",	"http://www.freebase.com/m/012bnqw5" ] }
+  </script>
+  <meta content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=no" name="viewport"/>
+  <script src="https://code.jquery.com/jquery-latest.min.js" type="text/javascript">
+  </script>
+  <link href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css" rel="stylesheet"/>
+  <link href="https://www.smartours.com/wp-content/themes/midway/fancybox/source/jquery.fancybox.css?v=2.1.5" media="screen" rel="stylesheet" type="text/css"/>
+  <script src="https://www.smartours.com/wp-content/themes/midway/fancybox/source/jquery.fancybox.pack.js?v=2.1.5" type="text/javascript">
+  </script>
+  <script src="https://www.smartours.com/wp-content/themes/midway/js/jquery.scrollbar.js" type="text/javascript">
+  </script>
+  <!--[if lt IE 9]&gt;&lt;script type="text/javascript" src="https://www.smartours.com/wp-content/themes/midway/js/html5.js"&gt;&lt;/script&gt;&lt;![endif]-->
+  <!-- This site is optimized with the Yoast WordPress SEO plugin v2.1.1 - https://yoast.com/wordpress/plugins/seo/ -->
+  <title>
+   China Sweepstakes - smarTours
+  </title>
+  <meta content="noodp,noydir" name="robots"/>
+  <link href="https://www.smartours.com/beijing-shanghai-sweepstakes/" rel="canonical"/>
+  <link href="https://plus.google.com/+smartours" rel="publisher"/>
+  <meta content="en_US" property="og:locale"/>
+  <meta content="article" property="og:type"/>
+  <meta content="China Sweepstakes - smarTours" property="og:title"/>
+  <meta content="ThesmarToursChina sweepstakes has come to an end. Thank you to the thousands of participants, and congratulations to the lucky winner! Even though the sweepstakes is over, you can still sign up below for thesmarTours email list to learn about hot deals, exclusive updates, and last-minute specials! You can also click here to see all of " property="og:description"/>
+  <meta content="https://www.smartours.com/beijing-shanghai-sweepstakes/" property="og:url"/>
+  <meta content="smarTours" property="og:site_name"/>
+  <meta content="https://www.smartours.com/wp-content/uploads/2014/02/2cb08616079edff24ffae3c838936a51.jpg" property="og:image"/>
+  <script type="application/ld+json">
+   {"@context":"http:\/\/schema.org","@type":"WebSite","url":"https:\/\/www.smartours.com\/","name":"smarTours"}
+  </script>
+  <!-- / Yoast WordPress SEO plugin. -->
+  <link href="https://www.smartours.com/feed/" rel="alternate" title="smarTours  Feed" type="application/rss+xml"/>
+  <link href="https://www.smartours.com/comments/feed/" rel="alternate" title="smarTours  Comments Feed" type="application/rss+xml"/>
+  <link href="https://www.smartours.com/beijing-shanghai-sweepstakes/feed/" rel="alternate" title="smarTours  China Sweepstakes Comments Feed" type="application/rss+xml"/>
+  <script type="text/javascript">
+   window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"concatemoji":"https:\/\/www.smartours.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.2.2"}};
+			!function(a,b,c){function d(a){var c=b.createElement("canvas"),d=c.getContext&amp;&amp;c.getContext("2d");return d&amp;&amp;d.fillText?(d.textBaseline="top",d.font="600 32px Arial","flag"===a?(d.fillText(String.fromCharCode(55356,56812,55356,56807),0,0),c.toDataURL().length&gt;3e3):(d.fillText(String.fromCharCode(55357,56835),0,0),0!==d.getImageData(16,16,1,1).data[0])):!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g;c.supports={simple:d("simple"),flag:d("flag")},c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.simple&amp;&amp;c.supports.flag||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&amp;&amp;c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&amp;&amp;f.twemoji&amp;&amp;(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+  </script>
+  <style type="text/css">
+   img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+  </style>
+  <link href="https://www.smartours.com/wp-content/plugins/wp-customer-reviews/wp-customer-reviews.css?ver=2.4.8" id="wp-customer-reviews-css" media="all" rel="stylesheet" type="text/css"/>
+  <link href="https://www.smartours.com/wp-content/plugins/bbpress/templates/default/css/bbpress.css?ver=2.5.7-5693" id="bbp-default-css" media="screen" rel="stylesheet" type="text/css"/>
+  <link href="https://www.smartours.com/wp-content/plugins/cforms2/styling/cforms2012.css?ver=4.2.2" id="cforms2-css" media="all" rel="stylesheet" type="text/css"/>
+  <link href="https://www.smartours.com/wp-content/themes/midway/js/colorbox/colorbox.css?ver=4.2.2" id="colorbox-css" media="all" rel="stylesheet" type="text/css"/>
+  <link href="https://www.smartours.com/wp-content/themes/midway/framework/assets/css/datepicker.css?ver=4.2.2" id="jquery-ui-datepicker-css" media="all" rel="stylesheet" type="text/css"/>
+  <link href="https://www.smartours.com/wp-content/themes/midway/style.css?ver=4.2.2" id="general-css" media="all" rel="stylesheet" type="text/css"/>
+  <script src="https://www.smartours.com/wp-includes/js/jquery/jquery.js?ver=1.11.2" type="text/javascript">
+  </script>
+  <script src="https://www.smartours.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1" type="text/javascript">
+  </script>
+  <script src="https://www.smartours.com/wp-content/plugins/wp-customer-reviews/wp-customer-reviews.js?ver=2.4.8" type="text/javascript">
+  </script>
+  <script src="https://www.smartours.com/wp-content/plugins/cforms2/js/jquery.md5.js?ver=1.2.1" type="text/javascript">
+  </script>
+  <script type="text/javascript">
+   /* &lt;![CDATA[ */
+var cforms2_ajax = {"url":"https:\/\/www.smartours.com\/wp-admin\/admin-ajax.php","nonces":{"reset_captcha":"b38b6d8f99","submitcomment":"bcddd142d5"}};
+/* ]]&gt; */
+  </script>
+  <script src="https://www.smartours.com/wp-content/plugins/cforms2/js/cforms.js?ver=14.9.5" type="text/javascript">
+  </script>
+  <script src="https://www.smartours.com/wp-content/themes/midway/js/jquery.hoverIntent.min.js?ver=4.2.2" type="text/javascript">
+  </script>
+  <script src="https://www.smartours.com/wp-content/themes/midway/js/jquery.ui.touchPunch.js?ver=4.2.2" type="text/javascript">
+  </script>
+  <script src="https://www.smartours.com/wp-content/themes/midway/js/colorbox/jquery.colorbox.min.js?ver=4.2.2" type="text/javascript">
+  </script>
+  <script src="https://www.smartours.com/wp-content/themes/midway/js/jquery.placeholder.min.js?ver=4.2.2" type="text/javascript">
+  </script>
+  <script src="https://www.smartours.com/wp-content/themes/midway/js/jquery.themexSlider.js?ver=4.2.2" type="text/javascript">
+  </script>
+  <script src="https://www.smartours.com/wp-content/themes/midway/js/jquery.twitterFetcher.js?ver=4.2.2" type="text/javascript">
+  </script>
+  <script src="https://www.smartours.com/wp-content/themes/midway/js/jquery.textPattern.js?ver=4.2.2" type="text/javascript">
+  </script>
+  <script type="text/javascript">
+   /* &lt;![CDATA[ */
+var labels = {"dateFormat":"dd\/mm\/yy","dayNames":["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"],"dayNamesMin":["Su","Mo","Tu","We","Th","Fr","Sa"],"monthNames":["January","February","March","April","May","June","July","August","September","October","November","December"],"firstDay":"1","prevText":"Prev","nextText":"Next"};
+/* ]]&gt; */
+  </script>
+  <script src="https://www.smartours.com/wp-content/themes/midway/js/general.js?ver=4.2.2" type="text/javascript">
+  </script>
+  <link href="https://www.smartours.com/xmlrpc.php?rsd" rel="EditURI" title="RSD" type="application/rsd+xml"/>
+  <link href="https://www.smartours.com/wp-includes/wlwmanifest.xml" rel="wlwmanifest" type="application/wlwmanifest+xml"/>
+  <meta content="WordPress 4.2.2" name="generator"/>
+  <link href="https://www.smartours.com/?p=4626" rel="shortlink"/>
+  <link href="https://www.smartours.com/wp-content/uploads/2013/12/smtfav.png" rel="shortcut icon"/>
+  <style type="text/css">
+   body, .site-container{background-image:url(https://www.smartours.com/wp-content/uploads/2013/12/site_bg_blank1.jpg);}body, input, select, textarea{font-family:Open Sans, Arial, Helvetica, sans-serif;}h1,h2,h3,h4,h5,h6, .button, .header-menu a, .woocommerce a.button,.woocommerce button.button,.woocommerce input.button,.woocommerce #respond input#submit,.woocommerce #content input.button,.woocommerce-page a.button,.woocommerce-page button.button,.woocommerce-page input.button,.woocommerce-page #respond input#submit,.woocommerce-page #content input.button{font-family:Signika, Arial, Helvetica, sans-serif;}a, h1 a:hover, h2 a:hover, h3 a:hover, h4 a:hover, h5 a:hover, h6 a:hover, .header-menu ul ul a:hover, .header-menu &gt; div &gt; ul &gt; li.current-menu-item &gt; a,.header-menu &gt; div &gt; ul &gt; li.current-menu-parent &gt; a,.header-menu &gt; div &gt; ul &gt; li.hover &gt; a,.header-menu &gt; div &gt; ul &gt; li:hover &gt; a{color:#FF9000;}input[type="submit"], input[type="button"], .button, .colored-icon, .widget_recent_comments li:before, .ui-slider .ui-slider-range, .tour-itinerary .tour-day-number h5, .testimonials-slider .controls a.current, .woocommerce a.button.alt, .woocommerce button.button.alt, .woocommerce input.button.alt, .woocommerce #respond input#submit.alt, .woocommerce #content input.button.alt, .woocommerce-page a.button.alt, .woocommerce-page button.button.alt, .woocommerce-page input.button.alt, .woocommerce-page #respond input#submit.alt, .woocommerce-page #content input.button.alt, .woocommerce a.button.alt:hover, .woocommerce button.button.alt:hover, .woocommerce input.button.alt:hover, .woocommerce #respond input#submit.alt:hover, .woocommerce #content input.button.alt:hover, .woocommerce-page a.button.alt:hover, .woocommerce-page button.button.alt:hover, .woocommerce-page input.button.alt:hover, .woocommerce-page #respond input#submit.alt:hover, .woocommerce-page #content input.button.alt:hover{background-color:#FF9000;}.header .logo a, .header .header-text h5, .header .social-links span, .header-menu a, .header-menu a span, .site-footer .row, .site-footer a, .header-widgets .widget, .header-widgets .widget a, .header-widgets .section-title h3{color:#FFFFFF;}.header-menu ul ul li, .header-menu &gt; div &gt; ul &gt; li.current-menu-item &gt; a, .header-menu &gt; div &gt; ul &gt; li.current-menu-parent &gt; a, .header-menu &gt; div &gt; ul &gt; li.hover &gt; a, .header-menu &gt; div &gt; ul &gt; li:hover &gt; a{background-color:#FFFFFF;}::-moz-selection{background-color:#FF9000;}::selection{background-color:#FF9000;}
+  </style>
+  <script type="text/javascript">
+   WebFontConfig = {google: { families: [ "Signika:400,600","Open Sans:400,400italic,600" ] } };
+			(function() {
+				var wf = document.createElement("script");
+				wf.src = ("https:" == document.location.protocol ? "https" : "http") + "://ajax.googleapis.com/ajax/libs/webfont/1/webfont.js";
+				wf.type = "text/javascript";
+				wf.async = "true";
+				var s = document.getElementsByTagName("script")[0];
+				s.parentNode.insertBefore(wf, s);
+			})();
+  </script>
+  <link href="https://www.smartours.com/wp-content/themes/midway/style_custom.css" media="all" rel="stylesheet" type="text/css"/>
+  <link href="https://www.smartours.com/wp-content/themes/midway/style_custom_fix.css" media="all" rel="stylesheet" type="text/css"/>
+  <link href="https://www.smartours.com/wp-content/themes/midway/country_code/css/intlTelInput.css" rel="stylesheet"/>
+  <script type="text/javascript">
+   $(document).ready(function() {	$("a.tour_form").fancybox({		type        : 'iframe',	    maxWidth    : '90%',	    maxHeight   : '90%',	    fitToView   : true,	    autoSize    : false,	    closeClick  : false,	    openEffect  : 'none',	    closeEffect : 'none',	    overlayOpacity		 :	'0.4',		overlayColor		 :	'#000',		hideOnContentClick	 :  false,		autoScale		   	 :  false, 		transitionIn		 :  'elastic',		transitionOut		 :   'elastic',		scrolling		     : 'no',		helpers: {        	overlay: {                locked: true             }        }	});});
+  </script>
+  <script type="text/javascript">
+   var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");			document.write("&lt;script src='" + gaJsHost + "google-analytics.com/ga.js" type='text/javascript'&gt;" + "&lt;/sc" + "ript&gt;");
+  </script>
+  <script type="text/javascript">
+   var pageTracker = _gat._getTracker("UA-45003136-1");			pageTracker._trackPageview();			function _uGC(l, n, s) {			if (!l || l == "" || !n || n == "" || !s || s == "") return "-";			var i, i2, i3, c = "-";			i = l.indexOf(n);			i3 = n.indexOf("=") + 1;			if (i &gt; -1) {			i2 = l.indexOf(s, i); if (i2 &lt; 0) { i2 = l.length; }			c = l.substring((i + i3), i2); }			return c; }			var z = _uGC(document.cookie, "__utmz=", ";");			var source = _uGC(z, "utmcsr=", "|");			var medium = _uGC(z, "utmcmd=", "|");			var term = _uGC(z, "utmctr=", "|");			var content = _uGC(z, "utmcct=", "|");			var campaign = _uGC(z, "utmccn=", "|");			var gclid = _uGC(z, "utmgclid=", "|");			if (gclid != "-") {			source = "google";			medium = "cpc"; }			var csegment = _uGC(document.cookie, "__utmv=", ";");			if (csegment != "-") {			var csegmentex = /[1-9]*?\.(.*)/;			csegment = csegment.match(csegmentex);			csegment = csegment[1];			} else {			csegment = "(not set)";			}			function populateHiddenFields(f) {			f.source.value = source;			f.medium.value = medium;			f.term.value = term;			f.content.value = content;			f.campaign.value = campaign;			// diagnostics			alert("source = " + source + " - " + f.source.value);			alert("medium = " + medium + " - " + f.medium.value);			alert("term = " + term + " - " + f.term.value);			alert("content= " + content + " - " + f.content.value);			alert("campaign = " + campaign + " - " + f.campaign.value);						return false;			}
+  </script>
+ </head>
+ <body class="page page-id-4626 page-template-default">
+  <header>
+   <div class="container">
+    <div class="substrate top-substrate">
+     <img alt="" class="fullwidth" src="https://www.smartours.com/wp-content/uploads/2013/12/site_bg_blank1.jpg"/>
+    </div>
+    <!-- background -->
+    <div class="logo-comp">
+     <div class="row">
+      <div class="col-sm-6">
+       <div class="logo" itemscope="" itemtype="https://schema.org/Organization">
+        <a href="https://www.smartours.com" itemprop="url" rel="home">
+         <img alt="smarTours" itemprop="logo" src="https://www.smartours.com/wp-content/themes/midway/smt_images/smartours_logo_20.jpg"/>
+        </a>
+       </div>
+       <!-- logo -->
+      </div>
+      <div class="col-sm-6">
+       <div id="top_company_contact">
+        <p>
+         Call us at
+         <span class="top_phone">
+          1-800-337-7773
+         </span>
+         or
+         <span class="top_phone">
+          212-297-0955
+         </span>
+        </p>
+        <p class="hours">
+         Monday-Friday 9:30-5:30 EST
+        </p>
+        <p>
+         Join over 150,000 Happy Travelers Since 1996
+        </p>
+       </div>
+      </div>
+     </div>
+    </div>
+    <div class="topmenu">
+     <div class="row">
+      <div class="col-md-10">
+       <nav class="header-menu">
+        <div class="menu-icon">
+         <img src="https://www.smartours.com/wp-content/themes/midway/images/menu.svg"/>
+        </div>
+        <div class="menu-items">
+         <div class="menu">
+          <ul class="menu" id="menu-main-menu">
+           <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10321" id="menu-item-10321">
+            <a href="https://www.smartours.com/">
+             Home
+            </a>
+           </li>
+           <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-10322" id="menu-item-10322">
+            <a href="https://www.smartours.com/all-tours/">
+             Tours
+            </a>
+            <ul class="sub-menu">
+             <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-10323" id="menu-item-10323">
+              <a href="https://www.smartours.com/destinations/africa/">
+               Africa
+              </a>
+              <ul class="sub-menu">
+               <li class="menu-item menu-item-type-post_type menu-item-object-tour menu-item-10324" id="menu-item-10324">
+                <a href="https://www.smartours.com/tour/cape-town-safari-express/">
+                 Cape Town &amp; Safari Express
+                </a>
+               </li>
+               <li class="menu-item menu-item-type-post_type menu-item-object-tour menu-item-10325" id="menu-item-10325">
+                <a href="https://www.smartours.com/tour/kenya-wildlife-safari/">
+                 Kenya Wildlife Safari
+                </a>
+               </li>
+               <li class="menu-item menu-item-type-post_type menu-item-object-tour menu-item-10326" id="menu-item-10326">
+                <a href="https://www.smartours.com/tour/majestic-morocco/">
+                 Majestic Morocco
+                </a>
+               </li>
+               <li class="menu-item menu-item-type-post_type menu-item-object-tour menu-item-10327" id="menu-item-10327">
+                <a href="https://www.smartours.com/tour/south-africa-highlights-safari/">
+                 South Africa Highlights &amp; Safari
+                </a>
+               </li>
+              </ul>
+             </li>
+             <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-10328" id="menu-item-10328">
+              <a href="https://www.smartours.com/destinations/asia/">
+               Asia
+              </a>
+              <ul class="sub-menu">
+               <li class="menu-item menu-item-type-post_type menu-item-object-tour menu-item-10329" id="menu-item-10329">
+                <a href="https://www.smartours.com/tour/amazing-thailand/">
+                 Amazing Thailand
+                </a>
+               </li>
+               <li class="menu-item menu-item-type-post_type menu-item-object-tour menu-item-10330" id="menu-item-10330">
+                <a href="https://www.smartours.com/tour/amazing-thailand-angkor-wat/">
+                 Amazing Thailand &amp; Angkor Wat
+                </a>
+               </li>
+               <li class="menu-item menu-item-type-post_type menu-item-object-tour menu-item-10331" id="menu-item-10331">
+                <a href="https://www.smartours.com/tour/amazing-thailand-phuket-island/">
+                 Amazing Thailand &amp; Phuket Island
+                </a>
+               </li>
+               <li class="menu-item menu-item-type-post_type menu-item-object-tour menu-item-10332" id="menu-item-10332">
+                <a href="https://www.smartours.com/tour/beijing-shanghai/">
+                 Beijing &amp; Shanghai
+                </a>
+               </li>
+               <li class="menu-item menu-item-type-post_type menu-item-object-tour menu-item-10333" id="menu-item-10333">
+                <a href="https://www.smartours.com/tour/best-of-the-orient-bangkok-singapore-bali-hong-kong/">
+                 Best of the Orient: Bangkok, Singapore, Bali &amp; Hong Kong
+                </a>
+               </li>
+               <li class="menu-item menu-item-type-post_type menu-item-object-tour menu-item-10334" id="menu-item-10334">
+                <a href="https://www.smartours.com/tour/burma-discovery/">
+                 Burma Discovery
+                </a>
+               </li>
+               <li class="menu-item menu-item-type-post_type menu-item-object-tour menu-item-10335" id="menu-item-10335">
+                <a href="https://www.smartours.com/tour/china-yangtze-river-cruise-with-hong-kong/">
+                 China &amp; Yangtze River Cruise with Hong Kong
+                </a>
+               </li>
+               <li class="menu-item menu-item-type-post_type menu-item-object-tour menu-item-10336" id="menu-item-10336">
+                <a href="https://www.smartours.com/tour/china-sampler/">
+                 China Sampler
+                </a>
+               </li>
+               <li class="menu-item menu-item-type-post_type menu-item-object-tour menu-item-10337" id="menu-item-10337">
+                <a href="https://www.smartours.com/tour/discover-japan/">
+                 Discover Japan
+                </a>
+               </li>
+               <li class="menu-item menu-item-type-post_type menu-item-object-tour menu-item-10338" id="menu-item-10338">
+                <a href="https://www.smartours.com/tour/incredible-india/">
+                 Incredible India
+                </a>
+               </li>
+               <li class="menu-item menu-item-type-post_type menu-item-object-tour menu-item-10339" id="menu-item-10339">
+                <a href="https://www.smartours.com/tour/india-nepal/">
+                 India &amp; Nepal
+                </a>
+               </li>
+               <li class="menu-item menu-item-type-post_type menu-item-object-tour menu-item-10340" id="menu-item-10340">
+                <a href="https://www.smartours.com/tour/vietnam-angkor-wat/">
+                 Vietnam &amp; Angkor Wat
+                </a>
+               </li>
+              </ul>
+             </li>
+             <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-10341" id="menu-item-10341">
+              <a href="https://www.smartours.com/tour/australia-new-zealand/">
+               Australia &amp; New Zealand
+              </a>
+              <ul class="sub-menu">
+               <li class="menu-item menu-item-type-post_type menu-item-object-tour menu-item-10342" id="menu-item-10342">
+                <a href="https://www.smartours.com/tour/australia-new-zealand/">
+                 Australia &amp; New Zealand
+                </a>
+               </li>
+              </ul>
+             </li>
+             <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-10343" id="menu-item-10343">
+              <a href="https://www.smartours.com/destinations/china/">
+               China
+              </a>
+              <ul class="sub-menu">
+               <li class="menu-item menu-item-type-post_type menu-item-object-tour menu-item-10344" id="menu-item-10344">
+                <a href="https://www.smartours.com/tour/beijing-shanghai/">
+                 Beijing &amp; Shanghai
+                </a>
+               </li>
+               <li class="menu-item menu-item-type-post_type menu-item-object-tour menu-item-10345" id="menu-item-10345">
+                <a href="https://www.smartours.com/tour/china-yangtze-river-cruise-with-hong-kong/">
+                 China &amp; Yangtze River Cruise with Hong Kong
+                </a>
+               </li>
+               <li class="menu-item menu-item-type-post_type menu-item-object-tour menu-item-10346" id="menu-item-10346">
+                <a href="https://www.smartours.com/tour/china-sampler/">
+                 China Sampler
+                </a>
+               </li>
+              </ul>
+             </li>
+             <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-10347" id="menu-item-10347">
+              <a href="https://www.smartours.com/destinations/europe/">
+               Europe
+              </a>
+              <ul class="sub-menu">
+               <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-10348" id="menu-item-10348">
+                <a href="https://www.smartours.com/destinations/eastern-central-europe/">
+                 Eastern Europe
+                </a>
+                <ul class="sub-menu">
+                 <li class="menu-item menu-item-type-post_type menu-item-object-tour menu-item-10349" id="menu-item-10349">
+                  <a href="https://www.smartours.com/tour/baltic-states-berlin/">
+                   Baltic States &amp; Berlin
+                  </a>
+                 </li>
+                 <li class="menu-item menu-item-type-post_type menu-item-object-tour menu-item-10350" id="menu-item-10350">
+                  <a href="https://www.smartours.com/tour/budapest-vienna-prague/">
+                   Budapest, Vienna &amp; Prague
+                  </a>
+                 </li>
+                 <li class="menu-item menu-item-type-post_type menu-item-object-tour menu-item-10351" id="menu-item-10351">
+                  <a href="https://www.smartours.com/tour/cruise-of-the-czars-the-russian-waterways/">
+                   Cruise of the Czars: The Russian Waterways
+                  </a>
+                 </li>
+                 <li class="menu-item menu-item-type-post_type menu-item-object-tour menu-item-10352" id="menu-item-10352">
+                  <a href="https://www.smartours.com/tour/danube-discovery-cruise/">
+                   Danube Discovery Cruise
+                  </a>
+                 </li>
+                 <li class="menu-item menu-item-type-post_type menu-item-object-tour menu-item-10353" id="menu-item-10353">
+                  <a href="https://www.smartours.com/tour/great-cities-of-eastern-europe/">
+                   Great Cities of Eastern Europe
+                  </a>
+                 </li>
+                 <li class="menu-item menu-item-type-post_type menu-item-object-tour menu-item-10354" id="menu-item-10354">
+                  <a href="https://www.smartours.com/tour/jewels-of-the-adriatic-croatia-slovenia/">
+                   Jewels of the Adriatic: Croatia &amp; Slovenia
+                  </a>
+                 </li>
+                 <li class="menu-item menu-item-type-post_type menu-item-object-tour menu-item-10355" id="menu-item-10355">
+                  <a href="https://www.smartours.com/tour/sound-of-music-alps-danube/">
+                   Sound of Music Cruise: The Alps &amp; Danube
+                  </a>
+                 </li>
+                </ul>
+               </li>
+               <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-10356" id="menu-item-10356">
+                <a href="https://www.smartours.com/destinations/western-europe/">
+                 Western Europe
+                </a>
+                <ul class="sub-menu">
+                 <li class="menu-item menu-item-type-post_type menu-item-object-tour menu-item-10357" id="menu-item-10357">
+                  <a href="https://www.smartours.com/tour/magical-ireland/">
+                   Magical Ireland
+                  </a>
+                 </li>
+                 <li class="menu-item menu-item-type-post_type menu-item-object-tour menu-item-10358" id="menu-item-10358">
+                  <a href="https://www.smartours.com/tour/paris-normandy-loire-valley/">
+                   Paris, Normandy &amp; Loire Valley
+                  </a>
+                 </li>
+                 <li class="menu-item menu-item-type-post_type menu-item-object-tour menu-item-10359" id="menu-item-10359">
+                  <a href="https://www.smartours.com/tour/romantic-italy/">
+                   Romantic Italy
+                  </a>
+                 </li>
+                 <li class="menu-item menu-item-type-post_type menu-item-object-tour menu-item-10360" id="menu-item-10360">
+                  <a href="https://www.smartours.com/tour/scandinavian-explorer/">
+                   Scandinavian Explorer
+                  </a>
+                 </li>
+                 <li class="menu-item menu-item-type-post_type menu-item-object-tour menu-item-10361" id="menu-item-10361">
+                  <a href="https://www.smartours.com/tour/spectacular-greece-with-island-cruise/">
+                   Spectacular Greece with Island Cruise
+                  </a>
+                 </li>
+                 <li class="menu-item menu-item-type-post_type menu-item-object-tour menu-item-10362" id="menu-item-10362">
+                  <a href="https://www.smartours.com/tour/spectacular-scotland/">
+                   Spectacular Scotland
+                  </a>
+                 </li>
+                 <li class="menu-item menu-item-type-post_type menu-item-object-tour menu-item-10363" id="menu-item-10363">
+                  <a href="https://www.smartours.com/tour/the-best-of-spain/">
+                   The Best of Spain
+                  </a>
+                 </li>
+                 <li class="menu-item menu-item-type-post_type menu-item-object-tour menu-item-10364" id="menu-item-10364">
+                  <a href="https://www.smartours.com/tour/unforgettable-france/">
+                   Unforgettable France
+                  </a>
+                 </li>
+                </ul>
+               </li>
+              </ul>
+             </li>
+             <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-10365" id="menu-item-10365">
+              <a href="https://www.smartours.com/destinations/india-nepal/">
+               India &amp; Nepal
+              </a>
+              <ul class="sub-menu">
+               <li class="menu-item menu-item-type-post_type menu-item-object-tour menu-item-10366" id="menu-item-10366">
+                <a href="https://www.smartours.com/tour/incredible-india/">
+                 Incredible India
+                </a>
+               </li>
+               <li class="menu-item menu-item-type-post_type menu-item-object-tour menu-item-10367" id="menu-item-10367">
+                <a href="https://www.smartours.com/tour/india-nepal/">
+                 India &amp; Nepal
+                </a>
+               </li>
+              </ul>
+             </li>
+             <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-10368" id="menu-item-10368">
+              <a href="https://www.smartours.com/tour/discover-japan/">
+               Japan
+              </a>
+              <ul class="sub-menu">
+               <li class="menu-item menu-item-type-post_type menu-item-object-tour menu-item-10369" id="menu-item-10369">
+                <a href="https://www.smartours.com/tour/discover-japan/">
+                 Discover Japan
+                </a>
+               </li>
+              </ul>
+             </li>
+             <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-10370" id="menu-item-10370">
+              <a href="https://www.smartours.com/destinations/mediterranean/">
+               Mediterranean
+              </a>
+              <ul class="sub-menu">
+               <li class="menu-item menu-item-type-post_type menu-item-object-tour menu-item-10371" id="menu-item-10371">
+                <a href="https://www.smartours.com/tour/majestic-morocco/">
+                 Majestic Morocco
+                </a>
+               </li>
+               <li class="menu-item menu-item-type-post_type menu-item-object-tour menu-item-10372" id="menu-item-10372">
+                <a href="https://www.smartours.com/tour/spectacular-greece-with-island-cruise/">
+                 Spectacular Greece with Island Cruise
+                </a>
+               </li>
+               <li class="menu-item menu-item-type-post_type menu-item-object-tour menu-item-10373" id="menu-item-10373">
+                <a href="https://www.smartours.com/tour/treasures-of-turkey/">
+                 Treasures of Turkey
+                </a>
+               </li>
+               <li class="menu-item menu-item-type-post_type menu-item-object-tour menu-item-10374" id="menu-item-10374">
+                <a href="https://www.smartours.com/tour/wonders-of-israel/">
+                 Wonders of Israel
+                </a>
+               </li>
+              </ul>
+             </li>
+             <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-10375" id="menu-item-10375">
+              <a href="https://www.smartours.com/destinations/latin-america/">
+               Latin America
+              </a>
+              <ul class="sub-menu">
+               <li class="menu-item menu-item-type-post_type menu-item-object-tour menu-item-10376" id="menu-item-10376">
+                <a href="https://www.smartours.com/tour/discover-colombia/">
+                 Discover Colombia
+                </a>
+               </li>
+               <li class="menu-item menu-item-type-post_type menu-item-object-tour menu-item-10377" id="menu-item-10377">
+                <a href="https://www.smartours.com/tour/ecuador-galapagos-cruise/">
+                 Ecuador &amp; Galapagos Cruise
+                </a>
+               </li>
+               <li class="menu-item menu-item-type-post_type menu-item-object-tour menu-item-10378" id="menu-item-10378">
+                <a href="https://www.smartours.com/tour/enchanting-peru/">
+                 Enchanting Peru
+                </a>
+               </li>
+               <li class="menu-item menu-item-type-post_type menu-item-object-tour menu-item-10379" id="menu-item-10379">
+                <a href="https://www.smartours.com/tour/guatemala-adventure-with-copan-ruins-honduras/">
+                 Guatemala Adventure with Copan Ruins (Honduras)
+                </a>
+               </li>
+               <li class="menu-item menu-item-type-post_type menu-item-object-tour menu-item-10380" id="menu-item-10380">
+                <a href="https://www.smartours.com/tour/incredible-patagonia-buenos-aires/">
+                 Incredible Patagonia (&amp; Buenos Aires)
+                </a>
+               </li>
+               <li class="menu-item menu-item-type-post_type menu-item-object-tour menu-item-10381" id="menu-item-10381">
+                <a href="https://www.smartours.com/tour/machu-picchu-galapagos-cruise/">
+                 Machu Picchu &amp; Galapagos Cruise
+                </a>
+               </li>
+               <li class="menu-item menu-item-type-post_type menu-item-object-tour menu-item-10382" id="menu-item-10382">
+                <a href="https://www.smartours.com/tour/rediscover-cuba/">
+                 Rediscover Cuba
+                </a>
+               </li>
+               <li class="menu-item menu-item-type-post_type menu-item-object-tour menu-item-10383" id="menu-item-10383">
+                <a href="https://www.smartours.com/tour/south-american-odyssey/">
+                 South American Odyssey
+                </a>
+               </li>
+              </ul>
+             </li>
+            </ul>
+           </li>
+           <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-10384" id="menu-item-10384">
+            <a href="https://www.smartours.com/all-cruises/">
+             Cruises
+            </a>
+            <ul class="sub-menu">
+             <li class="menu-item menu-item-type-post_type menu-item-object-tour menu-item-10385" id="menu-item-10385">
+              <a href="https://www.smartours.com/tour/china-yangtze-river-cruise-with-hong-kong/">
+               China &amp; Yangtze River Cruise with Hong Kong
+              </a>
+             </li>
+             <li class="menu-item menu-item-type-post_type menu-item-object-tour menu-item-10386" id="menu-item-10386">
+              <a href="https://www.smartours.com/tour/cruise-of-the-czars-the-russian-waterways/">
+               Cruise of the Czars: The Russian Waterways
+              </a>
+             </li>
+             <li class="menu-item menu-item-type-post_type menu-item-object-tour menu-item-10387" id="menu-item-10387">
+              <a href="https://www.smartours.com/tour/danube-discovery-cruise/">
+               Danube Discovery Cruise
+              </a>
+             </li>
+             <li class="menu-item menu-item-type-post_type menu-item-object-tour menu-item-10388" id="menu-item-10388">
+              <a href="https://www.smartours.com/tour/ecuador-galapagos-cruise/">
+               Ecuador &amp; Galapagos Cruise
+              </a>
+             </li>
+             <li class="menu-item menu-item-type-post_type menu-item-object-tour menu-item-10389" id="menu-item-10389">
+              <a href="https://www.smartours.com/tour/machu-picchu-galapagos-cruise/">
+               Machu Picchu &amp; Galapagos Cruise
+              </a>
+             </li>
+             <li class="menu-item menu-item-type-post_type menu-item-object-tour menu-item-10390" id="menu-item-10390">
+              <a href="https://www.smartours.com/tour/sound-of-music-alps-danube/">
+               Sound of Music Cruise: The Alps &amp; Danube
+              </a>
+             </li>
+             <li class="menu-item menu-item-type-post_type menu-item-object-tour menu-item-10391" id="menu-item-10391">
+              <a href="https://www.smartours.com/tour/spectacular-greece-with-island-cruise/">
+               Spectacular Greece with Island Cruise
+              </a>
+             </li>
+            </ul>
+           </li>
+           <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-10392" id="menu-item-10392">
+            <a href="#">
+             About
+            </a>
+            <ul class="sub-menu">
+             <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10393" id="menu-item-10393">
+              <a href="https://www.smartours.com/about/">
+               About Us
+              </a>
+             </li>
+             <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10394" id="menu-item-10394">
+              <a href="https://www.smartours.com/awards/">
+               Awards
+              </a>
+             </li>
+             <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10395" id="menu-item-10395">
+              <a href="https://www.smartours.com/careers/">
+               Careers
+              </a>
+             </li>
+             <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10396" id="menu-item-10396">
+              <a href="https://www.smartours.com/in-the-news/">
+               In the News
+              </a>
+             </li>
+             <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10397" id="menu-item-10397">
+              <a href="https://www.smartours.com/why-we-are-different/">
+               Why Were Different
+              </a>
+             </li>
+            </ul>
+           </li>
+           <li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-10398" id="menu-item-10398">
+            <a href="#">
+             Learn More
+            </a>
+            <ul class="sub-menu">
+             <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10399" id="menu-item-10399">
+              <a href="https://www.smartours.com/find-a-tour-roommate/">
+               Find a Tour Roommate
+              </a>
+             </li>
+             <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10400" id="menu-item-10400">
+              <a href="https://www.smartours.com/custom-groups/">
+               Custom Groups
+              </a>
+             </li>
+             <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10401" id="menu-item-10401">
+              <a href="https://www.smartours.com/smartours-reviews/">
+               smarTours Reviews
+              </a>
+             </li>
+             <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10402" id="menu-item-10402">
+              <a href="https://www.smartours.com/travel-insurance/">
+               Travel Insurance
+              </a>
+             </li>
+             <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10403" id="menu-item-10403">
+              <a href="https://www.smartours.com/privacy/">
+               Privacy
+              </a>
+             </li>
+             <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10405" id="menu-item-10405">
+              <a href="https://www.smartours.com/terms/">
+               Terms &amp; Conditions
+              </a>
+             </li>
+             <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10404" id="menu-item-10404">
+              <a href="https://www.smartours.com/blog/">
+               Blog
+              </a>
+             </li>
+            </ul>
+           </li>
+           <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10406" id="menu-item-10406">
+            <a href="https://www.smartours.com/subscribe/">
+             Join Our Email List
+            </a>
+           </li>
+           <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10407" id="menu-item-10407">
+            <a href="https://www.smartours.com/in-the-news/">
+             In the News
+            </a>
+           </li>
+           <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-10408" id="menu-item-10408">
+            <a href="https://www.smartours.com/contact/">
+             Contact
+            </a>
+           </li>
+          </ul>
+         </div>
+        </div>
+       </nav>
+      </div>
+      <div class="col-md-2">
+       <div class="social-links">
+        <a class="google" href="https://plus.google.com/+smartours/posts" target="_blank" title="Google">
+        </a>
+        <a class="facebook" href="https://www.facebook.com/smartours" target="_blank" title="Facebook">
+        </a>
+        <a class="twitter" href="https://twitter.com/smarTours_Co" target="_blank" title="Twitter">
+        </a>
+       </div>
+       <!-- social links -->
+      </div>
+     </div>
+    </div>
+    <!-- supheader -->
+    <div class="block-background header-background">
+    </div>
+   </div>
+  </header>
+  <!-- header -->
+  <section class="site-content">
+   <div class="container">
+    <p>
+     <a href="https://www.smartours.com/all-tours/">
+      <img alt="2cb08616079edff24ffae3c838936a51" class="aligncenter wp-image-8211" height="312" src="https://www.smartours.com/wp-content/uploads/2014/02/2cb08616079edff24ffae3c838936a51.jpg" width="513"/>
+     </a>
+    </p>
+    <p style="text-align: center;">
+     <strong>
+      <span style="font-family: georgia, palatino; font-size: 18px;">
+       The
+       <em>
+        smarTours
+       </em>
+       China sweepstakes has come to an end. Thank you to the thousands of participants, and congratulations to the lucky winner!
+      </span>
+     </strong>
+    </p>
+    <p style="text-align: center;">
+     <strong>
+      <span style="font-family: georgia, palatino; font-size: 18px;">
+       Even though the sweepstakes is over, you can still sign up below for the
+       <em>
+        smarTours
+       </em>
+       email list to learn about hot deals, exclusive updates, and last-minute specials! You can also
+       <a href="https://www.smartours.com/all-tours/">
+        click here
+       </a>
+       to see all of the amazing tours we have to offer across Asia, Africa, South America, &amp; Europe!
+      </span>
+     </strong>
+    </p>
+    <div class="newsletter-subheader">
+     <div id="HomeNewsletterColumn">
+      <div class="NewsletterSubscription">
+       <div class="row">
+        <div class="col-md-4">
+         <h2>
+          Sign up to receive hot deals &amp; exclusive offers!
+         </h2>
+        </div>
+        <div class="col-md-8">
+         <form action="https://www.smartours.com/wp-admin/admin-ajax.php" class="formatted-form ajax-form" method="POST">
+          <div class="message">
+          </div>
+          <div class="col-sm-4 col-sm-offset-1 col-md-offset-0 col-md-5">
+           <div class="row">
+            <div class="inline">
+             <label for="name">
+              <span>
+               * Name
+              </span>
+             </label>
+            </div>
+            <div class="inline">
+             <input id="name" name="first_name" type="text"/>
+            </div>
+           </div>
+          </div>
+          <div class="col-sm-4 col-md-5">
+           <div class="row">
+            <div class="inline">
+             <label for="email">
+              <span>
+               * Email
+              </span>
+             </label>
+            </div>
+            <div class="inline">
+             <input id="email" name="email" type="text"/>
+            </div>
+           </div>
+          </div>
+          <div class="col-sm-2 text-center">
+           <input name="slug" type="hidden" value="signup"/>
+           <input class="action" type="hidden" value="signup_submit"/>
+           <a class="submit-button button" href="#">
+            Submit
+           </a>
+          </div>
+         </form>
+        </div>
+       </div>
+      </div>
+     </div>
+    </div>
+    <p>
+     <span style="font-family: georgia, palatino;">
+     </span>
+    </p>
+    <div id="wpcr_respond_1">
+    </div>
+   </div>
+  </section>
+  <!-- content -->
+  <footer class="site-footer">
+   <div class="container">
+    <div class="hidden-mobile">
+     <div class="row">
+      <div class="col-xs-6 col-sm-3 col-md-5ths ">
+       <div class="PagesMenu Block" id="PagesMenu">
+        <h2>
+         About smarTours
+        </h2>
+        <div class="detail">
+        </div>
+        <div class="Panel BlockContent" id="Menu">
+         <ul>
+          <li class=" ">
+           <a href="https://www.smartours.com">
+            <span>
+             Home
+            </span>
+           </a>
+          </li>
+          <li class=" ">
+           <a href="https://www.smartours.com/about/">
+            <span>
+             About Us
+            </span>
+           </a>
+          </li>
+          <li class=" ">
+           <a href="https://www.smartours.com/why-we-are-different/">
+            <span>
+             Why We're Different
+            </span>
+           </a>
+          </li>
+          <li class=" ">
+           <a href="https://www.smartours.com/in-the-news/">
+            <span>
+             In the News
+            </span>
+           </a>
+          </li>
+          <li class=" ">
+           <a href="https://www.smartours.com/awards/">
+            <span>
+             Awards
+            </span>
+           </a>
+          </li>
+          <li class=" ">
+           <a href="https://www.smartours.com/careers/">
+            <span>
+             Careers
+            </span>
+           </a>
+          </li>
+          <li class=" ">
+           <a href="https://www.smartours.com/contact/">
+            <span>
+             Contact Us
+            </span>
+           </a>
+          </li>
+         </ul>
+        </div>
+       </div>
+      </div>
+      <!-- Column -->
+      <div class="col-xs-6 col-sm-3 col-md-5ths ">
+       <div class="Block CategoryList Panel">
+        <h2>
+         Our Destinations
+        </h2>
+        <div class="detail">
+        </div>
+        <div class="BlockContent">
+         <ul>
+          <li class=" ">
+           <a href="https://www.smartours.com/destinations/africa/">
+            <span>
+             Africa
+            </span>
+           </a>
+          </li>
+          <li class=" ">
+           <a href="https://www.smartours.com/destinations/asia/">
+            <span>
+             Asia
+            </span>
+           </a>
+          </li>
+          <li class=" ">
+           <a href="https://www.smartours.com/destinations/australia-new-zealand/">
+            <span>
+             Australia &amp; New Zealand
+            </span>
+           </a>
+          </li>
+          <li class=" ">
+           <a href="https://www.smartours.com/destinations/china/">
+            <span>
+             China
+            </span>
+           </a>
+          </li>
+          <li class=" ">
+           <a href="https://www.smartours.com/destinations/eastern-central-europe/">
+            <span>
+             Eastern &amp; Central Europe
+            </span>
+           </a>
+          </li>
+          <li class=" ">
+           <a href="https://www.smartours.com/destinations/europe/">
+            <span>
+             Europe
+            </span>
+           </a>
+          </li>
+          <li class=" ">
+           <a href="https://www.smartours.com/destinations/india-nepal/">
+            <span>
+             India &amp; Nepal
+            </span>
+           </a>
+          </li>
+          <li class=" ">
+           <a href="https://www.smartours.com/destinations/japan/">
+            <span>
+             Japan
+            </span>
+           </a>
+          </li>
+          <li class=" ">
+           <a href="https://www.smartours.com/destinations/mediterranean/">
+            <span>
+             Mediterranean
+            </span>
+           </a>
+          </li>
+          <li class=" ">
+           <a href="https://www.smartours.com/destinations/latin-america/">
+            <span>
+             Latin America
+            </span>
+           </a>
+          </li>
+          <li class=" ">
+           <a href="https://www.smartours.com/destinations/western-europe/">
+            <span>
+             Western Europe
+            </span>
+           </a>
+          </li>
+         </ul>
+        </div>
+       </div>
+      </div>
+      <!-- Column -->
+      <div class="col-xs-6 col-sm-3 col-md-5ths learn-more">
+       <div class="Block NewsletterSubscription Moveable Panel" id="SideNewsletterBox">
+        <h2>
+         Learn More
+        </h2>
+        <div class="detail">
+        </div>
+        <div class="BlockContent">
+         <ul>
+          <li class=" ">
+           <a href="https://www.smartours.com/reviews/">
+            <span>
+             smarTours Reviews
+            </span>
+           </a>
+          </li>
+          <li class=" ">
+           <a href="https://www.smartours.com/travel-insurance/">
+            <span>
+             Travel Insurance
+            </span>
+           </a>
+          </li>
+          <li class=" ">
+           <a href="https://www.smartours.com/custom-groups/">
+            <span>
+             Custom Groups
+            </span>
+           </a>
+          </li>
+          <li class=" ">
+           <a href="https://www.smartours.com/find-a-tour-roommate/">
+            <span>
+             Find a Roommate
+            </span>
+           </a>
+          </li>
+          <li class=" ">
+           <a href="https://www.smartours.com/privacy/">
+            <span>
+             Privacy
+            </span>
+           </a>
+          </li>
+          <li class=" ">
+           <a href="https://www.smartours.com/terms/">
+            <span>
+             Terms &amp; Conditions
+            </span>
+           </a>
+          </li>
+         </ul>
+        </div>
+       </div>
+      </div>
+      <!-- Column -->
+      <div class="col-xs-6 col-sm-3 col-md-5ths static">
+       <div id="socnet">
+        <h2>
+         Connect with us
+        </h2>
+        <div class="detail">
+        </div>
+        <div class="BlockContent footer-btn">
+         <ul>
+          <li class=" ">
+           <input class="Button" onclick="window.location.href='https://www.smartours.com/subscribe/';" type="button" value="Join Our Email List"/>
+          </li>
+         </ul>
+        </div>
+        <div class="BlockContent">
+         <a href="http://www.facebook.com/smartours" target="_blank" title="Facebook">
+          <img src="https://www.smartours.com/wp-content/themes/midway/smt_images/social-fb.jpg"/>
+         </a>
+         <a href="http://twitter.com/smarTours_Co" target="_blank" title="Twitter">
+          <img src="https://www.smartours.com/wp-content/themes/midway/smt_images/social-tw.jpg"/>
+         </a>
+         <a href="https://plus.google.com/109844267532107032208" target="_blank" title="GooglePlus">
+          <img src="https://www.smartours.com/wp-content/themes/midway/smt_images/social-gl.jpg"/>
+         </a>
+        </div>
+        <div class="BlockContent">
+         <a href="http://www.yelp.com/biz/smartours-new-york" target="_blank" title="Yelp">
+          <img src="https://www.smartours.com/wp-content/themes/midway/smt_images/yelp.jpg"/>
+         </a>
+         <a href="http://www.tourmatters.com/smartours" target="_blank" title="smarTours Profile on TourMatters">
+          <img src="https://www.smartours.com/wp-content/themes/midway/smt_images/social-tm.png"/>
+         </a>
+         <a href="https://instagram.com/smartours/" target="_blank" title="Instagram">
+          <img src="https://www.smartours.com/wp-content/themes/midway/smt_images/social-in.jpg"/>
+         </a>
+        </div>
+        <div class="BlockContent">
+         <span class="pad">
+         </span>
+         <a href="https://www.pinterest.com/smartours/" target="_blank" title="Pinterest">
+          <img src="https://www.smartours.com/wp-content/themes/midway/smt_images/social-pin.png"/>
+         </a>
+         <span class="pad">
+         </span>
+         <a href="https://www.youtube.com/channel/UCMn1HEiOrxv2m9azCqn4cGg" target="_blank" title="You Tube">
+          <img src="https://www.smartours.com/wp-content/themes/midway/smt_images/social-ytube.png"/>
+         </a>
+        </div>
+       </div>
+      </div>
+      <!-- Column -->
+      <div class="col-xs-6 col-sm-3 col-md-5ths contactinfo">
+       <div class="Block CategoryList Panel">
+        <h2>
+         Contact Information
+        </h2>
+        <div class="detail">
+        </div>
+        <div class="BlockContent">
+         <div itemscope="" itemtype="http://schema.org/Organization">
+          <div itemprop="address" itemscope="" itemtype="http://schema.org/PostalAddress">
+           <p>
+            <span itemprop="streetAddress">
+             501 Fifth Avenue
+             <br/>
+             Suite 1402
+            </span>
+           </p>
+           <p>
+            <span itemprop="addressLocality">
+             New York
+            </span>
+            ,
+            <span itemprop="postalCode">
+             NY 10017
+            </span>
+            <br/>
+           </p>
+           <p>
+            <span itemprop="addressCountry">
+             United States
+            </span>
+           </p>
+           <p>
+            Toll Free: 800.337.7773
+           </p>
+           <p>
+            Tel: 212.297.0955
+           </p>
+           <p>
+            Fax: 212.297.0965
+           </p>
+          </div>
+         </div>
+        </div>
+       </div>
+      </div>
+      <!-- Column -->
+     </div>
+    </div>
+   </div>
+   <div class="visible-mobile">
+    <div class="row">
+     <div class="col-xs-6">
+      <div class="PagesMenu Block" id="PagesMenu">
+       <h2>
+        About smarTours
+       </h2>
+       <div class="detail">
+       </div>
+       <div class="Panel BlockContent" id="Menu">
+        <ul>
+         <li class=" ">
+          <a href="https://www.smartours.com">
+           <span>
+            Home
+           </span>
+          </a>
+         </li>
+         <li class=" ">
+          <a href="https://www.smartours.com/about/">
+           <span>
+            About Us
+           </span>
+          </a>
+         </li>
+         <li class=" ">
+          <a href="https://www.smartours.com/why-we-are-different/">
+           <span>
+            Why We're Different
+           </span>
+          </a>
+         </li>
+         <li class=" ">
+          <a href="https://www.smartours.com/in-the-news/">
+           <span>
+            In the News
+           </span>
+          </a>
+         </li>
+         <li class=" ">
+          <a href="https://www.smartours.com/awards/">
+           <span>
+            Awards
+           </span>
+          </a>
+         </li>
+         <li class=" ">
+          <a href="https://www.smartours.com/careers/">
+           <span>
+            Careers
+           </span>
+          </a>
+         </li>
+         <li class=" ">
+          <a href="https://www.smartours.com/contact/">
+           <span>
+            Contact Us
+           </span>
+          </a>
+         </li>
+        </ul>
+       </div>
+      </div>
+      <!-- Column -->
+      <div class="Block CategoryList Panel">
+       <h2>
+        Our Destinations
+       </h2>
+       <div class="detail">
+       </div>
+       <div class="BlockContent">
+        <ul>
+         <li class=" ">
+          <a href="https://www.smartours.com/destinations/africa/">
+           <span>
+            Africa
+           </span>
+          </a>
+         </li>
+         <li class=" ">
+          <a href="https://www.smartours.com/destinations/asia/">
+           <span>
+            Asia
+           </span>
+          </a>
+         </li>
+         <li class=" ">
+          <a href="https://www.smartours.com/destinations/australia-new-zealand/">
+           <span>
+            Australia &amp; New Zealand
+           </span>
+          </a>
+         </li>
+         <li class=" ">
+          <a href="https://www.smartours.com/destinations/china/">
+           <span>
+            China
+           </span>
+          </a>
+         </li>
+         <li class=" ">
+          <a href="https://www.smartours.com/destinations/eastern-central-europe/">
+           <span>
+            Eastern &amp; Central Europe
+           </span>
+          </a>
+         </li>
+         <li class=" ">
+          <a href="https://www.smartours.com/destinations/europe/">
+           <span>
+            Europe
+           </span>
+          </a>
+         </li>
+         <li class=" ">
+          <a href="https://www.smartours.com/destinations/india-nepal/">
+           <span>
+            India &amp; Nepal
+           </span>
+          </a>
+         </li>
+         <li class=" ">
+          <a href="https://www.smartours.com/destinations/japan/">
+           <span>
+            Japan
+           </span>
+          </a>
+         </li>
+         <li class=" ">
+          <a href="https://www.smartours.com/destinations/mediterranean/">
+           <span>
+            Mediterranean
+           </span>
+          </a>
+         </li>
+         <li class=" ">
+          <a href="https://www.smartours.com/destinations/latin-america/">
+           <span>
+            Latin America
+           </span>
+          </a>
+         </li>
+         <li class=" ">
+          <a href="https://www.smartours.com/destinations/western-europe/">
+           <span>
+            Western Europe
+           </span>
+          </a>
+         </li>
+        </ul>
+       </div>
+      </div>
+      <!-- Column -->
+      <div class="Block NewsletterSubscription Moveable Panel" id="SideNewsletterBox">
+       <h2>
+        Learn More
+       </h2>
+       <div class="detail">
+       </div>
+       <div class="BlockContent">
+        <ul>
+         <li class=" ">
+          <a href="https://www.smartours.com/reviews/">
+           <span>
+            smarTours Reviews
+           </span>
+          </a>
+         </li>
+         <li class=" ">
+          <a href="https://www.smartours.com/travel-insurance/">
+           <span>
+            Travel Insurance
+           </span>
+          </a>
+         </li>
+         <li class=" ">
+          <a href="https://www.smartours.com/custom-groups/">
+           <span>
+            Custom Groups
+           </span>
+          </a>
+         </li>
+         <li class=" ">
+          <a href="https://www.smartours.com/find-a-tour-roommate/">
+           <span>
+            Find a Roommate
+           </span>
+          </a>
+         </li>
+         <li class=" ">
+          <a href="https://www.smartours.com/privacy/">
+           <span>
+            Privacy
+           </span>
+          </a>
+         </li>
+         <li class=" ">
+          <a href="https://www.smartours.com/terms/">
+           <span>
+            Terms &amp; Conditions
+           </span>
+          </a>
+         </li>
+        </ul>
+       </div>
+      </div>
+     </div>
+     <!-- Column -->
+     <div class="col-xs-6">
+      <div id="socnet">
+       <h2>
+        Connect with us
+       </h2>
+       <div class="BlockContent footer-btn">
+        <ul>
+         <li class=" ">
+          <input class="Button" onclick="window.location.href='https://www.smartours.com/subscribe/';" type="button" value="Join Our Email List"/>
+         </li>
+        </ul>
+       </div>
+       <div class="BlockContent">
+        <a href="http://www.facebook.com/smartours" target="_blank" title="Facebook">
+         <img src="https://www.smartours.com/wp-content/themes/midway/smt_images/social-fb.jpg"/>
+        </a>
+        <a href="http://twitter.com/smarTours_Co" target="_blank" title="Twitter">
+         <img src="https://www.smartours.com/wp-content/themes/midway/smt_images/social-tw.jpg"/>
+        </a>
+        <a href="https://plus.google.com/109844267532107032208" target="_blank" title="GooglePlus">
+         <img src="https://www.smartours.com/wp-content/themes/midway/smt_images/social-gl.jpg"/>
+        </a>
+       </div>
+       <div class="BlockContent">
+        <a href="http://www.yelp.com/biz/smartours-new-york" target="_blank" title="Yelp">
+         <img src="https://www.smartours.com/wp-content/themes/midway/smt_images/yelp.jpg"/>
+        </a>
+        <a href="http://www.tourmatters.com/smartours" target="_blank" title="smarTours Profile on TourMatters">
+         <img src="https://www.smartours.com/wp-content/themes/midway/smt_images/social-tm.png"/>
+        </a>
+        <a href="https://instagram.com/smartours/" target="_blank" title="Instagram">
+         <img src="https://www.smartours.com/wp-content/themes/midway/smt_images/social-in.jpg"/>
+        </a>
+       </div>
+       <div class="BlockContent">
+        <span class="pad">
+        </span>
+        <a href="https://www.pinterest.com/smartours/" target="_blank" title="Pinterest">
+         <img src="https://www.smartours.com/wp-content/themes/midway/smt_images/social-pin.png"/>
+        </a>
+        <span class="pad">
+        </span>
+        <a href="https://www.youtube.com/channel/UCMn1HEiOrxv2m9azCqn4cGg" target="_blank" title="You Tube">
+         <img src="https://www.smartours.com/wp-content/themes/midway/smt_images/social-ytube.png"/>
+        </a>
+       </div>
+      </div>
+      <!-- Column -->
+      <div class="contactinfo">
+       <div class="Block CategoryList Panel">
+        <h2>
+         Contact Information
+        </h2>
+        <div class="BlockContent">
+         <div itemscope="" itemtype="http://schema.org/Organization">
+          <div itemprop="address" itemscope="" itemtype="http://schema.org/PostalAddress">
+           <p>
+            <span itemprop="streetAddress">
+             501 Fifth Avenue
+             <br/>
+             Suite 1402
+            </span>
+           </p>
+           <p>
+            <span itemprop="addressLocality">
+             New York
+            </span>
+            ,
+            <span itemprop="postalCode">
+             NY 10017
+            </span>
+            <br/>
+           </p>
+           <p>
+            <span itemprop="addressCountry">
+             United States
+            </span>
+           </p>
+           <p>
+            Toll Free: 800.337.7773
+           </p>
+           <p>
+            Tel: 212.297.0955
+           </p>
+           <p>
+            Fax: 212.297.0965
+           </p>
+          </div>
+         </div>
+        </div>
+       </div>
+      </div>
+      <!-- Column -->
+     </div>
+    </div>
+   </div>
+  </footer>
+  <!-- footer -->
+  <!-- &lt;div class="substrate bottom-substrate"&gt; -->
+  <!-- &lt;/div&gt; -->
+  <div class="slideout">
+   <img class="mobile-slideout" onclick="toggle_visibility('slideout_content');" src="https://www.smartours.com/wp-content/themes/midway/images/call.svg"/>
+   <a id="slideout_button" onclick="toggle_visibility('slideout_content');">
+    Call Us
+   </a>
+   <div class="slideout_content" id="slideout_content" style="display:none;">
+    <p>
+     Toll-free 1-800-337-7773
+    </p>
+    <p>
+     Tel: 212-297-0955
+    </p>
+    <p class="hours">
+     Monday-Friday 9:30-5:30 EST
+    </p>
+   </div>
+  </div>
+  <script type="text/javascript">
+   function toggle_visibility(id) {	       var e = document.getElementById(id);	       if(e.style.display == 'block')	          e.style.display = 'none';	       else	          e.style.display = 'block';	    }
+  </script>
+  <script src="//maxcdn.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.min.js">
+  </script>
+  <script>
+   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-45003136-1', 'smartours.com');
+  ga('send', 'pageview');
+  </script>
+  <script src="https://www.smartours.com/wp-content/plugins/bbpress/templates/default/js/editor.js?ver=2.5.7-5693" type="text/javascript">
+  </script>
+  <script src="https://www.smartours.com/wp-includes/js/comment-reply.min.js?ver=4.2.2" type="text/javascript">
+  </script>
+  <script src="https://www.smartours.com/wp-includes/js/jquery/ui/core.min.js?ver=1.11.4" type="text/javascript">
+  </script>
+  <script src="https://www.smartours.com/wp-includes/js/jquery/ui/widget.min.js?ver=1.11.4" type="text/javascript">
+  </script>
+  <script src="https://www.smartours.com/wp-includes/js/jquery/ui/mouse.min.js?ver=1.11.4" type="text/javascript">
+  </script>
+  <script src="https://www.smartours.com/wp-includes/js/jquery/ui/slider.min.js?ver=1.11.4" type="text/javascript">
+  </script>
+  <script src="https://www.smartours.com/wp-includes/js/jquery/ui/datepicker.min.js?ver=1.11.4" type="text/javascript">
+  </script>
+  <script type="text/javascript">
+   /* &lt;![CDATA[ */
+var PrivyWebsiteWidgetParams = {"account_identifier":"93779DC4CEE9784178529C82"};
+/* ]]&gt; */
+  </script>
+  <script src="https://www.smartours.com/wp-content/plugins/privy-website-widget/privy-marketing-widget.js?ver=4.2.2" type="text/javascript">
+  </script>
+  <!-- Google Code for Remarketing Tag -->
+  <!--------------------------------------------------
+Remarketing tags may not be associated with personally identifiable information or placed on pages related to sensitive categories. See more information and instructions on how to setup the tag on: http://google.com/ads/remarketingsetup
+--------------------------------------------------->
+  <script type="text/javascript">
+   /* &lt;![CDATA[ */
+var google_conversion_id = 976939288;
+var google_custom_params = window.google_tag_params;
+var google_remarketing_only = true;
+/* ]]&gt; */
+  </script>
+  <script src="//www.googleadservices.com/pagead/conversion.js" type="text/javascript">
+  </script>
+  <noscript>
+   <div style="display:inline;">
+    <img alt="" height="1" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/976939288/?value=0&amp;guid=ON&amp;script=0" style="border-style:none;" width="1"/>
+   </div>
+  </noscript>
+ </body>
+</html>

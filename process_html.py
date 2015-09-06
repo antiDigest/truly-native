@@ -107,19 +107,14 @@ def main(argv):
                 - this will loop over all raw_files and create processed ouput for
                   a give site_id IF input data for that id exists, otherwise it will
                   skip it """
-    if len(argv) < 3:
+    if len(argv) < 2:
 
         print " Usage: python crawler.py <input_raw_dir> <output_directory>"
         return
 
     else:
 
-        inFolder = argv[1]
-        outputDirectory = argv[2]
-
-        if not os.path.exists(inFolder):
-            print inFolder, " does not exist"
-            return
+        outputDirectory = argv[1]
 
         if not os.path.exists(outputDirectory):
             os.makedirs(outputDirectory)
@@ -127,7 +122,7 @@ def main(argv):
         cu.log.setLevel(logging.CRITICAL)
         json_array, last_bucket = [], str(0)
 
-        fIn = glob.glob(inFolder + '/*/*raw*')
+        fIn = glob.glob('new/*raw*')
 
         for idx, filename in enumerate(fIn):
 

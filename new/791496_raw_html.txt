@@ -1,0 +1,834 @@
+<!DOCTYPE html>
+<!--[if IE 6]&gt;&lt;html id="ie6" lang="en-US" prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb#"&gt; &lt;![endif]-->
+<!--[if IE 7]&gt;&lt;html id="ie7" lang="en-US" prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb#"&gt; &lt;![endif]-->
+<!--[if IE 8]&gt;&lt;html id="ie8" lang="en-US" prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb#"&gt; &lt;![endif]-->
+<!--[if !(IE 6) | !(IE 7) | !(IE 8)  ]&gt;&lt;!-->
+<html lang="en-US" prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb#">
+ <!--&lt;![endif]-->
+ <head>
+  <!--[if IE]&gt;&lt;![endif]-->
+  <link href="//fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800&amp;subset=latin,latin-ext,cyrillic-ext,greek-ext,greek,vietnamese,cyrillic" rel="stylesheet"/>
+  <link data-minify="1" href="http://inkbotdesign.com/wp-content/cache/min/1/bccf61a23df55fadf31cf37ade752264.css" rel="stylesheet"/>
+  <link data-minify="1" href="http://inkbotdesign.com/wp-content/cache/min/1/8de7d9da5a568b2764325010d0e17e2b.css" rel="stylesheet"/>
+  <link data-minify="1" href="http://inkbotdesign.com/wp-content/cache/min/1/bb2494380cd92cd4e24d158feed7a471.css" rel="stylesheet"/>
+  <link data-minify="1" href="http://inkbotdesign.com/wp-content/cache/min/1/6cbeca7bd3744a1836fdbe8b402d2e67.css" rel="stylesheet"/>
+  <script data-minify="1" src="http://inkbotdesign.com/wp-content/cache/min/1/c07f3f0ceb3203566b1297208b4f7a6e.js">
+  </script>
+  <meta charset="utf-8"/>
+  <title>
+   Custom Logo Design Services - Professional Logos Created
+  </title>
+  <link href="http://inkbotdesign.com/xmlrpc.php" rel="pingback"/>
+  <!--[if lt IE 9]&gt; &lt;script src="http://inkbotdesign.com/wp-content/themes/Divi/js/html5.js" type="text/javascript"&gt;&lt;/script&gt; &lt;![endif]-->
+  <script type="text/javascript">
+   document.documentElement.className='js';
+  </script>
+  <meta content="noodp,noydir" name="robots"/>
+  <meta content="Do you need a new Custom Logo Design Service for your Brand? We create bespoke logos for small companies, freelancers and Corporations. Get your FREE..." name="description"/>
+  <link href="http://inkbotdesign.com/services/logo-design/" rel="canonical"/>
+  <link href="https://plus.google.com/+StuartCrawford/" rel="publisher"/>
+  <meta content="en_US" property="og:locale"/>
+  <meta content="article" property="og:type"/>
+  <meta content="Custom Logo Design Services - Professional Logos Created" property="og:title"/>
+  <meta content="Do you need a new Custom Logo Design Service for your Brand? We create bespoke logos for small companies, freelancers and Corporations. Get your FREE..." property="og:description"/>
+  <meta content="http://inkbotdesign.com/services/logo-design/" property="og:url"/>
+  <meta content="Inkbot Design" property="og:site_name"/>
+  <meta content="http://facebook.com/inkbotdesign" property="article:publisher"/>
+  <meta content="www.facebook.com/stuartlcrawford" property="article:author"/>
+  <meta content="100001378593777" property="fb:admins"/>
+  <meta content="http://inkbotdesign.com/wp-content/uploads/2012/08/Freelance-Graphic-Designer-Logos-Inkbot-Design-Logo-Portfolio.png" property="og:image"/>
+  <meta content="summary_large_image" name="twitter:card"/>
+  <meta content="Do you need a new Custom Logo Design Service for your Brand? We create bespoke logos for small companies, freelancers and Corporations. Get your FREE..." name="twitter:description"/>
+  <meta content="Custom Logo Design Services - Professional Logos Created" name="twitter:title"/>
+  <meta content="@inkbotdesign" name="twitter:site"/>
+  <meta content="Inkbot Design" name="twitter:domain"/>
+  <meta content="http://inkbotdesign.com/wp-content/uploads/2012/08/Freelance-Graphic-Designer-Logos-Inkbot-Design-Logo-Portfolio.png" name="twitter:image:src"/>
+  <meta content="@inkbotdesign" name="twitter:creator"/>
+  <meta content="Custom Logo Design Services - Professional Logos Created" itemprop="name"/>
+  <meta content="Do you need a new Custom Logo Design Service for your Brand? We create bespoke logos for small companies, freelancers and Corporations. Get your FREE..." itemprop="description"/>
+  <meta content="http://inkbotdesign.com/wp-content/uploads/2012/08/Freelance-Graphic-Designer-Logos-Inkbot-Design-Logo-Portfolio.png" itemprop="image"/>
+  <link href="http://inkbotdesign.com/feed/" rel="alternate" title="Inkbot Design  Feed" type="application/rss+xml"/>
+  <link href="http://inkbotdesign.com/comments/feed/" rel="alternate" title="Inkbot Design  Comments Feed" type="application/rss+xml"/>
+  <script type="text/javascript">
+   window._wpemojiSettings={"baseUrl":"http:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"concatemoji":"http:\/\/inkbotdesign.com\/wp-includes\/js\/wp-emoji-release.min.js"}};!function(a,b,c){function d(a){var c=b.createElement("canvas"),d=c.getContext&amp;&amp;c.getContext("2d");return d&amp;&amp;d.fillText?(d.textBaseline="top",d.font="600 32px Arial","flag"===a?(d.fillText(String.fromCharCode(55356,56812,55356,56807),0,0),c.toDataURL().length&gt;3e3):(d.fillText(String.fromCharCode(55357,56835),0,0),0!==d.getImageData(16,16,1,1).data[0])):!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g;c.supports={simple:d("simple"),flag:d("flag")},c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.simple&amp;&amp;c.supports.flag||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&amp;&amp;c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&amp;&amp;f.twemoji&amp;&amp;(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+  </script>
+  <meta content="Divi Child v.1.0.0" name="generator"/>
+  <style type="text/css">
+   img.wp-smiley,img.emoji{display:inline !important;border:none !important;box-shadow:none !important;height:1em !important;width:1em !important;margin:0
+.07em !important;vertical-align:-0.1em !important;background:none !important;padding:0
+!important}
+  </style>
+  <link href="//inkbotdesign.com/wp-content/plugins/woocommerce/assets/css/woocommerce-smallscreen.css?ver=2.3.11" id="woocommerce-smallscreen-css" media="only screen and (max-width: 768px)" rel="stylesheet" type="text/css"/>
+  <meta content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0" name="viewport"/>
+  <style id="theme-customizer-css">
+   @media only screen and ( min-width: 767px ){body, .et_pb_column_1_2 .et_quote_content blockquote cite, .et_pb_column_1_2 .et_link_content a.et_link_main_url, .et_pb_column_1_3 .et_quote_content blockquote cite, .et_pb_column_3_8 .et_quote_content blockquote cite, .et_pb_column_1_4 .et_quote_content blockquote cite, .et_pb_blog_grid .et_quote_content blockquote cite, .et_pb_column_1_3 .et_link_content a.et_link_main_url, .et_pb_column_3_8 .et_link_content a.et_link_main_url, .et_pb_column_1_4 .et_link_content a.et_link_main_url, .et_pb_blog_grid .et_link_content a.et_link_main_url, body .et_pb_bg_layout_light .et_pb_post p,  body .et_pb_bg_layout_dark .et_pb_post
+p{font-size:14px}.et_pb_slide_content,.et_pb_best_value{font-size:15px}}body{color:#373d3f}.woocommerce #respond input#submit, .woocommerce-page #respond input#submit, .woocommerce #content input.button, .woocommerce-page #content input.button,.woocommerce-message,.woocommerce-error,.woocommerce-info{background:#0274be !important}#et_search_icon:hover, .mobile_menu_bar:before, .et-social-icon a:hover, .et_pb_sum, .et_pb_pricing li a, .et_pb_pricing_table_button, .et_overlay:before, .entry-summary p.price ins, .woocommerce div.product span.price, .woocommerce-page div.product span.price, .woocommerce #content div.product span.price, .woocommerce-page #content div.product span.price, .woocommerce div.product p.price, .woocommerce-page div.product p.price, .woocommerce #content div.product p.price, .woocommerce-page #content div.product p.price, .et_pb_member_social_links a:hover, .woocommerce .star-rating span:before, .woocommerce-page .star-rating span:before, .et_pb_widget li a:hover, .et_pb_filterable_portfolio .et_pb_portfolio_filters li a.active, .et_pb_filterable_portfolio .et_pb_portofolio_pagination ul li a.active, .et_pb_gallery .et_pb_gallery_pagination ul li a.active, .wp-pagenavi span.current, .wp-pagenavi a:hover, .nav-single a, .posted_in
+a{color:#0274be}.et_pb_contact_submit, .et_password_protected_form .et_submit_button, .et_pb_bg_layout_light .et_pb_newsletter_button, .comment-reply-link, .form-submit input, .et_pb_bg_layout_light .et_pb_promo_button, .et_pb_bg_layout_light .et_pb_more_button, .woocommerce a.button.alt, .woocommerce-page a.button.alt, .woocommerce button.button.alt, .woocommerce-page button.button.alt, .woocommerce input.button.alt, .woocommerce-page input.button.alt, .woocommerce #respond input#submit.alt, .woocommerce-page #respond input#submit.alt, .woocommerce #content input.button.alt, .woocommerce-page #content input.button.alt, .woocommerce a.button, .woocommerce-page a.button, .woocommerce button.button, .woocommerce-page button.button, .woocommerce input.button, .woocommerce-page
+input.button{color:#0274be}.footer-widget
+h4{color:#0274be}.et-search-form, .nav li ul, .et_mobile_menu, .footer-widget li:before, .et_pb_pricing li:before,blockquote{border-color:#0274be}.et_pb_counter_amount, .et_pb_featured_table .et_pb_pricing_heading,.et_quote_content,.et_link_content,.et_audio_content{background-color:#0274be}.container, .et_pb_row, .et_pb_slider .et_pb_container, .et_pb_fullwidth_section .et_pb_title_container, .et_pb_fullwidth_section .et_pb_title_featured_container, .et_pb_fullwidth_header:not(.et_pb_fullscreen) .et_pb_fullwidth_header_container{max-width:1098px}.et_boxed_layout #page-container, .et_fixed_nav.et_boxed_layout #page-container #top-header, .et_fixed_nav.et_boxed_layout #page-container #main-header, .et_boxed_layout #page-container .container, .et_boxed_layout #page-container
+.et_pb_row{max-width:1258px}a{color:#107896}#top-header, #et-secondary-nav li
+ul{background-color:#f9f9f9}#top-header, #top-header
+a{color:rgba(0,0,0,0.7)}.et_header_style_centered .mobile_nav .select_page, .et_header_style_split .mobile_nav .select_page, .et_nav_text_color_light #top-menu &gt; li &gt; a, .et_nav_text_color_dark #top-menu &gt; li &gt; a, #top-menu a, .et_mobile_menu li a, .et_nav_text_color_light .et_mobile_menu li a, .et_nav_text_color_dark .et_mobile_menu li a, #et_search_icon:before, .et_search_form_container input, span.et_close_search_field:after, #et-top-navigation .et-cart-info,.mobile_menu_bar:before{color:#2d3743}.et_search_form_container input::-moz-placeholder{color:#2d3743}.et_search_form_container input::-webkit-input-placeholder{color:#2d3743}.et_search_form_container input:-ms-input-placeholder{color:#2d3743}#top-menu li.current-menu-ancestor &gt; a, #top-menu li.current-menu-item&gt;a{color:#0274be}#main-footer{background-color:#2d3743}#main-footer .footer-widget
+h4{color:#0274be}.footer-widget li:before{border-color:#0274be}body .et_pb_button,
+.woocommerce a.button.alt, .woocommerce-page a.button.alt, .woocommerce button.button.alt, .woocommerce-page button.button.alt, .woocommerce input.button.alt, .woocommerce-page input.button.alt, .woocommerce #respond input#submit.alt, .woocommerce-page #respond input#submit.alt, .woocommerce #content input.button.alt, .woocommerce-page #content input.button.alt,
+.woocommerce a.button, .woocommerce-page a.button, .woocommerce button.button, .woocommerce-page button.button, .woocommerce input.button, .woocommerce-page input.button, .woocommerce #respond input#submit, .woocommerce-page #respond input#submit, .woocommerce #content input.button, .woocommerce-page #content
+input.button{font-size:24px;background:rgba(155,194,60,0);border-width:1px !important}body.et_pb_button_helper_class .et_pb_button,
+.woocommerce.et_pb_button_helper_class a.button.alt, .woocommerce-page.et_pb_button_helper_class a.button.alt, .woocommerce.et_pb_button_helper_class button.button.alt, .woocommerce-page.et_pb_button_helper_class button.button.alt, .woocommerce.et_pb_button_helper_class input.button.alt, .woocommerce-page.et_pb_button_helper_class input.button.alt, .woocommerce.et_pb_button_helper_class #respond input#submit.alt, .woocommerce-page.et_pb_button_helper_class #respond input#submit.alt, .woocommerce.et_pb_button_helper_class #content input.button.alt, .woocommerce-page.et_pb_button_helper_class #content input.button.alt,
+.woocommerce.et_pb_button_helper_class a.button, .woocommerce-page.et_pb_button_helper_class a.button, .woocommerce.et_pb_button_helper_class button.button, .woocommerce-page.et_pb_button_helper_class button.button, .woocommerce.et_pb_button_helper_class input.button, .woocommerce-page.et_pb_button_helper_class input.button, .woocommerce.et_pb_button_helper_class #respond input#submit, .woocommerce-page.et_pb_button_helper_class #respond input#submit, .woocommerce.et_pb_button_helper_class #content input.button, .woocommerce-page.et_pb_button_helper_class #content
+input.button{}body .et_pb_button:after,
+.woocommerce a.button.alt:after, .woocommerce-page a.button.alt:after, .woocommerce button.button.alt:after, .woocommerce-page button.button.alt:after, .woocommerce input.button.alt:after, .woocommerce-page input.button.alt:after, .woocommerce #respond input#submit.alt:after, .woocommerce-page #respond input#submit.alt:after, .woocommerce #content input.button.alt:after, .woocommerce-page #content input.button.alt:after,
+.woocommerce a.button:after, .woocommerce-page a.button:after, .woocommerce button.button:after, .woocommerce-page button.button:after, .woocommerce input.button:after, .woocommerce-page input.button:after, .woocommerce #respond input#submit:after, .woocommerce-page #respond input#submit:after, .woocommerce #content input.button:after, .woocommerce-page #content input.button:after{font-size:38.4px}body .et_pb_button:hover,
+.woocommerce a.button.alt:hover, .woocommerce-page a.button.alt:hover, .woocommerce button.button.alt:hover, .woocommerce-page button.button.alt:hover, .woocommerce input.button.alt:hover, .woocommerce-page input.button.alt:hover, .woocommerce #respond input#submit.alt:hover, .woocommerce-page #respond input#submit.alt:hover, .woocommerce #content input.button.alt:hover, .woocommerce-page #content input.button.alt:hover,
+.woocommerce a.button:hover, .woocommerce-page a.button:hover, .woocommerce button.button, .woocommerce-page button.button:hover, .woocommerce input.button:hover, .woocommerce-page input.button:hover, .woocommerce #respond input#submit:hover, .woocommerce-page #respond input#submit:hover, .woocommerce #content input.button:hover, .woocommerce-page #content input.button:hover{background:#0274be !important;border-color:#fff !important;border-radius:0px}@media only screen and ( min-width: 981px ){.et-fixed-header#top-header, .et-fixed-header#top-header #et-secondary-nav li
+ul{background-color:#f9f9f9}.et-fixed-header #top-menu a, .et-fixed-header #et_search_icon:before, .et-fixed-header #et_top_search .et-search-form input, .et-fixed-header .et_search_form_container input, .et-fixed-header .et_close_search_field:after, .et-fixed-header #et-top-navigation .et-cart-info{color:#2d3743 !important}.et-fixed-header .et_search_form_container input::-moz-placeholder{color:#2d3743 !important}.et-fixed-header .et_search_form_container input::-webkit-input-placeholder{color:#2d3743 !important}.et-fixed-header .et_search_form_container input:-ms-input-placeholder{color:#2d3743 !important}.et-fixed-header #top-menu li.current-menu-ancestor &gt; a, .et-fixed-header #top-menu li.current-menu-item&gt;a{color:#0274be !important}}@media only screen and ( min-width: 1372px){.et_pb_row{padding:27px
+0}.et_pb_section{padding:54px
+0}.single.et_pb_pagebuilder_layout.et_full_width_page
+.et_post_meta_wrapper{padding-top:82px}.et_pb_section.et_pb_section_first{padding-top:inherit}.et_pb_fullwidth_section{padding:0}}@media only screen and ( max-width: 980px ){}@media only screen and ( max-width: 767px ){}h1,h2,h3,h4,h5,h6{font-family:'Open Sans',Helvetica,Arial,Lucida,sans-serif}body,input,textarea,select{font-family:'Open Sans',Helvetica,Arial,Lucida,sans-serif}
+  </style>
+  <style id="module-customizer-css">
+  </style>
+  <link href="http://inkbotdesign.com/wp-content/uploads/2014/03/favicon.ico" rel="shortcut icon"/>
+  <style type="text/css">
+   .mc4wp-form input[name="_mc4wp_required_but_not_really"]{display:none !important}
+  </style>
+  <style id="et-custom-css" type="text/css">
+   .et_pb_promo_button,.et_pb_newsletter_button,a.et_pb_more_button,.et_pb_pricing_table_button{-moz-border-radius:0;-webkit-border-radius:0;border-radius:0}blockquote{background:#EEE;border-left:1em solid #AAA;margin:1.5em 1em;padding:.5em 1em;quotes:"\201C""\201D"}blockquote:before{color:#AAA;content:open-quote;font-size:4em;line-height:.1em;margin-right:.25em;vertical-align:-.4em}blockquote :first-child{display:inline}blockquote :last-child{margin-bottom:0}#main-footer{border-top:#0274be 3px solid}.et-social-twitter a:before{content:'\e094'}.et-social-facebook a:before{content:'\e093'}.et-social-icon.et-social-google a:before{content:'\e096'}ul#et-social-icons
+li{float:left;margin-right:10px}ul#et-social-icons{float:right}.footer-widget:nth-child(1){width:43%}.footer-widget:nth-child(2){width:20%}.footer-widget:nth-child(3){width:20%}.et-cart-info{display:none}.et_pb_fullwidth_header .et_pb_fullwidth_header_container.left .header-content{margin-left:0 !important}
+  </style>
+  <script data-no-minify="1">
+   (function(w,d){function a(){var b=d.createElement("script");b.async=!0;b.src="http://inkbotdesign.com/wp-content/plugins/wp-rocket/inc/front/js/lazyload.1.0.2.min.js";var a=d.getElementsByTagName("script")[0];a.parentNode.insertBefore(b,a)}w.attachEvent?w.attachEvent("onload",a):w.addEventListener("load",a,!1)})(window,document);
+  </script>
+ </head>
+ <body class="page page-id-2121 page-parent page-child parent-pageid-46 page-template-default et_pb_button_helper_class et_fixed_nav et_show_nav et_secondary_nav_enabled et_secondary_nav_two_panels et_pb_gutter et_pb_gutters3 et_primary_nav_dropdown_animation_fade et_secondary_nav_dropdown_animation_fade et_pb_footer_columns4 et_header_style_left et_pb_pagebuilder_layout et_right_sidebar unknown">
+  <div id="page-container">
+   <div class="et_nav_text_color_dark" id="top-header">
+    <div class="container clearfix">
+     <div id="et-info">
+      <span id="et-info-phone">
+       07593 658426
+      </span>
+      <a href="mailto:hello@inkbotdesign.com">
+       <span id="et-info-email">
+        hello@inkbotdesign.com
+       </span>
+      </a>
+     </div>
+     <div id="et-secondary-menu">
+      <ul class="menu" id="et-secondary-nav">
+       <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7657">
+        <a href="http://inkbotdesign.com/contact/request-a-quote/">
+         Click here to Get a Free Quote
+        </a>
+       </li>
+      </ul>
+      <a class="et-cart-info" href="http://inkbotdesign.com/cart/">
+       <span>
+        0 Items
+       </span>
+      </a>
+     </div>
+    </div>
+   </div>
+   <header class="et_nav_text_color_dark" id="main-header">
+    <div class="container clearfix">
+     <a href="http://inkbotdesign.com/">
+      <img alt="Inkbot Design" id="logo" src="http://inkbotdesign.com/wp-content/uploads/2014/03/InkbotDesign_Logo250.png"/>
+     </a>
+     <div id="et-top-navigation">
+      <nav id="top-menu-nav">
+       <ul class="nav" id="top-menu">
+        <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7654" id="menu-item-7654">
+         <a href="http://inkbotdesign.com/">
+          Home
+         </a>
+        </li>
+        <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4041" id="menu-item-4041">
+         <a href="http://inkbotdesign.com/portfolio/">
+          Portfolio
+         </a>
+        </li>
+        <li class="menu-item menu-item-type-post_type menu-item-object-page current-page-ancestor current-menu-ancestor current-menu-parent current-page-parent current_page_parent current_page_ancestor menu-item-has-children menu-item-4043" id="menu-item-4043">
+         <a href="http://inkbotdesign.com/services/">
+          Services
+         </a>
+         <ul class="sub-menu">
+          <li class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-2121 current_page_item menu-item-4049" id="menu-item-4049">
+           <a href="http://inkbotdesign.com/services/logo-design/">
+            Logo Design
+           </a>
+          </li>
+          <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4044" id="menu-item-4044">
+           <a href="http://inkbotdesign.com/services/brand-identity/">
+            Brand Design
+           </a>
+          </li>
+          <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4054" id="menu-item-4054">
+           <a href="http://inkbotdesign.com/services/print-design/">
+            Print Design
+           </a>
+          </li>
+          <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4058" id="menu-item-4058">
+           <a href="http://inkbotdesign.com/services/promotional-design/">
+            Promotional Design
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-4036" id="menu-item-4036">
+         <a href="http://inkbotdesign.com/contact/">
+          Contact
+         </a>
+         <ul class="sub-menu">
+          <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4039" id="menu-item-4039">
+           <a href="http://inkbotdesign.com/contact/request-a-quote/">
+            Request a Quote
+           </a>
+          </li>
+          <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4060" id="menu-item-4060">
+           <a href="http://inkbotdesign.com/services/testimonials/">
+            Testimonials
+           </a>
+          </li>
+          <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4048" id="menu-item-4048">
+           <a href="http://inkbotdesign.com/services/faq/">
+            FAQ
+           </a>
+          </li>
+         </ul>
+        </li>
+        <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6659" id="menu-item-6659">
+         <a href="http://inkbotdesign.com/blog/">
+          Blog
+         </a>
+        </li>
+        <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-4034" id="menu-item-4034">
+         <a href="http://inkbotdesign.com/about/">
+          About
+         </a>
+        </li>
+        <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6489" id="menu-item-6489">
+         <a href="http://inkbotdesign.com/store/">
+          Store
+         </a>
+        </li>
+       </ul>
+      </nav>
+      <div id="et_mobile_nav_menu">
+       <a class="mobile_nav closed" href="#">
+        <span class="select_page">
+         Select Page
+        </span>
+        <span class="mobile_menu_bar">
+        </span>
+       </a>
+      </div>
+     </div>
+    </div>
+   </header>
+   <div id="et-main-area">
+    <div id="main-content">
+     <article class="post-2121 page type-page status-publish has-post-thumbnail hentry" id="post-2121">
+      <div class="entry-content">
+       <div class="et_pb_section et_pb_section_0 et_section_regular">
+        <div class=" et_pb_row et_pb_row_0">
+         <div class="et_pb_column et_pb_column_4_4 et_pb_column_0">
+          <div class="et_pb_text et_pb_module et_pb_bg_layout_light et_pb_text_align_left et_pb_text_0">
+           <h2 style="text-align: center;">
+            We know that creating a professional logo is critical to succeed in business. Thats why Inkbot Design provides custom logo design services at affordable prices to large companies and small businesses alike.
+           </h2>
+          </div>
+         </div>
+        </div>
+        <div class=" et_pb_row et_pb_row_1">
+         <div class="et_pb_column et_pb_column_4_4 et_pb_column_1">
+          <div class="et_pb_module et_pb_slider et_pb_slider_fullwidth_off et_slider_auto et_slider_speed_3000 et_pb_slider_0">
+           <div class="et_pb_slides">
+            <div class="et_pb_slide et_pb_bg_layout_dark et_pb_media_alignment_center et_pb_slide_0" style="background-image:url(http://inkbotdesign.com/wp-content/uploads/2014/10/Juicebaby-Juice-Bar-London-Logo.jpg);">
+             <div class="et_pb_container clearfix">
+              <div class="et_pb_slide_description">
+               <div class="et_pb_slide_content">
+               </div>
+              </div>
+             </div>
+            </div>
+            <div class="et_pb_slide et_pb_bg_layout_dark et_pb_media_alignment_center et_pb_slide_1" style="background-image:url(http://inkbotdesign.com/wp-content/uploads/2014/03/Agency-Branding-Azenby-UK.png);">
+             <div class="et_pb_container clearfix">
+              <div class="et_pb_slide_description">
+               <div class="et_pb_slide_content">
+               </div>
+              </div>
+             </div>
+            </div>
+            <div class="et_pb_slide et_pb_bg_layout_dark et_pb_media_alignment_center et_pb_slide_2" style="background-image:url(http://inkbotdesign.com/wp-content/uploads/2014/03/Company-Rebranding-Real-Estate-UK.png);">
+             <div class="et_pb_container clearfix">
+              <div class="et_pb_slide_description">
+               <div class="et_pb_slide_content">
+               </div>
+              </div>
+             </div>
+            </div>
+            <div class="et_pb_slide et_pb_bg_layout_dark et_pb_media_alignment_center et_pb_slide_3" style="background-image:url(http://inkbotdesign.com/wp-content/uploads/2014/03/Tomahawk-Logo-Design.png);">
+             <div class="et_pb_container clearfix">
+              <div class="et_pb_slide_description">
+               <div class="et_pb_slide_content">
+               </div>
+              </div>
+             </div>
+            </div>
+            <div class="et_pb_slide et_pb_bg_layout_dark et_pb_media_alignment_center et_pb_slide_4" style="background-image:url(http://inkbotdesign.com/wp-content/uploads/2014/03/Company-Brand-Logo-Design.jpg);">
+             <div class="et_pb_container clearfix">
+              <div class="et_pb_slide_description">
+               <div class="et_pb_slide_content">
+               </div>
+              </div>
+             </div>
+            </div>
+            <div class="et_pb_slide et_pb_bg_layout_dark et_pb_media_alignment_center et_pb_slide_5" style="background-image:url(http://inkbotdesign.com/wp-content/uploads/2014/03/Logo-Design-for-a-Software-Company.png);">
+             <div class="et_pb_container clearfix">
+              <div class="et_pb_slide_description">
+               <div class="et_pb_slide_content">
+               </div>
+              </div>
+             </div>
+            </div>
+            <div class="et_pb_slide et_pb_bg_layout_dark et_pb_media_alignment_center et_pb_slide_6" style="background-image:url(http://inkbotdesign.com/wp-content/uploads/2014/04/Tailgate-Bar-Signage-Design.jpg);">
+             <div class="et_pb_container clearfix">
+              <div class="et_pb_slide_description">
+               <div class="et_pb_slide_content">
+               </div>
+              </div>
+             </div>
+            </div>
+            <div class="et_pb_slide et_pb_bg_layout_dark et_pb_media_alignment_center et_pb_slide_7" style="background-image:url(http://inkbotdesign.com/wp-content/uploads/2014/04/Social-Logo-Design-Modme.jpg);">
+             <div class="et_pb_container clearfix">
+              <div class="et_pb_slide_description">
+               <div class="et_pb_slide_content">
+               </div>
+              </div>
+             </div>
+            </div>
+            <div class="et_pb_slide et_pb_bg_layout_dark et_pb_media_alignment_center et_pb_slide_8" style="background-image:url(http://inkbotdesign.com/wp-content/uploads/2014/04/Branding-Logo-Design.jpg);">
+             <div class="et_pb_container clearfix">
+              <div class="et_pb_slide_description">
+               <div class="et_pb_slide_content">
+               </div>
+              </div>
+             </div>
+            </div>
+           </div>
+          </div>
+         </div>
+        </div>
+        <div class=" et_pb_row et_pb_row_2">
+         <div class="et_pb_column et_pb_column_4_4 et_pb_column_2">
+          <div class="et_pb_text et_pb_module et_pb_bg_layout_light et_pb_text_align_left et_pb_text_1">
+           <p>
+            When you think of some of the worlds most famous brands, brands like BP, Nike, Rolls Royce or Pepsi, what happens? Do you think about those companies, or do you have an emotional response?
+           </p>
+           <p>
+            Feelings are what sells your product or service, and a professionally-created custom logodesignsparks strong feelings in your new and existing customers. At least,
+            <em>
+             it should
+            </em>
+            . If you do not have a bespoke logo yet, or people see right through the one you have,
+            <span style="text-decoration: underline;">
+             itis time for a real change
+            </span>
+            . Its time to create something special that connects with your customers hearts now and forever. Its time to hire me to give your brand the magic you need to thrive.
+           </p>
+          </div>
+         </div>
+        </div>
+        <div class=" et_pb_row et_pb_row_3">
+         <div class="et_pb_column et_pb_column_4_4 et_pb_column_3">
+          <div class="et_pb_text et_pb_module et_pb_bg_layout_light et_pb_text_align_center et_pb_text_2">
+           <h2 style="text-align: center;">
+            Your new custom logo design will blow you and your customers away 
+            <span style="text-decoration: underline;">
+             Iguarantee it!
+            </span>
+           </h2>
+          </div>
+         </div>
+        </div>
+        <div class=" et_pb_row et_pb_row_4">
+         <div class="et_pb_column et_pb_column_1_2 et_pb_column_4">
+          <div class="et_pb_text et_pb_module et_pb_bg_layout_light et_pb_text_align_left et_pb_text_3">
+           <div class="gf_browser_unknown gform_wrapper" id="gform_wrapper_13">
+            <a class="gform_anchor" id="gf_13" name="gf_13">
+            </a>
+            <form action="/services/logo-design/#gf_13" enctype="multipart/form-data" id="gform_13" method="post" target="gform_ajax_frame_13">
+             <div class="gform_body">
+              <ul class="gform_fields top_label form_sublabel_below description_below" id="gform_fields_13">
+               <li class="gfield gf_left_third gfield_contains_required field_sublabel_below field_description_below" id="field_13_12">
+                <label class="gfield_label" for="input_13_12">
+                 Name
+                 <span class="gfield_required">
+                  *
+                 </span>
+                </label>
+                <div class="ginput_container">
+                 <input class="medium" id="input_13_12" name="input_12" tabindex="1" type="text" value=""/>
+                </div>
+               </li>
+               <li class="gfield gf_middle_third gfield_contains_required field_sublabel_below field_description_below" id="field_13_2">
+                <label class="gfield_label" for="input_13_2">
+                 Email
+                 <span class="gfield_required">
+                  *
+                 </span>
+                </label>
+                <div class="ginput_container">
+                 <input class="medium" id="input_13_2" name="input_2" tabindex="2" type="email" value=""/>
+                </div>
+               </li>
+               <li class="gfield gf_right_third field_sublabel_below field_description_below" id="field_13_3">
+                <label class="gfield_label" for="input_13_3">
+                 Website
+                </label>
+                <div class="ginput_container">
+                 <input class="medium" id="input_13_3" name="input_3" tabindex="3" type="url" value=""/>
+                </div>
+               </li>
+               <li class="gfield gfield_contains_required field_sublabel_below field_description_below" id="field_13_8">
+                <label class="gfield_label" for="input_13_8">
+                 Tell me a little about your project - what are you looking for exactly?
+                 <span class="gfield_required">
+                  *
+                 </span>
+                </label>
+                <div class="ginput_container">
+                 <textarea class="textarea large" cols="50" id="input_13_8" name="input_8" rows="10" tabindex="4">
+                 </textarea>
+                </div>
+               </li>
+              </ul>
+             </div>
+             <div class="gform_footer top_label">
+              <input alt="Submit" class="gform_button gform_image_button" id="gform_submit_button_13" onclick='if(window["gf_submitting_13"]){return false;}  if( !jQuery("#gform_13")[0].checkValidity || jQuery("#gform_13")[0].checkValidity()){window["gf_submitting_13"]=true;}  ' src="http://inkbotdesign.com/wp-content/uploads/2014/09/Button4.png" tabindex="5" type="image"/>
+              <input name="gform_ajax" type="hidden" value="form_id=13&amp;title=&amp;description=&amp;tabindex=1"/>
+              <input class="gform_hidden" name="is_submit_13" type="hidden" value="1"/>
+              <input class="gform_hidden" name="gform_submit" type="hidden" value="13"/>
+              <input class="gform_hidden" name="gform_unique_id" type="hidden" value=""/>
+              <input class="gform_hidden" name="state_13" type="hidden" value="WyJbXSIsIjQwZjZjNzYyNTE4MmFjMjFhNGQ3YzdkMDhkYjQxNTFkIl0="/>
+              <input class="gform_hidden" id="gform_target_page_number_13" name="gform_target_page_number_13" type="hidden" value="0"/>
+              <input class="gform_hidden" id="gform_source_page_number_13" name="gform_source_page_number_13" type="hidden" value="1"/>
+              <input name="gform_field_values" type="hidden" value=""/>
+             </div>
+            </form>
+           </div>
+           <iframe id="gform_ajax_frame_13" name="gform_ajax_frame_13" src="about:blank" style="display:none;width:0px;height:0px;" title="Ajax Frame">
+           </iframe>
+           <script type="text/javascript">
+            jQuery(document).ready(function($){gformInitSpinner(13,'http://inkbotdesign.com/wp-content/plugins/gravityforms/images/spinner.gif');jQuery('#gform_ajax_frame_13').load(function(){var contents=jQuery(this).contents().find('*').html();var is_postback=contents.indexOf('GF_AJAX_POSTBACK')&gt;=0;if(!is_postback){return;}var form_content=jQuery(this).contents().find('#gform_wrapper_13');var is_confirmation=jQuery(this).contents().find('#gform_confirmation_wrapper_13').length&gt;0;var is_redirect=contents.indexOf('gformRedirect(){')&gt;=0;var is_form=form_content.length&gt;0&amp;&amp;!is_redirect&amp;&amp;!is_confirmation;if(is_form){jQuery('#gform_wrapper_13').html(form_content.html());setTimeout(function(){jQuery(document).scrollTop(jQuery('#gform_wrapper_13').offset().top);},50);if(window['gformInitDatepicker']){gformInitDatepicker();}if(window['gformInitPriceFields']){gformInitPriceFields();}var current_page=jQuery('#gform_source_page_number_13').val();gformInitSpinner(13,'http://inkbotdesign.com/wp-content/plugins/gravityforms/images/spinner.gif');jQuery(document).trigger('gform_page_loaded',[13,current_page]);window['gf_submitting_13']=false;}else if(!is_redirect){var confirmation_content=jQuery(this).contents().find('#gforms_confirmation_message_13').html();if(!confirmation_content){confirmation_content=contents;}setTimeout(function(){jQuery('#gform_wrapper_13').replaceWith('&lt;'+'div id=\'gforms_confirmation_message_13\' class=\'gform_confirmation_message_13 gforms_confirmation_message\''+'&gt;'+confirmation_content+'&lt;'+'/div'+'&gt;');jQuery(document).scrollTop(jQuery('#gforms_confirmation_message_13').offset().top);jQuery(document).trigger('gform_confirmation_loaded',[13]);window['gf_submitting_13']=false;},50);}else{jQuery('#gform_13').append(contents);if(window['gformRedirect']){gformRedirect();}}jQuery(document).trigger('gform_post_render',[13,current_page]);});});
+           </script>
+           <script type="text/javascript">
+            if(typeof gf_global=='undefined')var gf_global={"gf_currency_config":{"name":"Pound Sterling","symbol_left":"&#163;","symbol_right":"","symbol_padding":" ","thousand_separator":",","decimal_separator":".","decimals":2},"base_url":"http:\/\/inkbotdesign.com\/wp-content\/plugins\/gravityforms","number_formats":[],"spinnerUrl":"http:\/\/inkbotdesign.com\/wp-content\/plugins\/gravityforms\/images\/spinner.gif"};jQuery(document).bind('gform_post_render',function(event,formId,currentPage){if(formId==13){}});jQuery(document).bind('gform_post_conditional_logic',function(event,formId,fields,isInit){});
+           </script>
+           <script type="text/javascript">
+            jQuery(document).ready(function(){jQuery(document).trigger('gform_post_render',[13,1])});
+           </script>
+          </div>
+         </div>
+         <div class="et_pb_column et_pb_column_1_2 et_pb_column_5">
+          <div class="et_pb_text et_pb_module et_pb_bg_layout_light et_pb_text_align_left et_pb_text_4">
+           <p>
+            I know; custom logo designservices arenot cheap  they shouldnt be. Even a low-end packagewill run you nearly 1,000. Then again, for something that will forever represent the best of your company and what you stand for  it doesnt seem that high, does it?
+           </p>
+           <p>
+            <strong>
+             I want to make you this special offer
+            </strong>
+             Ill create a custom logo design that stands the test of time, and can be used on your website, business cards, stationary, signage, vehicles (and anywhere else you want) to tell the world who you are and why they need you. Well set a fixed price  I dont charge by the hour  and I promise that Ill work hard on your bespoke logo design until itis to your satisfaction. No set revisions, no hourly rates, no squabbling. Just a finished product that youll love and that your customers will positively associate with you.
+           </p>
+           <p>
+           </p>
+           <h3>
+            The sweetest deal youll ever get
+           </h3>
+           <p>
+           </p>
+           <p>
+            Youare about to invest in something that people will instantly identify with your business for a long time to come. You want only the best. Sure, you spend a little money now, but
+            <strong>
+             it is an important investment in your success.
+            </strong>
+           </p>
+          </div>
+         </div>
+        </div>
+       </div>
+       <div class="et_pb_section et_pb_section_1 et_pb_with_background et_section_regular">
+        <div class=" et_pb_row et_pb_row_5">
+         <div class="et_pb_column et_pb_column_1_2 et_pb_column_6">
+          <div class="et_pb_text et_pb_module et_pb_bg_layout_dark et_pb_text_align_left et_pb_text_5">
+           <p>
+            Youre just a single click away from turning a real profitable corner in your business! Fill out the short form below,tell me a bit about yourself and what you want, and your rough budget.
+           </p>
+           <p>
+            <strong>
+             Ill even throw in a 100%free, no obligation 1-hour brand consultation.
+            </strong>
+            Ill analyse your current brand along with your competitors and recommend an effective design that will give you a leg up on them!
+           </p>
+           <p>
+            I want to help everyone, but Iam just one man, so act now to make sure I can set aside time for you!
+            <strong>
+             Invest in me, and youre investing in your business!
+            </strong>
+           </p>
+          </div>
+         </div>
+         <div class="et_pb_column et_pb_column_1_2 et_pb_column_7">
+          <div class="et_pb_text et_pb_module et_pb_bg_layout_dark et_pb_text_align_left et_pb_text_6">
+           <h5>
+            Engage mycustom logo design service, and you get:
+           </h5>
+           <p>
+           </p>
+           <ul>
+            <li>
+             An experienced designer with more than a decade of expertise.
+            </li>
+            <li>
+             Agency-quality work without agency-level overheads.
+            </li>
+            <li>
+             I take a personal interest in your design  it represents me, after all.
+            </li>
+            <li>
+             A dedicated professional who works tirelessly until the job iscomplete.
+            </li>
+            <li>
+             You know the price up front  I work with your budget.
+            </li>
+            <li>
+             No hidden fees, no Oh, by the way No nonsense.
+            </li>
+           </ul>
+          </div>
+         </div>
+        </div>
+       </div>
+       <div class="et_pb_section et_pb_section_2 et_pb_with_background et_section_regular">
+        <div class=" et_pb_row et_pb_row_6">
+         <div class="et_pb_column et_pb_column_1_4 et_pb_column_8">
+          <div class="et_pb_blurb et_pb_module et_pb_bg_layout_light et_pb_text_align_center et_pb_blurb_0 et_pb_blurb_position_top">
+           <div class="et_pb_blurb_content">
+            <div class="et_pb_main_blurb_image">
+             <img alt="Custom Logo Design Services for UK Businesses by Inkbot Design Belfast" class="et-waypoint et_pb_animation_top" data-lazy-src="http://inkbotdesign.com/wp-content/uploads/2014/03/Photography-Logo-Design.png" src="data:image/gif;base64,R0lGODdhAQABAPAAAP///wAAACwAAAAAAQABAEACAkQBADs="/>
+             <noscript>
+              <img alt="Custom Logo Design Services for UK Businesses by Inkbot Design Belfast" class="et-waypoint et_pb_animation_top" src="http://inkbotdesign.com/wp-content/uploads/2014/03/Photography-Logo-Design.png"/>
+             </noscript>
+            </div>
+            <div class="et_pb_blurb_container">
+             <h4>
+              Your business is your brand  your brand is my business
+             </h4>
+             <p>
+             </p>
+             <p style="text-align: center;">
+              They see your custom business logo, they know who you are, they feel what you mean to them!
+             </p>
+            </div>
+           </div>
+          </div>
+         </div>
+         <div class="et_pb_column et_pb_column_1_4 et_pb_column_9">
+          <div class="et_pb_blurb et_pb_module et_pb_bg_layout_light et_pb_text_align_center et_pb_blurb_1 et_pb_blurb_position_top">
+           <div class="et_pb_blurb_content">
+            <div class="et_pb_main_blurb_image">
+             <img alt="Corporate Logo Design Services" class="et-waypoint et_pb_animation_top" data-lazy-src="http://inkbotdesign.com/wp-content/uploads/2014/04/Logo-Redesign-Consulting-Company-UK.png" src="data:image/gif;base64,R0lGODdhAQABAPAAAP///wAAACwAAAAAAQABAEACAkQBADs="/>
+             <noscript>
+              <img alt="Corporate Logo Design Services" class="et-waypoint et_pb_animation_top" src="http://inkbotdesign.com/wp-content/uploads/2014/04/Logo-Redesign-Consulting-Company-UK.png"/>
+             </noscript>
+            </div>
+            <div class="et_pb_blurb_container">
+             <h4>
+              Dont let your competitors win
+             </h4>
+             <p>
+             </p>
+             <p style="text-align: center;">
+              The biggest players in your industry have spent vastsums on their brand  now you have achance to stand on equal ground and even beat them without having to break the bank!
+             </p>
+            </div>
+           </div>
+          </div>
+         </div>
+         <div class="et_pb_column et_pb_column_1_4 et_pb_column_10">
+          <div class="et_pb_blurb et_pb_module et_pb_bg_layout_light et_pb_text_align_center et_pb_blurb_2 et_pb_blurb_position_top">
+           <div class="et_pb_blurb_content">
+            <div class="et_pb_main_blurb_image">
+             <img alt="Custom Business Logos Created by Inkbot Design" class="et-waypoint et_pb_animation_top" data-lazy-src="http://inkbotdesign.com/wp-content/uploads/2014/03/Tree-Logo-Design.png" src="data:image/gif;base64,R0lGODdhAQABAPAAAP///wAAACwAAAAAAQABAEACAkQBADs="/>
+             <noscript>
+              <img alt="Custom Business Logos Created by Inkbot Design" class="et-waypoint et_pb_animation_top" src="http://inkbotdesign.com/wp-content/uploads/2014/03/Tree-Logo-Design.png"/>
+             </noscript>
+            </div>
+            <div class="et_pb_blurb_container">
+             <h4>
+              Are you the next Coca-Cola?
+             </h4>
+             <p style="text-align: center;">
+              Sometimes all it takes is the right image  are you ready to use your custom company logo design to become number one in your field?
+             </p>
+            </div>
+           </div>
+          </div>
+         </div>
+         <div class="et_pb_column et_pb_column_1_4 et_pb_column_11">
+          <div class="et_pb_blurb et_pb_module et_pb_bg_layout_light et_pb_text_align_center et_pb_blurb_3 et_pb_blurb_position_top">
+           <div class="et_pb_blurb_content">
+            <div class="et_pb_main_blurb_image">
+             <img alt="Expert Company Logo Design Services" class="et-waypoint et_pb_animation_top" data-lazy-src="http://inkbotdesign.com/wp-content/uploads/2014/03/Helix-Logo-Design.png" src="data:image/gif;base64,R0lGODdhAQABAPAAAP///wAAACwAAAAAAQABAEACAkQBADs="/>
+             <noscript>
+              <img alt="Expert Company Logo Design Services" class="et-waypoint et_pb_animation_top" src="http://inkbotdesign.com/wp-content/uploads/2014/03/Helix-Logo-Design.png"/>
+             </noscript>
+            </div>
+            <div class="et_pb_blurb_container">
+             <h4>
+              T.O.M.A.  Top of mind awareness through branding!
+             </h4>
+             <p style="text-align: center;">
+              When you think of fast food burgers, what pops into your mind? Probably the golden arches, right? That is what branding experts call T.O.M.A. It starts with a quality logo design  it starts right now!
+             </p>
+            </div>
+           </div>
+          </div>
+         </div>
+        </div>
+        <div class=" et_pb_row et_pb_row_7">
+         <div class="et_pb_column et_pb_column_4_4 et_pb_column_12">
+          <hr class="et_pb_module et_pb_space et_pb_divider et_pb_divider_0 et_pb_divider_position_ et-hide-mobile"/>
+         </div>
+        </div>
+        <div class=" et_pb_row et_pb_row_8">
+         <div class="et_pb_column et_pb_column_4_4 et_pb_column_13">
+          <div class="et_pb_text et_pb_module et_pb_bg_layout_light et_pb_text_align_center et_pb_text_7">
+           <h3 style="text-align: center;">
+            You should give a confident YES to these threequestions:
+           </h3>
+           <p>
+           </p>
+           <p style="text-align: center;">
+            Would your customers agree that your companys logo design
+            <em>
+             truly
+            </em>
+            represents the best about your business?
+           </p>
+           <p style="text-align: center;">
+            When a prospective buyer sees your logo, do they get even a reasonable sense of what is unique about you?
+           </p>
+           <p style="text-align: center;">
+            Does your logo truly stick out in the minds of those you want to buy what youare selling?
+           </p>
+          </div>
+         </div>
+        </div>
+       </div>
+       <div class="et_pb_section et_pb_section_3 et_pb_with_background et_section_regular">
+        <div class=" et_pb_row et_pb_row_9">
+         <div class="et_pb_column et_pb_column_1_2 et_pb_column_14">
+          <div class="et_pb_testimonial et_pb_testimonial_0 et_pb_icon_off et_pb_module et_pb_bg_layout_light et_pb_text_align_left clearfix" style="background-color: #ffffff;">
+           <div class="et_pb_testimonial_portrait" style="background-image: url(http://inkbotdesign.com/wp-content/uploads/2011/11/Logo-Design-Client-Testimonial.jpg);">
+           </div>
+           <div class="et_pb_testimonial_description">
+            <div class="et_pb_testimonial_description_inner">
+             <p>
+              I approached Stuart to design the logo based on the strength of his portfolio and the glowing recommendations he has received.
+             </p>
+             <p>
+              Im so glad Stuart was able to help, as he has done a fantastic job which reflected the intricacies of the brief. He was always available to answer questions and provided a very professional service. I was delighted with the initial concepts Stuart put forward and the final logo we settled upon required very little adaptation, which is a testament to his skill.
+             </p>
+             <p>
+              I would recommend Stuart to anyone serious about their branding needs.
+             </p>
+             <strong class="et_pb_testimonial_author">
+              Keir Aubrey
+             </strong>
+             <p class="et_pb_testimonial_meta">
+              Business Owner, Aubrey &amp; Brummell
+             </p>
+            </div>
+           </div>
+          </div>
+          <div class="et_pb_testimonial et_pb_testimonial_1 et_pb_icon_off et_pb_module et_pb_bg_layout_light et_pb_text_align_left clearfix" style="background-color: #ffffff;">
+           <div class="et_pb_testimonial_portrait" style="background-image: url(http://inkbotdesign.com/wp-content/uploads/2011/07/Brian-Deeney-Testimonial-Logo-Design.jpg);">
+           </div>
+           <div class="et_pb_testimonial_description">
+            <div class="et_pb_testimonial_description_inner">
+             <p>
+              Stuart was great to work with, professional and really helpful. The logo he designed for Visit Donegal has helped me create a strong brand identity across the various social media channels. Dependable, insightful, creative  all apply to his work. Highly recommended.
+             </p>
+             <p>
+              Do not give it a second thought  hire him.
+             </p>
+             <strong class="et_pb_testimonial_author">
+              Brian Deeney
+             </strong>
+             <p class="et_pb_testimonial_meta">
+              Business Owner, VisitDonegal
+             </p>
+            </div>
+           </div>
+          </div>
+         </div>
+         <div class="et_pb_column et_pb_column_1_2 et_pb_column_15">
+          <div class="et_pb_text et_pb_module et_pb_bg_layout_light et_pb_text_align_left et_pb_text_8">
+           <h4>
+            How muchdoes my custom logo design service cost?
+           </h4>
+           <p>
+           </p>
+           <p>
+            You can find people to create a logo for between50-99. Of course, you get what you pay for. When you settle for a bargain basement designer, it is doubtful that you will be working with a professional logo designer who has the skill to translate what makes your brand tick into a voice that speaks to your audience.
+           </p>
+           <p>
+            Many others will noteven tell you what theywill charge. Theyll first try to rope you in as a client, and then hit you with additional charges for amendments.
+           </p>
+           <p>
+            Inkbot Design is different. Ibelieve in transparency. I amup-frontin discussing how much youll be spending, and what youll be getting for your investment.
+           </p>
+           <p>
+            Mycustom logo design servicesstart at around 800  1,000. That price is set deliberately low, to accommodate start-ups, sole traders and small companies. Ive worked with a wide range of start-up companies, and understand how to help them succeed.
+           </p>
+           <p>
+            Have a look at my
+            <a href="http://inkbotdesign.com/portfolio/" title="Logo Design Portfolio">
+             Graphic Design Portfolio
+            </a>
+            to see just some of the companies Inkbot Design hashelped.
+           </p>
+           <p>
+            Intricate projects thatinvolve extensive research and design will inevitably cost more, but I dont charge by the hour. Ill give you a fixed price quote and stick with it. Inkbot Design provides a range of custom design packages to suit all price ranges. Learn more about my
+            <a href="http://inkbotdesign.com/logo-design-cost/" title="How much does Logo Design cost?">
+             logo design prices
+            </a>
+            and the actual
+            <a href="http://inkbotdesign.com/logo-design-process/" title="Logo Design Process">
+             process of designing a logo.
+            </a>
+           </p>
+           <p>
+            If youare a company thats just developing a
+            <a href="http://en.wikipedia.org/wiki/Brand" target="_blank" title="Brand Identity">
+             brand identity
+            </a>
+            , my brand design services take the process a step further. I will help you identify your most important message and work with you to find the best ways to convey that message to your customers. You can click here to learn more about
+            <a href="http://inkbotdesign.com/services/brand-identity/" title="Brand Identity">
+             Brand Design Services
+            </a>
+            .
+           </p>
+           <p>
+           </p>
+           <p>
+           </p>
+          </div>
+         </div>
+        </div>
+       </div>
+       <div class="et_pb_section et_pb_fullwidth_section et_pb_section_4 et_pb_with_background et_section_regular">
+        <div class="et_pb_module et_pb_slider et_pb_fullwidth_slider_0">
+         <div class="et_pb_slides">
+          <div class="et_pb_slide et_pb_bg_layout_dark et_pb_media_alignment_center et_pb_slide_9" style="background-color:#0274be;">
+           <div class="et_pb_container clearfix">
+            <div class="et_pb_slide_description">
+             <h2>
+              <a href="http://inkbotdesign.com/contact/request-a-quote/">
+               Ready to improve your business with a custom logo design?
+              </a>
+             </h2>
+             <div class="et_pb_slide_content">
+             </div>
+             <a class="et_pb_more_button et_pb_button" href="http://inkbotdesign.com/contact/request-a-quote/">
+              Get your free quote now!
+             </a>
+            </div>
+           </div>
+          </div>
+         </div>
+        </div>
+       </div>
+      </div>
+     </article>
+    </div>
+    <footer id="main-footer">
+     <div id="footer-bottom">
+      <div class="container clearfix">
+       <ul id="et-social-icons">
+        <li class="et-social-icon et-social-facebook">
+         <a href="http://facebook.com/inkbotdesign">
+          <span>
+           Facebook
+          </span>
+         </a>
+        </li>
+        <li class="et-social-icon et-social-twitter">
+         <a href="http://twitter.com/inkbotdesign">
+          <span>
+           Twitter
+          </span>
+         </a>
+        </li>
+        <li class="et-social-icon et-social-google">
+         <a href="https://plus.google.com/+Inkbotdesign">
+          <span>
+           Google
+          </span>
+         </a>
+        </li>
+        <li class="et-social-icon et-social-rss">
+         <a href="http://feedpress.me/inkbotdesign">
+          <span>
+           RSS
+          </span>
+         </a>
+        </li>
+       </ul>
+       <p id="footer-info">
+         2015
+        <a href="http://inkbotdesign.com" title="Inkbot Design">
+         Inkbot Design
+        </a>
+       </p>
+      </div>
+     </div>
+    </footer>
+    <style id="et-builder-advanced-style" type="text/css">
+     .et_pb_testimonial_1.et_pb_testimonial{background-color:#fff !important}.et_pb_section_4{background-color:#0274be}.et_pb_testimonial_0.et_pb_testimonial{background-color:#fff !important}.et_pb_section_3{background-color:#f9f9f9}.et_pb_section_2{background-color:#fff}.et_pb_divider_0:before{border-top-color:#f9f9f9;border-top-style:;border-top-width:px}.et_pb_section_1{background-color:#0274be}
+    </style>
+    <script>
+     (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','//www.google-analytics.com/analytics.js','ga');ga('create','UA-22424171-9','inkbotdesign.com');ga('require','displayfeatures');ga('send','pageview');
+    </script>
+    <script type="text/javascript">
+     var wc_add_to_cart_params={"ajax_url":"\/wp-admin\/admin-ajax.php","i18n_view_cart":"View Cart","cart_url":"http:\/\/inkbotdesign.com\/cart\/","is_cart":"","cart_redirect_after_add":"yes"};
+    </script>
+    <script type="text/javascript">
+     var woocommerce_params={"ajax_url":"\/wp-admin\/admin-ajax.php"};
+    </script>
+    <script type="text/javascript">
+     var wc_cart_fragments_params={"ajax_url":"\/wp-admin\/admin-ajax.php","fragment_name":"wc_fragments"};
+    </script>
+    <script type="text/javascript">
+     var viewsCacheL10n={"admin_ajax_url":"http:\/\/inkbotdesign.com\/wp-admin\/admin-ajax.php","post_id":"2121","is_singular":"1"};
+    </script>
+    <script type="text/javascript">
+     var et_custom={"ajaxurl":"http:\/\/inkbotdesign.com\/wp-admin\/admin-ajax.php","images_uri":"http:\/\/inkbotdesign.com\/wp-content\/themes\/Divi\/images","builder_images_uri":"http:\/\/inkbotdesign.com\/wp-content\/themes\/Divi\/includes\/builder\/images","et_load_nonce":"f0578eab7f","subscription_failed":"Please, check the fields below to make sure you entered the correct information.","fill":"Fill","field":"field","invalid":"Invalid email","captcha":"Captcha","prev":"Prev","previous":"Previous","next":"Next"};
+    </script>
+    <script data-minify="1" src="http://inkbotdesign.com/wp-content/cache/min/1/b5690ff86890d85368a9999e1f22b177.js">
+    </script>
+    <script data-minify="1" src="http://inkbotdesign.com/wp-content/cache/min/1/cbb3e50ec5af6f12d927cc22f0f49138.js">
+    </script>
+    <script data-minify="1" src="http://inkbotdesign.com/wp-content/cache/min/1/59da0080e7664c43a5ce0354bb3702e2.js">
+    </script>
+    <script data-minify="1" src="http://inkbotdesign.com/wp-content/cache/min/1/e7994aa0265643f8f5941f786517dd0b.js">
+    </script>
+    <script data-minify="1" src="http://inkbotdesign.com/wp-content/cache/min/1/ac3744621ad276ef228455d61ea1d25e.js">
+    </script>
+   </div>
+  </div>
+ </body>
+</html>
+<!-- This website is like a Rocket, isn't it ? Performance optimized by WP Rocket. Learn more: http://wp-rocket.me - Debug: cached@1435159219 -->
