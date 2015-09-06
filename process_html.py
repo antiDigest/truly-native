@@ -1,9 +1,14 @@
 from bs4 import BeautifulSoup as bs
-import os, sys, logging, string, glob
+import os
+import sys
+import logging
+import string
+import glob
 import cssutils as cu
 import json
 
-ferr = open("errors_in_scraping.log","w")
+ferr = open("errors_in_scraping.log", "w")
+
 
 def parse_page(in_file, urlid):
     """ parameters:
@@ -12,14 +17,15 @@ def parse_page(in_file, urlid):
     page = open(in_file, 'r')
     soup = bs(page)
     doc = {
-            "id": urlid, 
-            "text":parse_text(soup),
-            "title":parse_title(soup ),
-            "links":parse_links(soup),
-            "images":parse_images(soup),
-           }
+        "id": urlid,
+        "text": parse_text(soup),
+        "title": parse_title(soup),
+        "links": parse_links(soup),
+        "images": parse_images(soup),
+    }
 
     return doc
+
 
 def parse_text(soup):
     """ parameters:
@@ -32,11 +38,12 @@ def parse_text(soup):
 
     for text in soup.find_all('p'):
         try:
-            textdata.append(text.text.encode('ascii','ignore').strip())
+            textdata.append(text.text.encode('ascii', 'ignore').strip())
         except Exception:
             continue
 
-    return filter(None,textdata)
+    return filter(None, textdata)
+
 
 def parse_title(soup):
     """ parameters:
@@ -47,11 +54,12 @@ def parse_title(soup):
     title = ['']
 
     try:
-        title.append(soup.title.string.encode('ascii','ignore').strip())
+        title.append(soup.title.string.encode('ascii', 'ignore').strip())
     except Exception:
         return title
 
-    return filter(None,title)
+    return filter(None, title)
+
 
 def parse_links(soup):
     """ parameters:
@@ -65,11 +73,11 @@ def parse_links(soup):
 
     for link in soup.find_all('a'):
         try:
-            linkdata.append(str(link.get('href').encode('ascii','ignore')))
+            linkdata.append(str(link.get('href').encode('ascii', 'ignore')))
         except Exception:
             continue
 
-    return filter(None,linkdata)
+    return filter(None, linkdata)
 
 
 def parse_images(soup):
@@ -81,11 +89,11 @@ def parse_images(soup):
 
     for image in soup.findAll("img"):
         try:
-            imagesdata.append("%(src)s"%image)
+            imagesdata.append("%(src)s" % image)
         except Exception:
             continue
 
-    return filter(None,imagesdata)
+    return filter(None, imagesdata)
 
 
 def main(argv):
@@ -110,7 +118,7 @@ def main(argv):
         outputDirectory = argv[2]
 
         if not os.path.exists(inFolder):
-            print inFolder," does not exist"
+            print inFolder, " does not exist"
             return
 
         if not os.path.exists(outputDirectory):
@@ -119,7 +127,7 @@ def main(argv):
         cu.log.setLevel(logging.CRITICAL)
         json_array, last_bucket = [], str(0)
 
-        fIn = glob.glob( inFolder + '/*/*raw*')
+        fIn = glob.glob(inFolder + '/*/*raw*')
 
         for idx, filename in enumerate(fIn):
 
@@ -130,9 +138,10 @@ def main(argv):
             urlId = filenameDetails[-1].split('_')[0]
             bucket = filenameDetails[-2]
 
-            if bucket != last_bucket or filename==fIn[-1]:            
+            if bucket != last_bucket or filename == fIn[-1]:
                 print 'SAVING BUCKET %s' % last_bucket
-                out_file = os.path.join(outputDirectory, 'chunk' + last_bucket + '.json')
+                out_file = os.path.join(
+                    outputDirectory, 'chunk' + last_bucket + '.json')
 
                 with open(out_file, mode='w') as feedsjson:
                     for entry in json_array:
@@ -140,19 +149,19 @@ def main(argv):
                         feedsjson.write('\n')
 
                 feedsjson.close()
-                json_array = []  
-                last_bucket = bucket 
+                json_array = []
+                last_bucket = bucket
 
             try:
                 doc = parse_page(filename, urlId)
             except Exception as e:
-                ferr.write("parse error with reason : "+str(e)+" on page "+urlId+"\n")
+                ferr.write(
+                    "parse error with reason : "+str(e)+" on page "+urlId+"\n")
                 continue
 
             json_array.append(doc)
-            
-           
+
     print "Scraping completed .. There may be errors .. check log at errors_in_scraping.log"
 
 if __name__ == "__main__":
-   main(sys.argv)
+    main(sys.argv)
