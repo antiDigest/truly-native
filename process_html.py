@@ -76,7 +76,7 @@ def parse_links(soup):
             linkdata.append(str(link.get('href').encode('ascii', 'ignore')))
         except Exception:
             continue
-
+    print filter(None, linkdata)
     return filter(None, linkdata)
 
 
@@ -126,8 +126,9 @@ def main(argv):
 
         for idx, filename in enumerate(fIn):
 
-            if idx % 10000 == 0:
+            if idx % 10 == 0:
                 print "Processed %d HTML files" % idx
+                # break
 
             filenameDetails = filename.split("/")
             urlId = filenameDetails[-1].split('_')[0]
@@ -140,7 +141,7 @@ def main(argv):
 
                 with open(out_file, mode='w') as feedsjson:
                     for entry in json_array:
-                        json.dump(entry, feedsjson)
+                        json.dump(entry, feedsjson, indent=4)
                         feedsjson.write('\n')
 
                 feedsjson.close()
