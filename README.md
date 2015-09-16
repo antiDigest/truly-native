@@ -9,6 +9,6 @@ processes the html to extract the core content, links, and urls for images.
 
 is an intentionally modest baseline script which extracts some basic features and changes
 
-##TODO
+##Research Related
 
-* Run these two scripts on all the data and see what the output is
+http://www.msr-waypoint.com/pubs/68149/staticrank.pdf
