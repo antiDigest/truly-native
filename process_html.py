@@ -128,7 +128,6 @@ def main(argv):
 
             if idx % 10 == 0:
                 print "Processed %d HTML files" % idx
-                break
 
             filenameDetails = filename.split("/")
             urlId = filenameDetails[-1].split('_')[0]
@@ -141,7 +140,7 @@ def main(argv):
 
                 with open(out_file, mode='w') as feedsjson:
                     for entry in json_array:
-                        json.dump(entry, feedsjson)
+                        json.dump(entry, feedsjson, indent=4)
                         feedsjson.write('\n')
 
                 feedsjson.close()
